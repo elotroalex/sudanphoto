@@ -14,6 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "ارشيف الصور السوداني"
+title {
+  font-size:24px
+  }
 email: sudanhistoricalphotoarchive.history@uofk.edu
 description: > # this means to ignore newlines until "baseurl:"
   The welcome page for the Sudan Photo Archive. This section will 

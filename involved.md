@@ -4,4 +4,4 @@ title: "get involved"
 permalink: /get-involved/
 ---
 
-Insert text here.
+Insert text here!

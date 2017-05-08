@@ -1,6 +1,10 @@
 /**
  * Site header
  */
+.ar{text-align: right;}
+
+.site-title.ar{float:right;}
+
 .site-header {
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
@@ -23,6 +27,7 @@
         color: $grey-color-dark;
     }
 }
+
 
 .site-nav {
     float: right;
@@ -207,6 +212,7 @@
     font-size: 42px;
     letter-spacing: -1px;
     line-height: 1;
+
 
     @include media-query($on-laptop) {
         font-size: 36px;

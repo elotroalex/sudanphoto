@@ -5,6 +5,8 @@
 
 .site-title.ar{float:right;}
 
+body.ar{font-size: 120% ;}
+
 .site-header {
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
@@ -218,6 +220,7 @@
         font-size: 36px;
     }
 }
+
 
 .post-content {
     margin-bottom: $spacing-unit;

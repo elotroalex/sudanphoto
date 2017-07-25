@@ -1,4 +1,4 @@
-<header class="site-header">
+<header class="site-header {{page.lang}}">
 
   <div class="wrapper">
 
@@ -14,9 +14,12 @@
       </a>
 
       <div class="trigger">
-      {% assign pages=site.pages | where:"lang", page.lang %}
+      {% assign pages=site.pages | where:"lang", page.lang | sort:"order" %}
       {% for my_page in pages %}
           {% if my_page.title %}
+          {% for node in sorted_pages %}
+      <li><a href="{{node.url}}">{{node.title}}</a></li>
+    {% endfor %}    
           <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
           {% endif %}
         {% endfor %}
@@ -33,6 +36,4 @@
   {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
   {% for page in pages %} <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a> {% endfor %}
 
-  {% assign pages=site.index | where:"ref", index.ref | sort: 'lang' %}
-  {% for page in pages %} <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a> {% endfor %}
 </div>

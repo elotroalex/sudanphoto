@@ -4,6 +4,7 @@ title: "Donate Photographs"
 permalink: /donate/
 lang: en
 ref: donate photographs
+order: 3
 ---
 
 Those interested in donating images to the archive should contact us either online at --------- or via Whatsapp at --------. We will respond promptly and set up an appointment to meet and discuss the photographs to be donated.

@@ -1,18 +1,18 @@
-<footer class="site-footer">
+<footer class="site-footer {{page.lang}}">
 
   <div class="wrapper">
 
-   <h2 class="footer-heading">{{ site.title[page.lang] }}</h2>
+   <h2 class="footer-heading {{page.lang}}">{{ site.title[page.lang] }}</h2>
 
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
+    <div class="footer-col-wrapper {{page.lang}}">
+      <div class="footer-col footer-col-1 {{page.lang}}">
         <ul class="contact-list">
             <li>{{ site.title[page.lang] }}</li>
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
         </ul>
       </div>
 
-      <div class="footer-col footer-col-2">
+      <div class="footer-col footer-col-2 {{page.lang}}">
         <ul class="social-media-list">
           {% if site.github_username %}
           <li>
@@ -28,7 +28,7 @@
         </ul>
       </div>
 
-      <div class="footer-col footer-col-3">
+      <div class="footer-col footer-col-3 {{page.lang}}">
         <p>{{ site.description[page.lang] }}</p>
       </div>
     </div>

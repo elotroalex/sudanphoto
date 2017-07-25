@@ -31,7 +31,7 @@ body.ar{font-size: 120%;}
 }
 
 
-.site-nav {
+.site-nav.en {
     float: right;
     line-height: 56px;
 
@@ -77,6 +77,8 @@ body.ar{font-size: 120%;}
             }
         }
 
+
+
         .trigger {
             clear: both;
             display: none;
@@ -99,7 +101,71 @@ body.ar{font-size: 120%;}
     }
 }
 
+.site-nav.ar {
+    float: left;
+    line-height: 56px;
 
+    .menu-icon {
+        display: none;
+    }
+
+    .page-link {
+        color: $text-color;
+        line-height: $base-line-height;
+        margin-right: 20px;
+    }
+
+    @include media-query($on-palm) {
+        position: absolute;
+        top: 9px;
+        right: $spacing-unit / 2;
+        background-color: $background-color;
+        border: 1px solid $grey-color-light;
+        border-radius: 5px;
+        text-align: right;
+
+        .menu-icon {
+            display: block;
+            float: left;
+            width: 36px;
+            height: 26px;
+            line-height: 0;
+            padding-top: 10px;
+            text-align: center;
+
+            > svg {
+                width: 18px;
+                height: 15px;
+
+                path {
+                    fill: $grey-color-dark;
+                }
+            }
+        }
+
+
+
+        .trigger {
+            clear: both;
+            display: none;
+        }
+
+        &:hover .trigger {
+            display: block;
+            padding-bottom: 5px;
+        }
+
+        .page-link {
+            display: block;
+            padding: 5px 10px;
+
+            &:not(:last-child) {
+                margin-left: 0;
+            }
+            margin-right: 20px;
+        }
+    }
+}
 
 /**
  * Site footer

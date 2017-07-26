@@ -103,6 +103,7 @@
         }
         &.ar {float: left;
           .page-link {
+              font-size:18px;
               line-height: $base-line-height;
 
               &:not(:last-child) {
@@ -189,10 +190,14 @@
 
 .page-content {
     padding: $spacing-unit 0;
+    &.en {font-size: 16px;}
+    &.ar {font-size: 18px;}
 }
 
+
 .page-heading {
-    font-size: 22px;
+    &.en {font-size: 20px;}
+    &.ar {font-size: 22px;}
 }
 
 .post-list {
@@ -231,13 +236,15 @@
     @include media-query($on-laptop) {
         font-size: 36px;
     }
-    &.en {font-size: 20;}
-    &.ar {font-size: 25;}
+    &.en {font-size: 24px;}
+    &.ar {font-size: 27px;}
 }
 
 
 .post-content {
     margin-bottom: $spacing-unit;
+
+
 
     h2 {
         font-size: 32px;

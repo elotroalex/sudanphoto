@@ -114,7 +114,8 @@
 }
 
 a.language-selector{ color: #555;
-  &.en{float: left;}
+  &.en{float: left;
+       font-size: 14px;}
    &.ar{float: right;}
 }
 body.en .language-selector.en{

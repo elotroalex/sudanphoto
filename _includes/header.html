@@ -19,7 +19,7 @@
           {% if my_page.title %}
           {% for node in sorted_pages %}
       <li><a href="{{node.url}}">{{node.title}}</a></li>
-    {% endfor %}    
+    {% endfor %}
           <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
           {% endif %}
         {% endfor %}
@@ -31,9 +31,9 @@
 
 <div class="wrapper" style="text-align: right; line-height: 2em">
   {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
-  {% for post in posts %} <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a> {% endfor %}
+  {% for post in posts %} <a href="{{ post.url }}" class="language-selector {{ post.lang }}">{% if page.lang == "ar" %}العربية{% elsif page.lang == "en" %}English{% endif %}</a> {% endfor %}
 
   {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-  {% for page in pages %} <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a> {% endfor %}
+  {% for page in pages %} <a href="{{ page.url }}" class="language-selector {{ page.lang }}">{% if page.lang == "ar" %}العربية{% elsif page.lang == "en" %}English{% endif %}</a> {% endfor %}
 
 </div>

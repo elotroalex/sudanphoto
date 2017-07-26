@@ -113,6 +113,17 @@
         }
 }
 
+a.language-selector{ color: #555;
+  &.en{float: left;}
+   &.ar{float: right;}
+}
+body.en .language-selector.en{
+  display: none;
+}
+
+body.ar .language-selector.ar{
+  display: none;
+}
 
 /**
  * Site footer

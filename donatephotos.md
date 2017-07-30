@@ -7,7 +7,7 @@ ref: donate photographs
 order: 3
 ---
 
-Those interested in donating images to the archive should contact us either online at --------- or via Whatsapp at --------. We will respond promptly and set up an appointment to meet and discuss the photographs to be donated.
+Those interested in donating images to the archive should contact us either online at <sudanphoto@uofk.edu> or via Whatsapp at +249904698508. We will respond promptly and set up an appointment to meet and discuss the photographs to be donated.
 
 On our first meeting, we will discuss the process of donating photographs and will ask questions to learn about the photographs to be donated, including what time period they come from and the nature of the images that they display. At that meeting, we will answer any additional questions the donors have and discuss the logistics of moving forward.
 

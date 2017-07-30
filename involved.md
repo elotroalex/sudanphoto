@@ -7,7 +7,7 @@ ref: get involved
 order: 4
 ---
 
-Students and photographers interested in getting involved with the historical photography archive should contact us at ----- or via Whatsapp at ------.
+Students and photographers interested in getting involved with the historical photography archive should contact us at <sudanphoto@uofk.edu> or via Whatsapp at +249904698508.
 
 We have a need for students and researchers trained in archival practices. Those with previous experience or interested in acquiring such experience are encouraged to contact us to get involved in volunteering for the archive. We will be arranging workshops for volunteers in the coming months, in which volunteers will learn the procedures for ethical research, as well as the practices for digitization and recording data.
 

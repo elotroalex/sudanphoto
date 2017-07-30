@@ -1,7 +1,7 @@
 /**
  * Site header
  */
-.ar{text-align: right;}
+.ar{direction: rtl;}
 
 .site-header {
     border-top: 0px solid $grey-color-dark;
@@ -166,6 +166,8 @@ body.ar .language-selector.ar{
 .footer-col-2 {
     width: -webkit-calc(35% - (#{$spacing-unit} / 2));
     width:         calc(35% - (#{$spacing-unit} / 2));
+      &.ar{ direction: ltr;
+            text-align: right;}
 }
 
 .footer-col-3 {

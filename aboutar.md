@@ -1,6 +1,7 @@
 ---
 layout: page
 title: حول المشروع
+permalink: /about/ar
 ref: about
 lang: ar
 order: 1

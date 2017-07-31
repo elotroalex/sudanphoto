@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About the Project"
-permalink: /about/
+permalink: /about/en
 lang: en
 ref: about
 order: 1

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "شارك"
-permalink: /get-involved-arabic/
+permalink: /involved/ar
 lang: ar
 ref: get involved
 order: 4

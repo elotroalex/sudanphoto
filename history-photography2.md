@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "تاريخ الفوتوغرافيا السودانية"
-permalink: /hist-photo/ar
+permalink: /hist-photo/ar.html
 lang: ar
 ref: photography in sudan
 order: 2

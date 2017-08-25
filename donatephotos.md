@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Donate Photographs"
-permalink: /donate/en
+permalink: /donate/en.html
 lang: en
 ref: donate photographs
 order: 3

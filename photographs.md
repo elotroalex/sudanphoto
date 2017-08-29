@@ -55,7 +55,6 @@ The photographs below all come from archive collections that can be viewed in fu
 [![SHA-17-005 thumbnail](/thumbnails/SHA-17-005-thumb.jpg)](/photopages/en/SHA-17-005.html)
 [![SHA-16-025 thumbnail](/thumbnails/SHA-16-025-thumb.jpg)](/photopages/en/SHA-16-025.html)
 [![SHA-03-017 thumbnail](/thumbnails/SHA-03-017-thumb.jpg)](/photopages/en/SHA-03-017.html)
-[![SHA-09-015 thumbnail](/thumbnails/SHA-09-015-thumb.jpg)](/photopages/en/SHA-09-015.html)
 [![SHA-13-001 thumbnail](/thumbnails/SHA-13-001-thumb.jpg)](/photopages/en/SHA-13-001.html)
 [![SHA-09-015 thumbnail](/thumbnails/SHA-09-015-thumb.jpg)](/photopages/en/SHA-09-015.html)
 [![SHA-07-001 thumbnail](/thumbnails/SHA-07-001-thumb.jpg)](/photopages/en/SHA-07-001.html)

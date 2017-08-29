@@ -20,7 +20,7 @@ Sudan Historical Photography Archive is overseen by the History Department, Facu
 
 The website is managed and run by the Technology Department of Khartoum, overseen and maintained by:
 
-* Yasir Hassan
+* Eng. Yassir Hassan Elamin
 * Maowia Muhammad Sharif
 * Mashaer Hassan Bakri
 

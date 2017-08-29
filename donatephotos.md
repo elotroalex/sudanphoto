@@ -4,7 +4,7 @@ title: "Donate Photographs"
 permalink: /donate/en.html
 lang: en
 ref: donate photographs
-order: 3
+order: 4
 ---
 
 Those interested in donating images to the archive should contact us either via email at <sudanphoto@uofk.edu> or via Whatsapp at +249904696503. We will respond promptly and set up an appointment to meet and discuss the photographs to be donated.

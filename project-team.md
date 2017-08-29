@@ -1,0 +1,27 @@
+---
+layout: page
+title: "Project Team"
+permalink: /project-team/en.html
+lang: en
+ref: project team
+order: 3
+---
+Sudan Historical Photography Archive is overseen by the History Department, Faculty of Arts at Khartoum University. It is managed and coordinated by a team including:
+
+* Dr. Amel Suliman, Department Chair
+* Professor Fadwa Taha
+* Rebecca Glade
+
+ Others in the department have worked on different aspects of the project, particularly:
+
+* Professor Ibrahim Saghirun
+* Sulafa Mohamed
+* Zahra Gebreel  
+
+ The website is managed and run by the Technology Department of Khartoum, overseen and maintained by:
+ 
+* Yasir
+* Maowia
+* Mashaer
+
+ It was designed with consultation and support from Columbia University Libraries and its Experimental Methods in Digital Humanities Group, particularly from Marii Nyrop, Jonathan Reeve, and Alex Gil.

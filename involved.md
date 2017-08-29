@@ -4,7 +4,7 @@ title: "Get Involved"
 permalink: /involved/en.html
 lang: en
 ref: get involved
-order: 4
+order: 5
 ---
 
 Students and photographers interested in getting involved with the historical photography archive should contact us at <sudanphoto@uofk.edu> or via Whatsapp at +249904696503.

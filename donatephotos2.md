@@ -4,7 +4,7 @@ title: "تبرع بالصور"
 permalink: /donate/ar.html
 lang: ar
 ref: donate photographs
-order: 3
+order: 4
 ---
 على المهتمين بالتبرع بالصور للارشيف الاتصال بنا على البريد الالكتروني <sudanphoto@uofk.edu> ‬ أو على رقم الواتساب ‏‪+249904696503  ‬.
 

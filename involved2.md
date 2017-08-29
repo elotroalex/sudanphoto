@@ -4,7 +4,7 @@ title: "شارك"
 permalink: /involved/ar.html
 lang: ar
 ref: get involved
-order: 4
+order: 5
 ---
 على الطلاب والمصورين المهتمين بالمشاركة في أرشيف الصور التاريخي الاتصال بنا على عنوان البريد الالكتروني ‏‪<sudanphoto@uofk.edu> ‬ أو على رقم الواتساب ‏‪+249904696503‬.
 

@@ -6,7 +6,7 @@ lang: en
 ref: photographs
 order: 6
 ---
-The photographs below all come from archive collections that can be viewed in full in the offices of Khartoum University’s History Department / Faculty of Arts. They have been selected because they show different aspects of Sudanese history, including the beginnings of Khartoum University, activities of Sufi orders, prominent politicians, musicians, and athletes, and daily life from the 1950s and 60s. In the process, they illustrate the diversity of Sudanese life in the period of early independence.
+The photographs below all come from archive collections that can be viewed in full in the offices of Khartoum University’s History Department, Faculty of Arts. They have been selected because they show different aspects of Sudanese history, including the beginnings of Khartoum University, activities of Sufi orders, prominent politicians, musicians, athletes, and daily life from the 1950s and 60s. In the process, they illustrate the diversity of Sudanese life in the period of early independence.
 
 
 
@@ -18,7 +18,6 @@ The photographs below all come from archive collections that can be viewed in fu
 [![NAS-01-002 thumbnail](/thumbnails/NAS-01-002-thumb.jpg)](/photopages/en/NAS-01-002.html)
 [![GAD-01-322 thumbnail](/thumbnails/GAD-01-322-thumb.jpg)](/photopages/en/GAD-01-322.html)
 [![GAD-01-223 thumbnail](/thumbnails/GAD-01-223-thumb.jpg)](/photopages/en/GAD-01-223.html)
-[![GAD-01-123 thumbnail](/thumbnails/GAD-01-123-thumb.jpg)](/photopages/en/GAD-01-123.html)
 [![GAD-01-330 thumbnail](/thumbnails/GAD-01-330-thumb.jpg)](/photopages/en/GAD-01-330.html)
 [![GAD-01-301 thumbnail](/thumbnails/GAD-01-301-thumb.jpg)](/photopages/en/GAD-01-301.html)
 [![GAD-01-300 thumbnail](/thumbnails/GAD-01-300-thumb.jpg)](/photopages/en/GAD-01-300.html)
@@ -47,17 +46,17 @@ The photographs below all come from archive collections that can be viewed in fu
 [![GAD-01-317 thumbnail](/thumbnails/GAD-01-317-thumb.jpg)](/photopages/en/GAD-01-317.html)
 [![GAD-01-047 thumbnail](/thumbnails/GAD-01-047-thumb.jpg)](/photopages/en/GAD-01-047.html)
 [![GAD-01-033 thumbnail](/thumbnails/GAD-01-322-thumb.jpg)](/photopages/en/GAD-01-322.html)
-[![SHE-03-026 thumbnail](/thumbnails/GAD-03-026-thumb.jpg)](/photopages/en/GAD-03-026.html)
-[![SHE-03-073 thumbnail](/thumbnails/GAD-03-073-thumb.jpg)](/photopages/en/GAD-03-073.html)
-[![SHE-03-007 thumbnail](/thumbnails/GAD-03-007-thumb.jpg)](/photopages/en/GAD-03-007.html)
-[![SHE-06-002 thumbnail](/thumbnails/GAD-06-002-thumb.jpg)](/photopages/en/GAD-06-002.html)
-[![SHE-03-032 thumbnail](/thumbnails/GAD-03-032-thumb.jpg)](/photopages/en/GAD-03-032.html)
-[![SHE-08-003 thumbnail](/thumbnails/GAD-08-003-thumb.jpg)](/photopages/en/GAD-08-003.html)
-[![SHE-17-005 thumbnail](/thumbnails/GAD-17-005-thumb.jpg)](/photopages/en/GAD-17-005.html)
-[![SHE-16-025 thumbnail](/thumbnails/GAD-16-025-thumb.jpg)](/photopages/en/GAD-16-025.html)
-[![SHE-03-017 thumbnail](/thumbnails/GAD-03-017-thumb.jpg)](/photopages/en/GAD-03-017.html)
-[![SHE-09-015 thumbnail](/thumbnails/GAD-09-015-thumb.jpg)](/photopages/en/GAD-09-015.html)
-[![SHE-13-001 thumbnail](/thumbnails/GAD-13-001-thumb.jpg)](/photopages/en/GAD-13-001.html)
-[![SHE-09-015 thumbnail](/thumbnails/GAD-09-015-thumb.jpg)](/photopages/en/GAD-09-015.html)
-[![SHE-07-001 thumbnail](/thumbnails/GAD-07-001-thumb.jpg)](/photopages/en/GAD-07-001.html)
-[![SHE-03-036 thumbnail](/thumbnails/GAD-03-036-thumb.jpg)](/photopages/en/GAD-03-036.html)
+[![SHA-03-026 thumbnail](/thumbnails/SHA-03-026-thumb.jpg)](/photopages/en/SHA-03-026.html)
+[![SHA-03-073 thumbnail](/thumbnails/SHA-03-073-thumb.jpg)](/photopages/en/SHA-03-073.html)
+[![SHA-03-007 thumbnail](/thumbnails/SHA-03-007-thumb.jpg)](/photopages/en/SHA-03-007.html)
+[![SHA-06-002 thumbnail](/thumbnails/SHA-06-002-thumb.jpg)](/photopages/en/SHA-06-002.html)
+[![SHA-03-032 thumbnail](/thumbnails/SHA-03-032-thumb.jpg)](/photopages/en/SHA-03-032.html)
+[![SHA-08-003 thumbnail](/thumbnails/SHA-08-003-thumb.jpg)](/photopages/en/SHA-08-003.html)
+[![SHA-17-005 thumbnail](/thumbnails/SHA-17-005-thumb.jpg)](/photopages/en/SHA-17-005.html)
+[![SHA-16-025 thumbnail](/thumbnails/SHA-16-025-thumb.jpg)](/photopages/en/SHA-16-025.html)
+[![SHA-03-017 thumbnail](/thumbnails/SHA-03-017-thumb.jpg)](/photopages/en/SHA-03-017.html)
+[![SHA-09-015 thumbnail](/thumbnails/SHA-09-015-thumb.jpg)](/photopages/en/SHA-09-015.html)
+[![SHA-13-001 thumbnail](/thumbnails/SHA-13-001-thumb.jpg)](/photopages/en/SHA-13-001.html)
+[![SHA-09-015 thumbnail](/thumbnails/SHA-09-015-thumb.jpg)](/photopages/en/SHA-09-015.html)
+[![SHA-07-001 thumbnail](/thumbnails/SHA-07-001-thumb.jpg)](/photopages/en/SHA-07-001.html)
+[![SHA-03-036 thumbnail](/thumbnails/SHA-03-036-thumb.jpg)](/photopages/en/SHA-03-036.html)

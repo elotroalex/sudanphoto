@@ -6,7 +6,7 @@ lang: ar
 ref: photographs
 order: 6
 ---
- هذه الصور المعروضة  هي جزء من المجموعة  الموجودة بأرشيف قسم التاريخ بكلية الأداب بجامعة الخرطوم، وقد تم اختيار هذه الصور لتعبر عن مختلف الاحداث التاريخية ،حيث تتضمن في البدء صور عن بدايات جامعة الخرطوم في فترة ما بعد الاستقلال  ثم نشاطات بعض الطرق الصوفية  وبعض ابرز الشخصيات السياسية والفنانين والرياضيين بالاضافة لعدد من الصور عن حياة السودانيين اليومية في الفترة 1950-1960  لتعكس مدي تطور وتنوع .الحياة في المجتمع السوداني  في بدايات استقلال السودان
+الصور المعروضة في الموقع  هي جزء من المجموعة  الموجودة بأرشيف قسم التاريخ بكلية الأداب بجامعة الخرطوم، وقد تم اختيار هذه الصور لتعبر عن مختلف الاحداث التاريخية ،حيث تتضمن في البدء صور عن بدايات جامعة الخرطوم في فترة ما بعد الاستقلال  ثم نشاطات بعض الطرق الصوفية  وبعض ابرز الشخصيات السياسية والفنانين والرياضيين بالاضافة لعدد من الصور عن حياة السودانيين اليومية في الفترة 1950-1960  لتعكس مدي تطور وتنوع .الحياة في المجتمع السوداني  في بدايات استقلال السودان 
 
 
 
@@ -18,7 +18,6 @@ order: 6
  [![NAS-01-002 thumbnail](/thumbnails/NAS-01-002-thumb.jpg)](/photopages/ar/NAS-01-002.html)
  [![GAD-01-322 thumbnail](/thumbnails/GAD-01-322-thumb.jpg)](/photopages/ar/GAD-01-322.html)
  [![GAD-01-223 thumbnail](/thumbnails/GAD-01-223-thumb.jpg)](/photopages/ar/GAD-01-223.html)
- [![GAD-01-123 thumbnail](/thumbnails/GAD-01-123-thumb.jpg)](/photopages/ar/GAD-01-123.html)
  [![GAD-01-330 thumbnail](/thumbnails/GAD-01-330-thumb.jpg)](/photopages/ar/GAD-01-330.html)
  [![GAD-01-301 thumbnail](/thumbnails/GAD-01-301-thumb.jpg)](/photopages/ar/GAD-01-301.html)
  [![GAD-01-300 thumbnail](/thumbnails/GAD-01-300-thumb.jpg)](/photopages/ar/GAD-01-300.html)
@@ -46,7 +45,7 @@ order: 6
  [![GAD-01-176 thumbnail](/thumbnails/GAD-01-176-thumb.jpg)](/photopages/ar/GAD-01-176.html)
  [![GAD-01-317 thumbnail](/thumbnails/GAD-01-317-thumb.jpg)](/photopages/ar/GAD-01-317.html)
  [![GAD-01-047 thumbnail](/thumbnails/GAD-01-047-thumb.jpg)](/photopages/ar/GAD-01-047.html)
- [![GAD-01-033 thumbnail](/thumbnails/GAD-01-322-thumb.jpg)](/photopages/ar/GAD-01-322.html)
+ [![GAD-01-033 thumbnail](/thumbnails/GAD-01-033-thumb.jpg)](/photopages/ar/GAD-01-033.html)
  [![SHA-03-026 thumbnail](/thumbnails/SHA-03-026-thumb.jpg)](/photopages/ar/SHA-03-026.html)
  [![SHA-03-073 thumbnail](/thumbnails/SHA-03-073-thumb.jpg)](/photopages/ar/SHA-03-073.html)
  [![SHA-03-007 thumbnail](/thumbnails/SHA-03-007-thumb.jpg)](/photopages/ar/SHA-03-007.html)

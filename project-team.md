@@ -18,10 +18,10 @@ Sudan Historical Photography Archive is overseen by the History Department, Facu
 * Sulafa Mohamed
 * Zahra Gebreel  
 
- The website is managed and run by the Technology Department of Khartoum, overseen and maintained by:
- 
-* Yasir
-* Maowia
-* Mashaer
+The website is managed and run by the Technology Department of Khartoum, overseen and maintained by:
 
- It was designed with consultation and support from Columbia University Libraries and its Experimental Methods in Digital Humanities Group, particularly from Marii Nyrop, Jonathan Reeve, and Alex Gil.
+* Yasir Hassan
+* Maowia Muhammad Sharif
+* Mashaer Hassan Bakri
+
+It was designed with consultation and support from Columbia University Libraries and the Experimental Methods in Digital Humanities Group, particularly from Marii Nyrop, Jonathan Reeve, and Alex Gil. 

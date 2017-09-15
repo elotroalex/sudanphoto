@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About the Project"
+title: "About"
 permalink: /about/en.html
 lang: en
 ref: about

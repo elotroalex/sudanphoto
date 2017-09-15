@@ -8,7 +8,7 @@
 # Site settings
 title:
   en: Sudan Historical Photography Archive
-  ar: ارشيف الصور التاريخي السوداني
+  ar: أرشيف الصور التاريخية السودانية
 email: sudanphoto@uofk.edu
 description:
   en: A digital archive of photography of Sudan, run by the history department of Khartoum University.
@@ -17,7 +17,7 @@ index:
   en: index.html
   ar: home2.html
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://sudanphoto.uofk.edu" # the base hostname & protocol for your site
 twitter_username:
 github_username:
 

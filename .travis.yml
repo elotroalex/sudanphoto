@@ -2,7 +2,7 @@ language: ruby
 rvm:
   - 2.4
 script:
-  - bundle exec jekyll build -d _site/sudanphoto
+  - bundle exec jekyll build
   - bundle exec htmlproofer ./_site --only-4xx --check-html --allow_hash_href --assume-extension --alt-ignore '/.*/'
 env:
   global:

@@ -1,29 +1,22 @@
-<footer class="site-footer {{page.lang}}">
-
+<footer class="site-footer">
   <div class="wrapper">
-
-   <h2 class="footer-heading {{page.lang}}">{{ site.title[page.lang] }}</h2>
-
     <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1 {{page.lang}}">
-        <ul class="UofKlogo">
-            <img src="/assets/111.png" align="middle" style="width:70px; height:80px;">
-        </ul>
+      <div class="footer-col footer-col-1" style="width:150px;">
+        <img src="{{ '/assets/111.png' | relative_url }}" style="width:70px; height:80px;"/>
       </div>
 
-      <div class="footer-col footer-col-2 {{page.lang}}">
+      <div class="footer-col footer-col-2">
         <ul class="contact-list">
-            <li>{{ site.title[page.lang] }}</li>
-            <li>+249904696503</li>
+          <li>{{ site.title[page.lang] }}</li>
+          <li>+249904696503</li>
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
         </ul>
       </div>
 
-      <div class="footer-col footer-col-3 {{page.lang}}">
-        <p>{{ site.description[page.lang] }}</p>
+      <div class="footer-col footer-col-3">
+        <p style="font-size:12px;">{{ site.description[page.lang] }}</p>
       </div>
+      
     </div>
-
   </div>
-
 </footer>

@@ -1,0 +1,16 @@
+<table class="photo-grid" style="margin-top:50px;">
+  {% assign count = 0 %}
+  <tr>
+    {% for image in page.images %}
+      {% assign third = count | modulo: 3 %}
+      {% if third == 0 %}
+        </tr>
+        <tr>
+      {% endif %}
+      <td>
+        <a href="/photopages/{{ page.lang }}/{{ image }}"><img src="http://sudanphoto.uofk.edu/thumbnails/{{ image }}-thumb.jpg" alt="{{ image }}-thumb"/></a>
+      </td>
+      {% assign count = count | plus: 1 %}
+    {% endfor %}
+  </tr>
+</table>

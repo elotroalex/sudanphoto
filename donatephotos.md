@@ -3,7 +3,7 @@ layout: page
 title: "Donate Photos"
 permalink: /donate/en.html
 lang: en
-ref: donate photographs
+ref: donate
 order: 4
 ---
 

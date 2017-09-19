@@ -1,9 +1,9 @@
 ---
 layout: page
 title: "شارك"
-permalink: /involved/ar.html
+permalink: /involved/ar
 lang: ar
-ref: get involved
+ref: involved
 order: 5
 ---
 على الطلاب والمصورين المهتمين بالمشاركة في أرشيف الصور التاريخي الاتصال بنا على عنوان البريد الالكتروني ‏.

@@ -5,6 +5,7 @@ permalink: /about/en.html
 lang: en
 ref: about
 order: 1
+menu: true
 ---
 
 

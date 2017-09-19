@@ -4,6 +4,7 @@ title: "Project Team"
 permalink: /team/en
 lang: en
 ref: team
+menu: true
 order: 3
 ---
 Sudan Historical Photography Archive is overseen by the History Department, Faculty of Arts at Khartoum University. It is managed and coordinated by a team including:

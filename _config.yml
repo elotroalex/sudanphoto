@@ -11,8 +11,8 @@ index:
   en: "/"
   ar: /ar
 
-url: "http://sudanphoto.uofk.edu" # the base hostname & protocol for your site
-baseurl: "" # the subpath of your site, e.g. /blog
+url: # "http://sudanphoto.uofk.edu" # the base hostname & protocol for your site
+baseurl: "/sudanphoto" # the subpath of your site, e.g. /blog
 
 email: sudanphoto@uofk.edu
 

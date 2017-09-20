@@ -1,9 +1,10 @@
 ---
 layout: page
 title: "Project Team"
-permalink: /project-team/en.html
+permalink: /team/en
 lang: en
-ref: project team
+ref: team
+menu: true
 order: 3
 ---
 Sudan Historical Photography Archive is overseen by the History Department, Faculty of Arts at Khartoum University. It is managed and coordinated by a team including:
@@ -24,4 +25,4 @@ The website is managed and run by the Technology Department of Khartoum, oversee
 * Maowia Muhammad Sharif
 * Mashaer Hassan Bakri
 
-It was designed with consultation and support from Columbia University Libraries and the Experimental Methods in Digital Humanities Group, particularly from Marii Nyrop, Jonathan Reeve, and Alex Gil. 
+It was designed with consultation and support from Columbia University Libraries and the Experimental Methods in Digital Humanities Group, particularly from Marii Nyrop, Jonathan Reeve, and Alex Gil.

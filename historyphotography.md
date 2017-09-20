@@ -1,10 +1,11 @@
 ---
 layout: page
 title: "Photography in Sudan"
-permalink: /hist-photo/en.html
+permalink: /history-of-phototography/en
 lang: en
-ref: photography in sudan
+ref: history-of-phototography
 order: 2
+menu: true
 ---
 
 Photography came to Sudan initially in the late 1890s, as the British and Egyptian militaries conquered the Mahdiya, with British soldiers documenting their conquests in Sudan for the purpose of distributing information back home. At the same time, this technology was extremely limited and fragile, using large format cameras and glass film. As a result, photographs were largely taken after battles or events rather than in the moment.

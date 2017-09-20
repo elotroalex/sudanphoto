@@ -1,25 +1,21 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
+# Jekyll Configuration
 title:
   en: Sudan Historical Photography Archive
   ar: أرشيف الصور التاريخية السودانية
-email: sudanphoto@uofk.edu
+
 description:
   en: A digital archive of photography of Sudan, run by the history department of Khartoum University.
   ar: ارشيف الصور التاريخي في قسم التاريخ جامعة الخرطوم
+
 index:
-  en: index.html
-  ar: home2.html
+  en: "/"
+  ar: /ar
+
+url: # "http://sudanphoto.uofk.edu" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://sudanphoto.uofk.edu" # the base hostname & protocol for your site
-twitter_username:
-github_username:
+
+email: sudanphoto@uofk.edu
 
 # Build settings
 markdown: kramdown
+theme: minima

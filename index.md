@@ -1,7 +1,7 @@
 ---
 layout: default
 lang: en
-heading: Welcome to the Archive
+heading: Welcome to the Sudan Historical Photography Archive
 ---
 
 ## {{ page.heading }}

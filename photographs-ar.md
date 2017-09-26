@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "الصور"
-permalink: /photos/ar.html
+permalink: /ar/photos.html
 lang: ar
 ref: photos
 order: 6

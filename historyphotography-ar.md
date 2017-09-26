@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "تاريخ الفوتوغرافيا السودانية"
-permalink: /history-of-phototography/ar.html
+permalink: /ar/history-of-phototography.html
 lang: ar
 ref: history-of-phototography
 order: 2

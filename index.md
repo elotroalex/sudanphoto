@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: en
+ref: index
 heading: Welcome to the Sudan Historical Photography Archive
 ---
 

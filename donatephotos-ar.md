@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "تبرع بالصور"
-permalink: /donate/ar.html
+permalink: /ar/donate.html
 lang: ar
 ref: donate
 order: 4

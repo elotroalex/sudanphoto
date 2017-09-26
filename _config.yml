@@ -9,7 +9,7 @@ description:
 
 index:
   en: "/"
-  ar: /ar
+  ar: /ar/index.html
 
 url: # "http://sudanphoto.uofk.edu" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog

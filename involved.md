@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Get Involved"
-permalink: /involved/en
+permalink: /en/involved.html
 lang: en
 ref: involved
 order: 5

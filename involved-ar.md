@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "شارك"
-permalink: /involved/ar
+permalink: /ar/involved.html
 lang: ar
 ref: involved
 order: 5

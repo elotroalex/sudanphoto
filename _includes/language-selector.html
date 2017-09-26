@@ -1,14 +1,14 @@
 {%  if page.layout != "photo-page" %}
   <div class="language-selector">
     {% if page.lang == "en" %}
-      <a href="{{ page.ref | append: '/ar' | relative_url }}">
+      <a href="{{ page.ref | append: '/ar' | relative_url }}.html">
           العربية
       </a>
     {% elsif page.lang == "ar" %}
       {% if page.ref %}
-        <a href="{{ page.ref | append: '/en' | relative_url }}">
+        <a href="{{ page.ref | append: '/en' | relative_url }}.html">
       {% else %}
-        <a href="{{ site.index['en'] | relative_url }}">
+        <a href="{{ site.index['en'] | relative_url }}.html">
       {% endif %}
         English
       </a>
@@ -17,11 +17,11 @@
 {% else %}
   <div class="language-selector">
     {% if page.lang == "en" %}
-      <a href="{{ page.ref | prepend: '/photopages/ar/' | relative_url }}">
+      <a href="{{ page.ref | prepend: '/photopages/ar/' | relative_url }}.html">
           العربية
       </a>
     {% elsif page.lang == "ar" %}
-      <a href="{{ page.ref | prepend: '/photopages/en/' | relative_url }}">
+      <a href="{{ page.ref | prepend: '/photopages/en/' | relative_url }}.html">
         English
       </a>
     {% endif %}

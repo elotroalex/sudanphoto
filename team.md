@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Project Team"
-permalink: /team/en
+permalink: /team/en.html
 lang: en
 ref: team
 menu: true

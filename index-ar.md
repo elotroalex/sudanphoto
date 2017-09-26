@@ -1,7 +1,7 @@
 ---
 layout: default
 lang: ar
-permalink: ar
+permalink: ar.html
 heading: 'مرحبا بكم في أرشيف الصور التاريخية السودانية '
 ---
 

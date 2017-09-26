@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Photography in Sudan"
-permalink: /history-of-phototography/en
+permalink: /history-of-phototography/en.html
 lang: en
 ref: history-of-phototography
 order: 2

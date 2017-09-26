@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Photographs"
-permalink: /photos/en
+permalink: /photos/en.html
 lang: en
 ref: photos
 order: 6

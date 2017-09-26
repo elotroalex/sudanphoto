@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "فريق العمل"
-permalink: /team/ar
+permalink: /team/ar.html
 lang: ar
 ref: team
 menu: true

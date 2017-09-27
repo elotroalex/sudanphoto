@@ -1,29 +1,17 @@
-{%  if page.layout != "photo-page" %}
-  <div class="language-selector">
-    {% if page.lang == "en" %}
-      <a href="{{ page.ref | append: '.html' | prepend: '/ar/' | relative_url }}">
-          العربية
-      </a>
-    {% elsif page.lang == "ar" %}
-      {% if page.ref %}
-        <a href="{{ page.ref | append: '.html' | prepend: '/en/' | relative_url }}">
-      {% else %}
-        <a href="{{ site.index['en'] | relative_url }}">
-      {% endif %}
-        English
-      </a>
-    {% endif %}
-  </div>
-{% else %}
-  <div class="language-selector">
-    {% if page.lang == "en" %}
-      <a href="{{ page.ref | append: '.html' | prepend: '/photopages/ar/' | relative_url }}">
-          العربية
-      </a>
-    {% elsif page.lang == "ar" %}
-      <a href="{{ page.ref | append: '.html' | prepend: '/photopages/en/' | relative_url }}">
-        English
-      </a>
-    {% endif %}
-  </div>
-{% endif %}
+<div class="language-selector">
+  <!-- get opposite lang -->
+  {% if page.lang == 'en' %}{% assign lang_change = 'ar' %}
+  {% else %}{% assign lang_change = 'en' %}{% endif %}
+  <!-- construct link differently for photo pages, index pages, and regular pages -->
+  {% if page.layout == "photo-page" %}
+    <a href="{{ baseurl }}/photopages/{{ lang_change }}/{{ page.ref }}.html">
+  {% elsif page.ref == 'index' %}
+    <a href="{{ site.index[lang_change] | relative_url }}">
+  {% else %}
+    <a href="{{ baseurl }}/{{ lang_change }}/{{ page.ref }}.html">
+  {% endif %}
+  <!-- print language and close link -->
+  {% if lang_change == 'ar' %}العربية
+  {% elsif lang_change == 'en' %}English{% endif %}
+  </a>
+</div>

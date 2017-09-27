@@ -8,11 +8,14 @@ description:
   ar: ارشيف الصور التاريخي في قسم التاريخ جامعة الخرطوم
 
 index:
-  en: "/"
+  en: /
   ar: /ar/index.html
 
-url: # "http://sudanphoto.uofk.edu" # the base hostname & protocol for your site
+url: "" # "http://sudanphoto.uofk.edu" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog
+
+exclude: [ Gemfile*, vendor ]
+include: [ _pages, _photopages ]
 
 email: sudanphoto@uofk.edu
 

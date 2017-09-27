@@ -8,7 +8,7 @@
       {% if page.ref %}
         <a href="{{ page.ref | append: '.html' | prepend: '/en/' | relative_url }}">
       {% else %}
-        <a href="{{ site.index['en'] | relative_url }}.html">
+        <a href="{{ site.index['en'] | relative_url }}">
       {% endif %}
         English
       </a>

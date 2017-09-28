@@ -2,8 +2,9 @@
 @import url('https://fonts.googleapis.com/css?family=PT+Serif:400,700');
 @import url('https://fonts.googleapis.com/css?family=Mada:400,700');
 // Define defaults for each variable.
-$ar-base-font-family: 'Helvetica Neue', Helvetica, Arial, serif !default;
-$base-font-family:    'PT Serif', serif !default;
+
+$ar-base-font-family: 'PT Serif', Helvetica, Arial, sans-serif !default;
+$base-font-family:    'PT Serif', Helvetica, Arial, sans-serif !default;
 $base-font-size:      11px !default;
 $ar-base-font-size:   12px !default;
 $base-font-weight:    400 !default;

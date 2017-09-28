@@ -16,7 +16,8 @@ Sudan Historical Photography Archive is overseen by the History Department, Facu
  Others in the department have worked on different aspects of the project, particularly:
 
 * Professor Ibrahim Saghirun
-* Sulafa Mohamed
+* Dr. Omer Abdullah Hummeida
+* Sulafa Ahmed Mohamed
 * Zahra Gebreel  
 
 The website is managed and run by the Technology Department of Khartoum, overseen and maintained by:

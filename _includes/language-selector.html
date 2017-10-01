@@ -4,11 +4,11 @@
   {% assign other_lang = "en" %}{% assign button_text = "English" %}
 {% endif %}
 
-{% if page.layout == "photo-page" %}
+{% if page.photopage %}
   {% capture lanuage_link %}{{ site.baseurl }}/photopages/{{ other_lang }}/{{ page.ref }}.html{% endcapture %}
-{% elsif page.layout == "default" %}
+{% elsif page.ref == "index" %}
   {% capture lanuage_link %}{{ site.baseurl }}{{ site.index[other_lang] }}{% endcapture %}
-{% elsif page.layout == "page" %}
+{% else %}
   {% capture lanuage_link %}{{ site.baseurl }}/{{ other_lang }}/{{ page.ref }}.html{% endcapture %}
 {% endif %}
 
@@ -19,4 +19,10 @@
 <script>
   console.log("layout: {{ page.layout }}")
   console.log("language-link: {{ lanuage_link }}")
+  {% if page.photopage %}
+  console.log("photopage?: true")
+  {% endif %}
+  {% if page.ref == "index" %}
+  console.log("index?: true")
+  {% endif %}
 </script>

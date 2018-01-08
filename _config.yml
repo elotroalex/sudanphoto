@@ -13,6 +13,7 @@ index:
 
 url: "" # "http://sudanphoto.uofk.edu" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog
+gh-baseurl: "/sudanphoto"
 
 exclude: [ Gemfile*, vendor, Rakefile, README.md, wax_tasks ]
 include: [ _photopages ]

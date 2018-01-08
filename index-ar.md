@@ -1,7 +1,7 @@
 ---
 layout: default
-lang: ar
-ref: index
+language: ar
+pid: index
 permalink: /ar/index.html
 heading: 'مرحبا بكم في أرشيف الصور التاريخية السودانية '
 ---

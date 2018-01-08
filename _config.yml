@@ -14,11 +14,23 @@ index:
 url: "" # "http://sudanphoto.uofk.edu" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog
 
-exclude: [ Gemfile*, vendor ]
-include: [ _pages, _photopages ]
+exclude: [ Gemfile*, vendor, Rakefile, README.md, wax_tasks ]
+include: [ _photopages ]
 
 email: sudanphoto@uofk.edu
 
 # Build settings
 markdown: kramdown
 theme: minima
+
+collections:
+  photos-ar:
+    output: true
+    source: photos-ar.csv
+    directory: photopages/ar
+    layout: photo-page
+  photos-en:
+    output: true
+    source: photos-en.csv
+    directory: photopages/en
+    layout: photo-page

@@ -42,11 +42,15 @@ lunr:
         - pid
         - title
         - rights
+        - description
+        - _date
     - dir: "photopages/ar"
       fields:
         - pid
         - title
         - rights
+        - description
+        - _date
     - dir: "pages"
       fields:
         - title

@@ -1,6 +1,5 @@
-ruby '2.4.2'
 source 'https://rubygems.org'
 gem 'jekyll', '3.7.0'
 gem 'minima', '2.1.1'
 gem 'html-proofer'
-gem 'wax_tasks', :path => 'wax_tasks'
+gem 'wax_tasks', :git => 'https://github.com/mnyrop/wax_tasks.git'

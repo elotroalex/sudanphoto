@@ -1,5 +1,6 @@
-PATH
-  remote: wax_tasks
+GIT
+  remote: https://github.com/mnyrop/wax_tasks.git
+  revision: e9d3a5b84547bb3bd45ad0ccf7c2c16544b77676
   specs:
     wax_tasks (0.0.1.pre)
       colorize (~> 0.8)
@@ -633,9 +634,6 @@ DEPENDENCIES
   jekyll (= 3.7.0)
   minima (= 2.1.1)
   wax_tasks!
-
-RUBY VERSION
-   ruby 2.4.2p198
 
 BUNDLED WITH
    1.16.1

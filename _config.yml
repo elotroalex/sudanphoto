@@ -26,12 +26,27 @@ theme: minima
 
 collections:
   photos-ar:
-    output: true
     source: photos-ar.csv
     directory: photopages/ar
     layout: photo-page
   photos-en:
-    output: true
     source: photos-en.csv
     directory: photopages/en
     layout: photo-page
+
+lunr:
+  content: true
+  meta:
+    - dir: "photopages/en"
+      fields:
+        - pid
+        - title
+        - rights
+    - dir: "photopages/ar"
+      fields:
+        - pid
+        - title
+        - rights
+    - dir: "pages"
+      fields:
+        - title

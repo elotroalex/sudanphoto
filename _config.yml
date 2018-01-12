@@ -11,14 +11,61 @@ index:
   en: /
   ar: /ar/index.html
 
-url: "" # "http://sudanphoto.uofk.edu" # the base hostname & protocol for your site
-baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # "http://sudanphoto.uofk.edu"
+baseurl: ""
+gh-baseurl: "/sudanphoto"
 
-exclude: [ Gemfile*, vendor ]
-include: [ _pages, _photopages ]
+exclude: [ Gemfile*, vendor, Rakefile, README.md, wax_tasks ]
 
 email: sudanphoto@uofk.edu
 
 # Build settings
+permalink: html
 markdown: kramdown
 theme: minima
+
+collections:
+  photos-ar:
+    source: photos-ar.csv
+    directory: photopages/ar
+    layout: photo-page
+  photos-en:
+    source: photos-en.csv
+    directory: photopages/en
+    layout: photo-page
+
+lunr:
+  multi-language: true
+  content: false
+  meta:
+    - dir: "photopages/en"
+      fields:
+        - pid
+        - title
+        - rights
+        - description
+        - collection
+        - _date
+        - on_website
+    - dir: "photopages/ar"
+      fields:
+        - pid
+        - title
+        - rights
+        - description
+        - collection
+        - _date
+        - on_website
+quoll:
+  en:
+    page: en/photos
+    terms:
+      - band
+      - Ethiopia
+      - شرحبيل
+  ar:
+    page: ar/photos
+    terms:
+      - band
+      - Ethiopia
+      - شرحبيل

@@ -3,29 +3,30 @@ layout: default
 ---
 <article class="post">
 
-  <header class="post-header">
-    <h1 class="post-title {{ page.language }}">{{ page.pid }}</h1>
-  </header>
-
   <div class="post-content {{ page.language }}">
+
     {% if page.on_server == 'yes' %}
     <img src="http://sudanphoto.uofk.edu/smallimages/{{ page.pid }}-600.jpg" alt="{{ page.ref }}-small" class="small-photo" style="margin-bottom:50px;"/>
     {% else %}
-    <p>This image is not currently online. You can arrange a visit to view this item in the archive by contacting us either via email at <a href="mailto:sudanphoto@uofk.edu">sudanphoto@uofk.edu</a> or via Whatsapp at +249904696503</p>
+    <div style="background-color:#ddd;padding:20px;margin-top:20px">
+      <p>This image is not currently online. You can arrange a visit to view this item in the archive by contacting us either via email at <a href="mailto:sudanphoto@uofk.edu">sudanphoto@uofk.edu</a> or via Whatsapp at +249904696503</p>
+    </div>
     {% endif %}
     <br>
-    <b>pid:</b> {{ page.pid }}<br>
-    <b>title:</b> {{ page.title }}<br>
-    <b>language:</b> {{ page.language }}<br>
-    <b>rights:</b> {{ page.rights }}<br>
-    <b>location of original:</b> {{ page.location_of_original }}<br>
-    <b>scanned from:</b> {{ page.scanned_from }}<br>
-    <b>date:</b> {{ page._date }}<br>
-    <b>location:</b> {{ page.location }}<br>
-    <b>description:</b> {{ page.description }}<br>
-    <b>permission to display?</b> {{ page.permission_display }}<br>
-    <b>on server?</b> {{ page.on_server }}<br>
-    <b>on website?</b> {{ page.on_website }}<br>
+    <p><b>Description</b></p>
+    <p>{{ page.description }}</p>
+
+    <p>
+      <b>Date</b> {{ page._date }}<br>
+      <b>Location</b> {{ page.location }}<br>
+      <b>Archival ID</b> {{ page.pid }}<br>
+      <b>Collection</b> {{ page.collection }}<br>
+    </p>
+
+    <p><b>Citation information</b></p>
+    <p>
+      {{ page.description }}, {{ page._date }}, {{ page.pid }}, {{ page.collection }} Collection, Sudan Historical Photography Archive, University of Khartoum Department of History, Algamaa Street, Khartoum 11111, Sudan.
+    </p>
   </div>
 
 </article>

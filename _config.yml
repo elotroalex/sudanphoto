@@ -16,11 +16,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 gh-baseurl: "/sudanphoto"
 
 exclude: [ Gemfile*, vendor, Rakefile, README.md, wax_tasks ]
-include: [ _photopages ]
 
 email: sudanphoto@uofk.edu
 
 # Build settings
+permalink: html
 markdown: kramdown
 theme: minima
 
@@ -35,7 +35,7 @@ collections:
     layout: photo-page
 
 lunr:
-  content: true
+  content: false
   meta:
     - dir: "photopages/en"
       fields:
@@ -51,6 +51,3 @@ lunr:
         - rights
         - description
         - _date
-    - dir: "pages"
-      fields:
-        - title

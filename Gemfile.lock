@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/mnyrop/wax_tasks.git
-  revision: e9d3a5b84547bb3bd45ad0ccf7c2c16544b77676
+  revision: 7c805500037de29c8b528ce3729db8fc90dc97a6
   specs:
     wax_tasks (0.0.1.pre)
       colorize (~> 0.8)
@@ -172,10 +172,10 @@ GEM
     aws-sdk-elasticbeanstalk (1.3.0)
       aws-sdk-core (~> 3)
       aws-sigv4 (~> 1.0)
-    aws-sdk-elasticloadbalancing (1.1.0)
+    aws-sdk-elasticloadbalancing (1.2.0)
       aws-sdk-core (~> 3)
       aws-sigv4 (~> 1.0)
-    aws-sdk-elasticloadbalancingv2 (1.6.0)
+    aws-sdk-elasticloadbalancingv2 (1.7.0)
       aws-sdk-core (~> 3)
       aws-sigv4 (~> 1.0)
     aws-sdk-elasticsearchservice (1.3.0)
@@ -316,7 +316,7 @@ GEM
     aws-sdk-pricing (1.0.0)
       aws-sdk-core (~> 3)
       aws-sigv4 (~> 1.0)
-    aws-sdk-rds (1.9.0)
+    aws-sdk-rds (1.10.0)
       aws-sdk-core (~> 3)
       aws-sigv4 (~> 1.0)
     aws-sdk-redshift (1.1.0)

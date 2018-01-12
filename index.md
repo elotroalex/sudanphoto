@@ -2,10 +2,12 @@
 layout: default
 language: en
 pid: index
-heading: Welcome to the Sudan Historical Photography Archive
+title: Welcome to the Sudan Historical Photography Archive
 ---
 
-## {{ page.heading }}
+<img src="{{ site.baseurl }}/assets/cover.png" style="width:100%;margin:20px 0px 20px 0px;"/>
+
+## {{ page.title }}
 
 The Sudan Historical Photography Archive gathers, preserves, and makes available historical photographs of Sudan for researchers and students.
 

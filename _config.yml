@@ -43,11 +43,15 @@ lunr:
         - title
         - rights
         - description
+        - collection
         - _date
+        - on_website
     - dir: "photopages/ar"
       fields:
         - pid
         - title
         - rights
         - description
+        - collection
         - _date
+        - on_website

@@ -1,13 +1,29 @@
 $(document).ready(function() {
   $('input#search').on('keyup', function () {
-    var resultdiv = $('#results');
+
+    var results_div = $('#results');
     var query = $(this).val();
-    var result = index.search(query, {expand: true});
-    resultdiv.empty();
-    for (var item in result) {
-      var ref = result[item].ref;
-      var searchitem = '<div class="result"><b><a href="' + store[ref].link + '">' + store[ref].title + '</a></b><br><p>'  + store[ref].description + ' / ' + store[ref]._date + '</p></div>';
-      resultdiv.append(searchitem);
+    var results = index.search(query, {expand: true});
+
+    results_div.empty();
+
+    for (var item in results) {
+
+      var ref   = results[item].ref;
+      var link  = store[ref].link;
+      var title = store[ref].title;
+      var desc  = store[ref].description;
+      var date  = store[ref]._date;
+      var coll  = store[ref].collection;
+      var meta  = desc + ' / ' + date + ' / ' + coll;
+
+      if (store[ref].on_website == 'yes') {
+        meta = '&#127748; ' + meta;
+        console.log("TRUE " + meta);
+      }
+
+      var result = '<div class="result"><b><a href="' + link + '">' + title + '</a></b><br><p>' + meta +'</p></div>';
+      results_div.append(result);
     }
   });
 });

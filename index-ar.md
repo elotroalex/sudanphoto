@@ -3,10 +3,12 @@ layout: default
 language: ar
 pid: index
 permalink: /ar/index.html
-heading: 'مرحبا بكم في أرشيف الصور التاريخية السودانية '
+title: 'مرحبا بكم في أرشيف الصور التاريخية السودانية '
 ---
 
-## {{ page.heading }}
+<img src="{{ site.baseurl }}/assets/cover.png" style="width:100%;margin:20px 0px 20px 0px;"/>
+
+## {{ page.title }}
 
 يعمل أرشيف الصور التاريخية السودانية على تجميع وحفظ الصور الفوتوغرافية التاريخية للسودان واتاحتها للطلاب والباحثين.
 

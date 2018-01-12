@@ -10,6 +10,11 @@ RSpec.configure do |config|
   $config = YAML.load_file('_config.yml')
   $baseurl = $config['baseurl'].to_s
   $search_tests = $config['quoll']
+  if $config['permalink'] == 'pretty'
+    $perma_ext = "/"
+  else
+    $perma_ext = ".html"
+  end
 
   Capybara.current_driver = :poltergeist
   Capybara.javascript_driver = :poltergeist

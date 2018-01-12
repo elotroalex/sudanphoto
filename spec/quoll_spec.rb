@@ -4,7 +4,7 @@ $search_tests.each do |search|
 
   describe search_page, :type => :feature, :js => true do
     before(:all) do
-      visit($baseurl + "/" + search_page)
+      visit($baseurl + "/" + search_page + $perma_ext)
       @search_bar = find(:css, "#search")
     end
     it "has a search bar." do
@@ -17,7 +17,7 @@ $search_tests.each do |search|
           @result_link = first(".result").first("a")['href']
         end
         after(:all) do
-          visit($baseurl + "/" + search_page)
+          visit($baseurl + "/" + search_page + $perma_ext)
         end
         it "yields at least 1 result" do
           expect(@result_link)

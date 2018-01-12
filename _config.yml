@@ -11,8 +11,8 @@ index:
   en: /
   ar: /ar/index.html
 
-url: "" # "http://sudanphoto.uofk.edu" # the base hostname & protocol for your site
-baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # "http://sudanphoto.uofk.edu"
+baseurl: ""
 gh-baseurl: "/sudanphoto"
 
 exclude: [ Gemfile*, vendor, Rakefile, README.md, wax_tasks ]
@@ -56,3 +56,16 @@ lunr:
         - collection
         - _date
         - on_website
+quoll:
+  en:
+    page: en/photos
+    terms:
+      - band
+      - Ethiopia
+      - شرحبيل
+  ar:
+    page: ar/photos
+    terms:
+      - band
+      - Ethiopia
+      - شرحبيل

@@ -1,5 +1,12 @@
 source 'https://rubygems.org'
 gem 'jekyll', '3.7.0'
 gem 'minima', '2.1.1'
-gem 'html-proofer'
-gem 'wax_tasks',  :git => 'https://github.com/mnyrop/wax_tasks.git'
+
+group :development, :test do
+  gem 'html-proofer'
+  gem 'rspec'
+  gem 'capybara'
+  gem 'poltergeist'
+  gem 'rack-jekyll'
+  gem 'wax_tasks', :git => 'https://github.com/mnyrop/wax_tasks.git'
+end

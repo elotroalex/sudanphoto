@@ -11,8 +11,7 @@ menu: true
 
 {% include search.html %}
 
-{% assign on_website = site.data.photos-en | where: 'on_website', 'yes' %}
-## Online Images: {{ on_website.size }}
+{% assign on_server = site.data.photos-en | where: 'on_server', 'yes' %}
 <table class="photo-grid" style="margin-top:50px;">
   {% assign count = 0 %}
   <tr>
@@ -28,9 +27,3 @@ menu: true
     {% endfor %}
   </tr>
 </table>
-
-
-<!-- {% assign meta_only = site.data.photos-en | where: 'on_server', 'no' %}
-## Metadata only: {{ meta_only.size }}
-
-{% for image in meta_only %}<a href="{{ site.baseurl }}/photopages/en/{{ image.pid }}.html">{{ image.pid }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %} -->

@@ -35,6 +35,7 @@ collections:
     layout: photo-page
 
 lunr:
+  multi-language: true
   content: false
   meta:
     - dir: "photopages/en"

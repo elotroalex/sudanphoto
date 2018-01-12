@@ -1,16 +1,17 @@
 ---
 layout: null
 ---
-var index = elasticlunr(function () {
-this.setRef('lunr_id');
-this.addField('pid'); 
-this.addField('title'); 
-this.addField('rights'); 
-this.addField('description'); 
-this.addField('collection'); 
-this.addField('_date'); 
-this.addField('on_website'); 
-this.saveDocument(false); });
+var index = new elasticlunr.Index;
+index.setRef('lunr_id');
+index.saveDocument(false);
+index.pipeline.remove(elasticlunr.trimmer);
+index.addField('pid'); 
+index.addField('title'); 
+index.addField('rights'); 
+index.addField('description'); 
+index.addField('collection'); 
+index.addField('_date'); 
+index.addField('on_website'); 
 index.addDoc({"lunr_id":0,"link":"{{ site.baseurl }}/photopages/en/SHA-15-001.html","pid":"SHA-15-001","title":"SHA-15-001","rights":"Sharhabil Ahmed","description":"Three people at art exhibition","collection":"Sharhabil Ahmed","_date":"2007","on_website":"no"}); 
 index.addDoc({"lunr_id":1,"link":"{{ site.baseurl }}/photopages/en/SHA-12-007.html","pid":"SHA-12-007","title":"SHA-12-007","rights":"Sharhabil Ahmed","description":"Sharhabil Ahmed and two others in a bus","collection":"Sharhabil Ahmed","_date":"1988","on_website":"no"}); 
 index.addDoc({"lunr_id":2,"link":"{{ site.baseurl }}/photopages/en/SHA-07-001.html","pid":"SHA-07-001","title":"SHA-07-001","rights":"Sharhabil Ahmed","description":"Announcement of Sharhabil Ahmed performance before the Civil Aviation department","collection":"Sharhabil Ahmed","_date":"1977","on_website":"yes"}); 

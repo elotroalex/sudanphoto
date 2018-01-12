@@ -2,7 +2,8 @@ $(document).ready(function() {
   $('input#search').on('keyup', function () {
     var results_div = $('#results');
     var query = $(this).val();
-    var results = index.search(query, {expand: true});
+    console.log(query);
+    var results = index.search(query, {bool: "AND", expand: true});
     var sorted = [];
     for (var r in results){ // loop to sort results with online images to the front
       var ref = results[r].ref;
@@ -19,7 +20,7 @@ $(document).ready(function() {
       var title = item.title;
       var desc  = item.description;
       var date  = item._date;
-      var coll  = item.collection + " Collection";
+      var coll  = item.collection;
       var meta  = desc + ' / ' + date + ' / ' + coll;
       if (item.on_website == 'yes') { meta = '&#127748; ' + meta;} // add image icon if image is online
       var result = '<div class="result"><b><a href="' + link + '">' + title + '</a></b><br><p>' + meta +'</p></div>';

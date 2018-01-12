@@ -1,18 +1,19 @@
 # sudanphoto 🇸🇩 📷
+[![Build Status](https://travis-ci.org/mnyrop/sudanphoto.svg?branch=html-proofer)](https://travis-ci.org/mnyrop/sudanphoto) [![Dependency Status](https://gemnasium.com/badges/github.com/mnyrop/sudanphoto.svg)](https://gemnasium.com/github.com/mnyrop/sudanphoto)
 
 A collaboration between University of Khartoum ([uofk](http://uofk.edu/index.php/en/)) & Columbia University Group for Experimental Methods in the Humanities ([xpmethod](https://github.com/xpmethod)).
 
 ## I. Add data
-1. Clone the repository and change directory into it.<br><br>
-2. Run __$__ `bundle install`<br><br>
-3. Add or replace the metadata file (e.g. `photos.csv`) in the `_data` directory.<br><br>
-4. Run __$__ `bundle exec rake process <filename>`. For the example of `photos.csv`, you would run __$__ `bundle exec rake process photos`.<br><br>
+1. Clone the repository and change directory into it.
+2. Run __$__ `bundle install`
+3. Add or replace the metadata file (e.g. `photos.csv`) in the `_data` directory.
+4. Run __$__ `bundle exec rake process <filename>`. For the example of `photos.csv`, you would run __$__ `bundle exec rake process photos`.
 
 __By running this command, the site will:__
 
-- Split the CSV file into two CSV files sorted by language<br>(e.g. `photos.csv` creates `photos-ar.csv` and `photos-en.csv`)<br><br>
-- Generate Markdown pages from the data<br>(e.g. the data from `photos-ar.csv` will ve used to generate Arabic pages in `photopages/ar/`)<br><br>
-- Regenerate the Elasticlunr index that powers the search functions.<br><br>
+- Split the CSV file into two CSV files sorted by language<br>(e.g. `photos.csv` creates `photos-ar.csv` and `photos-en.csv`)
+- Generate Markdown pages from the data<br>(e.g. the data from `photos-ar.csv` will ve used to generate Arabic pages in `photopages/ar/`)
+- Regenerate the Elasticlunr index that powers the search functions.
 
 ## II. Run tests
 5. Run __$__ `bundle exec rake wax:tests`. This will run the `htmlproofer` tests on the compiled site files as well as the `rspec` tests on the search functions.<br><br>

@@ -8,5 +8,5 @@ group :development, :test do
   gem 'capybara'
   gem 'poltergeist'
   gem 'rack-jekyll'
-  gem 'wax_tasks', :git => 'https://github.com/mnyrop/wax_tasks.git'
+  gem 'wax_tasks'
 end

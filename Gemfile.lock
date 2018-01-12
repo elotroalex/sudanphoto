@@ -1,6 +1,5 @@
-GIT
-  remote: https://github.com/mnyrop/wax_tasks.git
-  revision: 7c805500037de29c8b528ce3729db8fc90dc97a6
+PATH
+  remote: wax_tasks
   specs:
     wax_tasks (0.0.1.pre)
       colorize (~> 0.8)

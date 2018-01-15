@@ -8,5 +8,5 @@ group :development, :test do
   gem 'capybara'
   gem 'poltergeist'
   gem 'rack-jekyll'
-  gem 'wax_tasks'
+  gem 'miniwax_tasks'
 end

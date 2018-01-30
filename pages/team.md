@@ -26,4 +26,4 @@ The website is managed and run by the Technology Department of Khartoum, oversee
 * Maowia Muhammad Sharif
 * Mashaer Hassan Bakri
 
-It was designed with consultation and support from Columbia University Libraries and the Experimental Methods in Digital Humanities Group, particularly from Marii Nyrop, Jonathan Reeve, and Alex Gil.
+It was designed with consultation and support from Columbia University Libraries and the Experimental Methods in Digital Humanities Group, particularly from Marii Nyröp, Jonathan Reeve, and Alex Gil.

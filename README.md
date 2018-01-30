@@ -12,7 +12,7 @@ A collaboration between University of Khartoum ([uofk](http://uofk.edu/index.php
 __By running this command, the site will:__
 
 - Split the CSV file into two CSV files sorted by language<br>(e.g. `photos.csv` creates `photos-ar.csv` and `photos-en.csv`)
-- Generate Markdown pages from the data<br>(e.g. the data from `photos-ar.csv` will ve used to generate Arabic pages in `photopages/ar/`)
+- Generate Markdown pages from the data<br>(e.g. the data from `photos-ar.csv` will be used to generate Arabic pages in `photopages/ar/`)
 - Regenerate the Elasticlunr index that powers the search functions.
 
 ## II. Run tests

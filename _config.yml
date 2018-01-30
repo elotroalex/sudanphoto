@@ -23,39 +23,24 @@ email: sudanphoto@uofk.edu
 permalink: html
 markdown: kramdown
 theme: minima
+lunr_language: true
 
 collections:
   photos-ar:
     source: photos-ar.csv
     directory: photopages/ar
     layout: photo-page
+    lunr_index:
+      content: false
+      fields: [pid, title, rights, description, collection, _date, on_website]
   photos-en:
     source: photos-en.csv
     directory: photopages/en
     layout: photo-page
+    lunr_index:
+      content: false
+      fields: [pid, title, rights, description, collection, _date, on_website]
 
-lunr:
-  multi-language: true
-  content: false
-  meta:
-    - dir: "photopages/en"
-      fields:
-        - pid
-        - title
-        - rights
-        - description
-        - collection
-        - _date
-        - on_website
-    - dir: "photopages/ar"
-      fields:
-        - pid
-        - title
-        - rights
-        - description
-        - collection
-        - _date
-        - on_website
 quoll:
   en:
     page: en/photos

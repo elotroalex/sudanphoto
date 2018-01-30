@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-gem 'jekyll', '3.7.0'
+gem 'jekyll', '3.7.2'
 gem 'minima', '2.1.1'
 
 group :development, :test do
@@ -8,5 +8,5 @@ group :development, :test do
   gem 'capybara'
   gem 'poltergeist'
   gem 'rack-jekyll'
-  gem 'miniwax_tasks'
+  gem 'wax_tasks'
 end

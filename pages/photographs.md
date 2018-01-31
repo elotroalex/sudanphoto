@@ -20,7 +20,7 @@ The photographs below all come from archive collections that can be viewed in fu
       {% if third == 0 %}</tr><tr>{% endif %}
       <td>
         <a href="{{ site.baseurl }}/photopages/en/{{ image.pid }}.html">
-          <img src="http://sudanphoto.uofk.edu/thumbnails/{{ image.pid }}-thumb.jpg" alt="{{ image.pid }}-thumb"/>
+          <img src="http://photos.uofk.edu/thumbnails/{{ image.pid }}-thumb.jpg" alt="{{ image.pid }}-thumb"/>
         </a>
       </td>
       {% assign count = count | plus: 1 %}

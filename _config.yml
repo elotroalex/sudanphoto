@@ -7,6 +7,8 @@ description:
   en: A digital archive of photography of Sudan, run by the history department of Khartoum University.
   ar: ارشيف الصور التاريخي في قسم التاريخ جامعة الخرطوم
 
+email: sudanphoto@uofk.edu
+
 index:
   en: /
   ar: /ar/index.html
@@ -16,9 +18,7 @@ baseurl: ""
 gh-baseurl: "/sudanphoto"
 
 exclude: [ Gemfile*, vendor, Rakefile, README.md, spec, tasks ]
-include: [_archive]
-
-email: sudanphoto@uofk.edu
+include: [ _archive ]
 
 # Build settings
 permalink: html
@@ -31,14 +31,14 @@ collections:
     output: true
     lunr_index:
       content: false
-      fields: [pid, title, rights, description, collection, _date, on_website]
+      fields: [ pid, title, rights, description, collection, _date, on_website ]
   archive/en:
     source: archive-en.csv
     layout: photo-page
     output: true
     lunr_index:
       content: false
-      fields: [pid, title, rights, description, collection, _date, on_website]
+      fields: [ pid, title, rights, description, collection, _date, on_website ]
 
 js:
   jquery:

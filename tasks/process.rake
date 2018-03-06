@@ -5,7 +5,7 @@ task :process do
   argv.each { |a| task a.to_sym do ; end }
   system("bundle exec rake csv_split #{argv.join(' ')}")
   argv2 = []
-  argv.each { |a| argv2 << [a + "/en", a + "/ar"] }
+  argv.each { |a| argv2 << [a + "/en" , a + "/ar"] }
   system("bundle exec rake wax:pagemaster #{argv2.join(' ')}")
   Rake::Task['wax:lunr'].invoke
 end

@@ -6,7 +6,7 @@ A collaboration between University of Khartoum ([uofk](http://uofk.edu/index.php
 ## I. Add data
 1. Clone the repository and change directory into it.
 2. Run __$__ `bundle install`
-3. Add or replace the metadata file (e.g. `photos.csv`) in the `_data` directory.
+3. Add or replace the metadata file (e.g. `archive.csv`) in the `_data` directory.
 4. Run __$__ `bundle exec rake process <filename>`. For the example of `archive.csv`, you would run __$__ `bundle exec rake process archive`.
 
 __By running this command, the site will:__

@@ -15,42 +15,41 @@ url: "" # "http://sudanphoto.uofk.edu"
 baseurl: ""
 gh-baseurl: "/sudanphoto"
 
-exclude: [ Gemfile*, vendor, Rakefile, README.md, wax_tasks ]
+exclude: [ Gemfile*, vendor, Rakefile, README.md, spec, tasks ]
+include: [_archive]
 
 email: sudanphoto@uofk.edu
 
 # Build settings
 permalink: html
-markdown: kramdown
-theme: minima
 lunr_language: true
 
 collections:
-  photos-ar:
-    source: photos-ar.csv
-    directory: photopages/ar
+  archive/ar:
+    source: archive-ar.csv
     layout: photo-page
     lunr_index:
       content: false
       fields: [pid, title, rights, description, collection, _date, on_website]
-  photos-en:
-    source: photos-en.csv
-    directory: photopages/en
+  archive/en:
+    source: archive-en.csv
     layout: photo-page
     lunr_index:
       content: false
       fields: [pid, title, rights, description, collection, _date, on_website]
+
+js:
+  jquery:
+    cdn: "https://code.jquery.com/jquery-3.2.1.min.js"
+    version: 3.2.1
+  elasticlunr:
+    cdn: "https://cdnjs.cloudflare.com/ajax/libs/elasticlunr/0.9.6/elasticlunr.min.js"
+    version: 0.9.6
 
 quoll:
   en:
     page: en/photos
-    terms:
-      - band
-      - Ethiopia
-      - شرحبيل
+    terms: [ "band", "Ethiopia", "شرحبيل" ]
   ar:
     page: ar/photos
-    terms:
-      - band
-      - Ethiopia
-      - شرحبيل
+    terms: [ "band", "Ethiopia", "شرحبيل" ]

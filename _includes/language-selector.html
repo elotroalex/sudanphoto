@@ -2,7 +2,7 @@
 {% else %}{% assign other_lang = "en" %}{% assign button_text = "English" %}{% endif %}
 
 {% if page.layout == 'photo-page' %}
-{% capture lanuage_link %}{{ site.baseurl }}/photopages/{{ other_lang }}/{{ page.pid }}.html{% endcapture %}
+{% capture lanuage_link %}{{ site.baseurl }}/archive/{{ other_lang }}/{{ page.pid }}.html{% endcapture %}
 {% elsif page.pid == "index" %}
 {% capture lanuage_link %}{{ site.baseurl }}{{ site.index[other_lang] }}{% endcapture %}
 {% else %}

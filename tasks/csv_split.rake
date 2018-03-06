@@ -4,13 +4,12 @@ require 'colorized_string'
 
 desc "custom sudanphoto task to split csv by language ('en' or 'ar')"
 task :csv_split do
-  $argv = ARGV.drop(1)
-  $argv.each { |a| task a.to_sym do ; end }
-  if $argv.empty?
-    puts "You must specify one or more csv data sources after 'bundle exec rake wax:csv_split'.".magenta
-    exit 1
+  argv = ARGV.drop(1)
+  argv.each { |a| task a.to_sym do ; end }
+  if argv.empty?
+    abort "You must specify one or more csv data sources after 'bundle exec rake wax:csv_split'.".magenta
   else
-    $argv.each do |a|
+    argv.each do |a|
       name = File.basename( a, ".*" )
       src = "_data/" + name + ".csv"
       data = ingest(src)
@@ -23,24 +22,17 @@ task :csv_split do
 
       write_csv(ar_path,ar_data)
       write_csv(en_path,en_data)
-      # rewrite argv to pass on new csvs to wax:pagemaster
-      $argv = [name+'-ar',name+'-en']
     end
   end
 end
 
 
 def ingest(src)
-  begin
-    data = CSV.read(src, headers: true, encoding: "utf-8").map(&:to_hash)
-    puts ("\nProcessing " + src + "....\n").cyan
-    data.first.keys.each do |key|
-      return data
-    end
-  rescue
-    puts ("Cannot load " + src + ". check for typos and rebuild.").magenta
-    exit 1
-  end
+  data = CSV.read(src, headers: true, encoding: "utf-8").map(&:to_hash)
+  puts "\nProcessing #{src}....\n".cyan
+  data
+rescue
+  abort "Cannot load #{src}. check for typos and rebuild.".magenta
 end
 
 def write_csv(path, data)
@@ -51,8 +43,8 @@ def write_csv(path, data)
         csv << hash.values
       end
     end
-    puts ("Writing csv data to " + path + ".").green
+    puts "Writing csv data to #{path}.".green
   rescue
-    raise ("Cannot write csv data to "+  path + " for some reason.").magenta
+    abort "Cannot write csv data to #{path} for some reason.".magenta
   end
 end

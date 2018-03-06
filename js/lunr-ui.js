@@ -1,8 +1,25 @@
-$(document).ready(function() {
+---
+layout: none
+---
+$.getJSON("{{ site.baseurl }}/js/lunr-index.json", function(index_json) {
+  window.index = new elasticlunr.Index;
+  window.store = index_json;
+  index.saveDocument(false);
+  index.setRef('lunr_id');
+  index.addField('pid');
+  index.addField('title');
+  index.addField('rights');
+  index.addField('description');
+  index.addField('collection');
+  index.addField('_date');
+  index.addField('on_website');
+  // add docs
+  for (i in store) {
+    index.addDoc(store[i]);
+  }
   $('input#search').on('keyup', function () {
     var results_div = $('#results');
     var query = $(this).val();
-    console.log(query);
     var results = index.search(query, {bool: "AND", expand: true});
     var sorted = [];
     for (var r in results){ // loop to sort results with online images to the front

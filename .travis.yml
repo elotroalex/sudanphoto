@@ -1,11 +1,12 @@
+dist: trusty
 sudo: required
 language: ruby
 rvm:
   - 2.4
-  - 2.3
-  - 2.2
 addons:
-  chrome: beta
+  apt:
+    packages:
+      - google-chrome-stable
 script:
   - bundle exec jekyll build
   - bundle exec rake wax:test

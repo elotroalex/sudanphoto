@@ -19,7 +19,7 @@ The photographs below all come from archive collections that can be viewed in fu
       {% assign third = count | modulo: 3 %}
       {% if third == 0 %}</tr><tr>{% endif %}
       <td>
-        <a href="{{ site.baseurl }}/archive/en/{{ image.pid }}.html">
+        <a href="{{ site.baseurl }}/archive/en/{{ image.pid | downcase }}.html">
           <img src="http://photos.uofk.edu/thumbnails/{{ image.pid }}-thumb.jpg" alt="{{ image.pid }}-thumb"/>
         </a>
       </td>

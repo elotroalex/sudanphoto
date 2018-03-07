@@ -6,7 +6,7 @@
 {% elsif page.pid == "index" %}
 {% capture lanuage_link %}{{ site.baseurl }}{{ site.index[other_lang] }}{% endcapture %}
 {% else %}
-{% capture lanuage_link %}{{ site.baseurl }}/{{ other_lang }}/{{ page.pid }}.html{% endcapture %}
+{% capture lanuage_link %}{{ site.baseurl }}/{{ other_lang }}/{{ page.pid | downcase }}.html{% endcapture %}
 {% endif %}
 
 <div class="language-selector"><a href="{{ lanuage_link }}">{{ button_text }}</a></div>

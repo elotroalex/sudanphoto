@@ -11,7 +11,7 @@ The photographs below all come from archive collections that can be viewed in fu
 
 {% include search.html %}
 
-{% assign on_server = site.data.archive-en | where: 'on_server', 'yes' %}
+{% assign on_server = site.data.archive-en | where: 'on_website', 'yes' %}
 <table class="photo-grid" style="margin-top:50px;">
   {% assign count = 0 %}
   <tr>

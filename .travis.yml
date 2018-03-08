@@ -1,5 +1,5 @@
-sudo: required
 language: ruby
+sudo: required
 rvm: 2.4
 addons:
   chrome: stable

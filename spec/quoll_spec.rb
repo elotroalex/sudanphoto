@@ -16,12 +16,12 @@ search_tests.each do |search|
       expect(@search_bar)
     end
     terms.each do |term|
-      describe "when searching the term \"" + term + "\"" do
-        before(:example) do
+      context "when searching the term \"" + term + "\"" do
+        before(:all) do
           @search_bar.set term
           @result_link = first(".result").first("a")['href']
         end
-        after(:example) do
+        after(:all) do
           visit(baseurl + "/" + search_page + perma_ext)
         end
         it "yields at least 1 result" do

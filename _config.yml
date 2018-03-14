@@ -51,9 +51,7 @@ js:
 quoll:
   en:
     page: en/photos
-    terms: [ "band", "Ethiopia", "bashir"]
+    terms: [ "band", "Ethiopia", "شرحبيل" ]
   ar:
     page: ar/photos
-    terms: [ "band", "Ethiopia", "bashir" ]
-
-# شرحبيل
+    terms: [ "band", "Ethiopia", "شرحبيل" ]

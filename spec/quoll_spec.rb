@@ -10,9 +10,11 @@ search_tests.each do |search|
   describe search_page, :type => :feature, :js => true do
     before(:all) do
       visit(baseurl + "/" + search_page + perma_ext)
+      puts URI.parse(current_url)
       @search_bar = find(:css, "#search")
     end
     it "has a search bar." do
+      puts page.body
       expect(@search_bar)
     end
     terms.each do |term|

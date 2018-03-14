@@ -8,8 +8,10 @@ RSpec.configure do |config|
   config.include Capybara::DSL
 
   Capybara.register_driver :headless_chrome do |app|
+    client = Selenium::WebDriver::Remote::Http::Default.new
+    client.read_timeout = 120
     capabilities = Selenium::WebDriver::Remote::Capabilities.chrome(
-      chromeOptions: { 'args' => %w{headless disable-popup-blocking no-sandbox disable-gpu window-size=1400,900} }
+      chromeOptions: { 'args' => %w{headless no-sandbox disable-gpu} }
     )
     Capybara::Selenium::Driver.new(app, browser: :chrome, desired_capabilities: capabilities)
   end

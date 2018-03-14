@@ -1,6 +1,7 @@
 language: ruby
 sudo: required
 rvm: 2.4
+cache: false
 addons:
   chrome: stable
 before_install:

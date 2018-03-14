@@ -2,14 +2,11 @@ require 'rspec'
 require 'selenium/webdriver'
 require 'capybara/dsl'
 require 'rack/jekyll'
-require 'rack/test'
 
 RSpec.configure do |config|
   config.include Capybara::DSL
 
   Capybara.register_driver :headless_chrome do |app|
-    client = Selenium::WebDriver::Remote::Http::Default.new
-    client.read_timeout = 120
     capabilities = Selenium::WebDriver::Remote::Capabilities.chrome(
       chromeOptions: { 'args' => %w{headless no-sandbox disable-gpu} }
     )

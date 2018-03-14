@@ -148,7 +148,6 @@ PLATFORMS
 DEPENDENCIES
   capybara
   chromedriver-helper
-  html-proofer
   jekyll (= 3.7.3)
   minima
   rack-jekyll

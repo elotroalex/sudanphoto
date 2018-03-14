@@ -9,6 +9,7 @@ search_tests.each do |search|
 
   describe search_page, :type => :feature, :js => true do
     before(:all) do
+      puts baseurl + "/" + search_page + perma_ext
       visit(baseurl + "/" + search_page + perma_ext)
       puts URI.parse(current_url)
       @search_bar = find(:css, "#search")

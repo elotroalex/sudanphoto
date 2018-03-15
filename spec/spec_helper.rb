@@ -19,4 +19,13 @@ RSpec.configure do |config|
   Capybara.javascript_driver = :headless_chrome
   Capybara.current_driver = Capybara.javascript_driver
   Capybara.app = Rack::Jekyll.new(:force_build => false)
+
+  class Selenium::WebDriver::Chrome::Service
+    alias_method :original_stop, :stop
+
+    def stop
+      original_stop
+    rescue Net::ReadTimeout
+    end
+  end
 end

@@ -4,9 +4,8 @@ rvm: 2.4
 cache: false
 addons:
   chrome: stable
-before_install:
-  - google-chrome-stable --headless --disable-gpu --remote-debugging-port=9222 http://localhost &
 script:
+  - chromedriver --version
   - bundle exec jekyll build
   - bundle exec rake wax:test
 env:

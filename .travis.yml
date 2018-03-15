@@ -3,11 +3,8 @@ sudo: required
 rvm: 2.4
 addons:
   chrome: stable
-before_install:
-  - sudo apt-get install libxi6 libgconf-2-4
-  - sudo apt-get install chromium-chromedriver
-  - sudo ln -s /usr/lib/chromium-browser/chromedriver /usr/bin/chromedriver
 script:
+  - chromedriver-update 2.36
   - chromedriver --version
   - bundle exec jekyll build
   - bundle exec rake wax:test

@@ -6,7 +6,7 @@ group :development, :test do
   gem 'wax_tasks'
   gem 'rspec'
   gem 'selenium-webdriver'
-  gem 'chromedriver-helper'
+  gem 'geckodriver-helper'
   gem 'capybara'
   gem 'rack-jekyll'
 end

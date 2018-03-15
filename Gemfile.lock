@@ -8,7 +8,7 @@ GEM
       tzinfo (~> 1.1)
     addressable (2.5.2)
       public_suffix (>= 2.0.2, < 4.0)
-    archive-zip (0.11.0)
+    archive-zip (0.7.0)
       io-like (~> 0.3.0)
     capybara (2.18.0)
       addressable
@@ -19,9 +19,6 @@ GEM
       xpath (>= 2.0, < 4.0)
     childprocess (0.9.0)
       ffi (~> 1.0, >= 1.0.11)
-    chromedriver-helper (1.2.0)
-      archive-zip (~> 0.10)
-      nokogiri (~> 1.8)
     colorator (1.1.0)
     colorize (0.8.1)
     concurrent-ruby (1.0.5)
@@ -34,6 +31,8 @@ GEM
     eventmachine (1.2.5)
     ffi (1.9.23)
     forwardable-extended (2.6.0)
+    geckodriver-helper (0.0.4)
+      archive-zip (~> 0.7.0)
     html-proofer (3.8.0)
       activesupport (>= 4.2, < 6.0)
       addressable (~> 2.3)
@@ -147,7 +146,7 @@ PLATFORMS
 
 DEPENDENCIES
   capybara
-  chromedriver-helper
+  geckodriver-helper
   jekyll (= 3.7.3)
   minima
   rack-jekyll

@@ -1,31 +1,23 @@
 require 'rspec'
 require 'selenium/webdriver'
+require 'geckodriver/helper'
 require 'capybara/dsl'
 require 'rack/jekyll'
-require 'chromedriver/helper'
 
 RSpec.configure do |config|
   config.include Capybara::DSL
 
-  Chromedriver.set_version "2.36"
+  Capybara.register_driver :firefox_headless do |app|
+    options = ::Selenium::WebDriver::Firefox::Options.new
+    options.args << '--headless'
 
-  Capybara.register_driver :headless_chrome do |app|
-    capabilities = Selenium::WebDriver::Remote::Capabilities.chrome(
-      chromeOptions: { 'args' => %w{headless disable-gpu} }
-    )
-    Capybara::Selenium::Driver.new(app, browser: :chrome, desired_capabilities: capabilities)
+    Capybara::Selenium::Driver.new(app, browser: :firefox, options: options)
   end
 
-  Capybara.javascript_driver = :headless_chrome
+  Capybara.javascript_driver = :firefox_headless
+
+
   Capybara.current_driver = Capybara.javascript_driver
   Capybara.app = Rack::Jekyll.new(:force_build => false)
 
-  class Selenium::WebDriver::Chrome::Service
-    alias_method :original_stop, :stop
-
-    def stop
-      original_stop
-    rescue Net::ReadTimeout
-    end
-  end
 end

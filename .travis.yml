@@ -4,8 +4,6 @@ rvm: 2.4
 addons:
   chrome: stable
 script:
-  - chromedriver-update 2.36
-  - chromedriver --version
   - bundle exec jekyll build
   - bundle exec rake wax:test
 env:

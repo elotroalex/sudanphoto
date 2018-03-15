@@ -3,6 +3,9 @@ sudo: required
 rvm: 2.4
 addons:
   chrome: stable
+before_script:
+ - sudo chown root /opt/google/chrome/chrome-sandbox
+ - sudo chmod 4755 /opt/google/chrome/chrome-sandbox
 script:
   - bundle exec jekyll build
   - bundle exec rake wax:test

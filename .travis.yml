@@ -1,10 +1,8 @@
 language: ruby
 sudo: required
 rvm: 2.4
-env:
-  - MOZ_HEADLESS=1
 addons:
-  firefox: latest
+  chrome: stable
 script:
   - bundle exec jekyll build
   - bundle exec rake wax:test

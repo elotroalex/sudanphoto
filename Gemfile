@@ -5,6 +5,7 @@ gem 'minima'
 group :development, :test do
   gem 'wax_tasks'
   gem 'rspec'
+  gem 'rspec-retry'
   gem 'selenium-webdriver'
   gem 'chromedriver-helper'
   gem 'capybara'

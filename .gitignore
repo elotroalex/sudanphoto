@@ -4,3 +4,4 @@
 _site
 _data/iiif
 wax_tasks
+Gemfile.lock

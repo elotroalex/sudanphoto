@@ -23,9 +23,9 @@ __By running this command, the site will:__
 
 ## IV. Commit your changes and publish to s3 branch
 7. If all looks good and the tests pass, do the usual `git add`, `git commit`, and `git push`.
-8. Next, run __$__ `bundle exec rake wax:s3branch`. This will push the compiled `_site` to a branch called `s3` that can be used to clone *only the compiled site* onto the actual server.
+8. Next, run __$__ `bundle exec rake wax:push:static`. This will push the compiled `_site` to a branch called `static` that can be used to clone *only the compiled site* onto the actual server.
 
 ## V. Clone s3 branch with static compiled `_site` onto server.
-9. On the production server, clone *only* the `s3` branch by running the command:
+9. On the production server, clone *only* the `static` branch by running the command:
 
-  `$ git clone https://github.com/rmglade/sudanphoto.git -b s3`
+  `$ git clone https://github.com/rmglade/sudanphoto.git -b static`

@@ -9,7 +9,7 @@ order: 3
 ---
 Sudan Historical Photography Archive is overseen by the History Department, Faculty of Arts at Khartoum University. It is managed and coordinated by a team including:
 
-* Dr. Amel Suliman, Department Chair
+* Dr. Amel Suliman, Director of the Archive
 * Professor Fadwa Taha
 * Rebecca Glade
 
@@ -18,12 +18,13 @@ Sudan Historical Photography Archive is overseen by the History Department, Facu
 * Professor Ibrahim Saghirun
 * Dr. Omer Abdullah Hummeida
 * Sulafa Ahmed Mohamed
-* Zahra Gebreel  
+* Riham Siddig Mugtaba
+* Mamoun Mohammed Abelrahim Allig
 
 The website is managed and run by the Technology Department of Khartoum, overseen and maintained by:
 
 * Eng. Yassir Hassan Elamin
-* Maowia Muhammad Sharif
+* Mohammed Ali Mohammed
 * Mashaer Hassan Bakri
 
 It was designed with consultation and support from Columbia University Libraries and the Experimental Methods in Digital Humanities Group, particularly from Marii Nyrop, Jonathan Reeve, and Alex Gil.

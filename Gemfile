@@ -9,6 +9,5 @@ group :development, :test do
   gem 'selenium-webdriver'
   gem 'chromedriver-helper'
   gem 'capybara'
-  gem 'puma'
   gem 'rack-jekyll'
 end

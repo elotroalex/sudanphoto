@@ -16,7 +16,6 @@ index:
 url:        '' # "http://sudanphoto.uofk.edu"
 baseurl:    ''
 gh-baseurl: '/sudanphoto'
-source:     'src'
 
 exclude: [ Gemfile*, vendor, Rakefile, README.md, spec, tasks ]
 include: [ _archive ]

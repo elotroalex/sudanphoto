@@ -3,9 +3,13 @@ sudo: required
 rvm: 2.4
 addons:
   chrome: stable
+branches:
+  except:
+  - static
+  - gh-pages
 script:
+  - bundle exec rake process archive
   - bundle exec jekyll build
   - bundle exec rake wax:test
-branches:
-  only:
-  - master
+after_success:
+  - if [ "$TRAVIS_BRANCH" = "master" -a "$TRAVIS_PULL_REQUEST" = "false" ]; then bundle exec rake wax:push static; fi

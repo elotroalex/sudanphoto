@@ -1,4 +1,3 @@
-
 require 'rspec'
 require 'selenium/webdriver'
 require 'capybara/dsl'

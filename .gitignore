@@ -3,4 +3,6 @@
 .DS_Store
 _site
 _archive
+archive-ar.csv
+archive-en.csv
 wax_tasks

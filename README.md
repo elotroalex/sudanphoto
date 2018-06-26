@@ -8,35 +8,18 @@ A collaboration between University of Khartoum ([uofk](http://uofk.edu/index.php
 ## Contributing
 
 To contribute changes to the site, you will need to:
-- Clone the repository from GitHub
-
-  `$ git clone https://github.com/rmglade/sudanphoto.git`
-- Install the dependencies
-
-  `$ bundle install`
-
-- Serve the site locally
-
-  `$ bundle exec jekyll serve`
-
+- Clone the repository from GitHub `$ git clone https://github.com/rmglade/sudanphoto.git`
+- Install the dependencies `$ bundle install`
+- Serve the site locally `$ bundle exec jekyll serve`
 - Make your changes (see below)
-- Test the site
-
-  `$ bundle exec rake wax:test`
-
-- Push your changes back to GitHub
-
-  `$ git push`
+- Test the site `$ bundle exec rake wax:test`
+- Push your changes back to GitHub `$ git push`
 
 > __Note:__  When adding a substantial amount of content and/or adding a new feature, you should check out a new Git branch with `$ git checkout -b my-branch-name` and use a formal pull request to merge that branch into `master`.
 
 #### Add/edit collection items
 
-To add or edit any collection items, simply replace the `archive.csv` file in the `_data` directory with your updated version. If you would like to see your updates locally before pushing them back to GitHub, just run ...
-
-`$ bundle exec rake process archive`
-
-... before serving the site (with `$ bundle exec jekyll serve`).
+To add or edit any collection items, simply replace the `archive.csv` file in the `_data` directory with your updated version. If you would like to see your updates locally before pushing them back to GitHub, just run `$ bundle exec rake process archive` before serving the site (with `$ bundle exec jekyll serve`).
 
 This `process` task will: split the `archive.csv` file by language, use the data to generate the archive's item pages (both Arabic and English), and regenerate the search index. Travis-CI will run this task for you, so you only need to do this step if you want to see your changes locally.
 
@@ -50,9 +33,7 @@ To add static pages and/or edit the design, make sure you have tested everything
 
 Any commit or successfully merged pull request into the `master` branch will trigger a complete rebuild of the site and will run several tests on [Travis-CI](https://travis-ci.org/rmglade/sudanphoto). If these tests pass, Travis will automatically push a copy of the compiled site to a branch called `static`.
 
-When a new version of master has been built and a new copy of the `static` branch is ready, the UofK web administrator can clone **just the static branch onto the production server** using the command:
-
-`$ git clone https://github.com/rmglade/sudanphoto.git -b static`
+When a new version of master has been built and a new copy of the `static` branch is ready, the UofK web administrator can clone **just the static branch onto the production server** using the command: `$ git clone https://github.com/rmglade/sudanphoto.git -b static`
 
 ## Issues
 

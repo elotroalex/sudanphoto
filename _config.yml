@@ -7,18 +7,51 @@ description:
   en: A digital archive of photography of Sudan, run by the history department of Khartoum University.
   ar: ارشيف الصور التاريخي في قسم التاريخ جامعة الخرطوم
 
+email: sudanphoto@uofk.edu
+
 index:
   en: /
   ar: /ar/index.html
 
-url: "" # "http://sudanphoto.uofk.edu" # the base hostname & protocol for your site
-baseurl: "" # the subpath of your site, e.g. /blog
+url:        '' # "http://sudanphoto.uofk.edu"
+baseurl:    ''
+gh-baseurl: '/sudanphoto'
 
-exclude: [ Gemfile*, vendor ]
-include: [ _pages, _photopages ]
-
-email: sudanphoto@uofk.edu
+exclude: [ Gemfile*, vendor, Rakefile, README.md, spec, tasks ]
+include: [ _archive ]
 
 # Build settings
-markdown: kramdown
-theme: minima
+permalink: html
+lunr_language: true
+
+collections:
+  archive/ar:
+    source: archive-ar.csv
+    layout: photo-page
+    output: true
+    lunr_index:
+      content: false
+      fields: [ pid, title, rights, description, collection, _date, on_website ]
+  archive/en:
+    source: archive-en.csv
+    layout: photo-page
+    output: true
+    lunr_index:
+      content: false
+      fields: [ pid, title, rights, description, collection, _date, on_website ]
+
+js:
+  jquery:
+    cdn: "https://code.jquery.com/jquery-3.2.1.min.js"
+    version: 3.2.1
+  elasticlunr:
+    cdn: "https://cdnjs.cloudflare.com/ajax/libs/elasticlunr/0.9.6/elasticlunr.min.js"
+    version: 0.9.6
+
+quoll:
+  en:
+    page: en/photos
+    terms: [ "band", "Ethiopia", "شرحبيل" ]
+  ar:
+    page: ar/photos
+    terms: [ "band", "Ethiopia", "شرحبيل" ]

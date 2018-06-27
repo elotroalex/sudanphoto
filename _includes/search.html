@@ -1,0 +1,18 @@
+<script src="{{ site.js.elasticlunr.cdn }}"></script>
+<script src="{{ site.baseurl }}/js/lunr-ui.js"></script>
+
+{% if page.language == 'en' %}{% assign placeholder = 'Browse the collection...' %}
+{% else %}{% assign placeholder = 'تصفح المجموعة ...' %}
+{% endif %}
+
+<div class="search">
+  <table>
+    <tr>
+      <td id="search-icon"><span class="icon">&#x1F50D;</span></td>
+      <td id="input-box">
+        <input type="text" class="searchTerm" id="search" {% if page.language == 'ar' %} dir="rtl" {% endif %} placeholder="{{ placeholder }}">
+      </td>
+    </tr>
+  </table>
+</div>
+<div id="results"></div>

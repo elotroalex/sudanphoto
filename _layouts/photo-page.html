@@ -3,13 +3,30 @@ layout: default
 ---
 <article class="post">
 
-  <header class="post-header">
-    <h1 class="post-title {{page.lang}}">{{ page.title}}</h1>
-  </header>
+  <div class="post-content {{ page.language }}">
 
-  <div class="post-content {{page.lang}}">
-    <img src="http://photos.uofk.edu/smallimages/{{ page.ref }}-600.jpg" alt="{{ page.ref}}-small" class="small-photo" style="margin-bottom:50px;"/>
-    {{ content }}
+    {% if page.on_server == 'yes' %}
+    <img src="http://photos.uofk.edu/largeimages/{{ page.pid }}-1080.jpg" alt="{{ page.pid }}" class="small-photo" style="margin-bottom:50px;max-height:800px;"/>
+    {% else %}
+    <div style="background-color:#ddd;padding:20px;margin-top:20px">
+      <p>This image is not currently online. You can arrange a visit to view this item in the archive by contacting us either via email at <a href="mailto:sudanphoto@uofk.edu">sudanphoto@uofk.edu</a> or via Whatsapp at +249904696503</p>
+    </div>
+    {% endif %}
+    <br>
+    <p><b>Description</b></p>
+    <p>{{ page.description }}</p>
+
+    <p>
+      <b>Date</b> {{ page._date }}<br>
+      <b>Location</b> {{ page.location }}<br>
+      <b>Archival ID</b> {{ page.pid }}<br>
+      <b>Collection</b> {{ page.collection }}<br>
+    </p>
+
+    <p><b>Citation information</b></p>
+    <p>
+      {{ page.description }}, {{ page._date }}, {{ page.pid }}, {{ page.collection }} Collection, Sudan Historical Photography Archive, University of Khartoum Department of History, Algamaa Street, Khartoum 11111, Sudan.
+    </p>
   </div>
 
 </article>

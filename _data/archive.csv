@@ -1,467 +1,637 @@
 pid,title,language,collection,original_label,rights,location_of_original,photographer_or_studio,scanned_from,_date,location,description,additional_notes,permission_display,on_server,on_website
-SHA-03-017,SHA-03-017,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 20.2 by 25.8,1976-1977,Emirates,Sharhabil Ahmed and band Abu Dhabi Television Theater Concert,,yes,yes,yes
-SHA-03-017,SHA-03-017,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 20.2 by 25.8,1976-1977,الامارات,شرحبيل احمد وفرقته حفل مسرح التلفزيون ابو ظبي ,,yes,yes,yes
+SHA-01-001,SHA-01-001,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 9 by 13.8,1957-1958,"Egypt, Cairo, Andalus Garden",Sharhabil Ahmed sitting behind statues of lions in garden,,yes,no,no
+SHA-01-001,SHA-01-001,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 9 by 13.8,1957-1958,مصر، القاهرة، حديقة الاندلس,شرحبيل احمد يقعد خلف الاسود الحجرية في الحديقة ,,yes,no,no
+SHA-01-002,SHA-01-002,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10 by 12.7 ,1957-1958,"Egypt, Manufiya, Sirs al Layan","Gathering of foreign country envoys including Sharhabil Ahmed, Abdel Mun'im Najjar, Abdel Halim Berjini",,yes,no,no
+SHA-01-002,SHA-01-002,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10 by 12.7 ,1957-1958,مصر، المنوفية، سرس الليان,مجموعة من المبعوثين الاجانب من ضمنهم شرحبيل احمد، عبد المنعم نجار، عبد الحليم البرجيني,,yes,no,no
+SHA-01-003,SHA-01-003,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 9 by 13.8,1976-1977,"Saudi Arabia, Mecca, the Haram",Sharhabil Ahmed and his mother,,yes,no,no
+SHA-01-003,SHA-01-003,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 9 by 13.8,1976-1977,السعودية، مكة، الحرم,شرحبيل احمد وامه,,yes,no,no
+SHA-01-004,SHA-01-004,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 9 by 13.8,1957-1958,"Egypt, Cairo, Andalus Garden",Sharhabil Ahmed in front of statue ,,yes,no,no
+SHA-01-004,SHA-01-004,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 9 by 13.8,1957-1958,مصر، القاهرة، حديقة الاندلس,شرحبيل احمد امام تمثال,,yes,no,no
+SHA-01-005,SHA-01-005,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 9 by 13.8,1957-1958,"Egypt, Manufiya, Sirs al Layan",Sharhabil Ahmed and friends in front of statue at teaching institute,The statue represents health nutrition and hygene,yes,no,no
+SHA-01-005,SHA-01-005,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 9 by 13.8,1957-1958,مصر، المنوفية، سرس الليان,شرحبيل احمد واصدقائه امام تمثال في معهد التربية الاساسية,التمثال يرمز الصحة والتغدية والنظاقة,yes,no,no
+SHA-02-001,SHA-02-001,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 12.2 by 16.4,1962,"Ethiopia, Addis Ababa, Sudanese Club",Concert performance Sharhabil Ahmed and band perform in front of a dancing audience,"""The concert had lovely dancing""",yes,no,no
+SHA-02-001,SHA-02-001,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 12.2 by 16.4,1962,اثيوبيا، اديس ابابا، نادي السوداني,حفل موسيقي شرحبيل احمد والفرقة يعزفون امام جمهور راقص,"""كان حفلا جميلا راقصا""",yes,no,no
+SHA-02-002,SHA-02-002,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 12.2 by 16.4,1962,"Ethiopia, Addis Ababa",Four girls and one boy in formal clothing,"""Some fans""",yes,no,no
+SHA-02-002,SHA-02-002,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 12.2 by 16.4,1962,اثيوبيا، اديس ابابا,اربعة فتيات وصبي في ملابس سهرة ,"""بعض المعجبين""",yes,no,no
+SHA-02-003,SHA-02-003,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 12.2 by 16.4,1962,"Ethiopia, Addis Ababa",Group of artists and Sudanese diplomats around a table including Sharhabil Ahmed Ali Nur al Jalil Ahmed al Mustafa and Abdel Latif al Hawi,,yes,no,no
+SHA-02-003,SHA-02-003,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 12.2 by 16.4,1962,اثيوبيا، اديس ابابا,مجموعة الفنانين موظفين سفارة السوداني حول طاولة من ضمنهم شرحبيل احمد على نور الجليل احمد المصطفى عبد اللطيف الحاوي ,,yes,no,no
+SHA-02-004,SHA-02-004,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 12.2 by 16.4,1962,"Ethiopia, Massawa",Group of Sudanese diplomats accompanying band including Khidir al Hawi Abdel Latif al Hawi and Hassan Saroji,,yes,no,no
+SHA-02-004,SHA-02-004,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 12.2 by 16.4,1962,اثيوبيا، مصوع,مجموعة من كبار موظفين السفارة مرافقين طول الرحلة من ضمنهم خضر الحاوي عبد اللطيف الحاوي حسن سروجي,,yes,no,no
+SHA-02-005,SHA-02-005,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 12.2 by 16.4,1962,"Ethiopia, Addis Ababa",Group of men among them Khidir al Hawi Osman Hussain Sid Ahmed 'Ali Nur al Jalil Hassan Saroji Khalifallah al 'Alam Sharhabil Ahmed Ahmed Daoud Sayed Khalifa Tayuba Badr al Tahami and a small child,,yes,no,no
+SHA-02-005,SHA-02-005,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 12.2 by 16.4,1962,اثيوبيا، اديس ابابا,مجموعة من الرجال من ضمنهم خضر الحاوي عثمان حسين سيد احمد. علي نور الجليل حسن سروجي خلف الله الاعلام شرحبيل احمد احمد داوود سيد خليفة طيوبه بدر التهامي والطفلة الصغيرة,,yes,no,no
+SHA-02-006,SHA-02-006,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 12.2 by 16.4,1962,"Eritrea, Asmara",Men welcoming the band,,yes,no,no
+SHA-02-006,SHA-02-006,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 12.2 by 16.4,1962,اريتريا، اسمرا,رجال يرحبون الفرقة,,yes,no,no
+SHA-02-007,SHA-02-007,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 12.2 by 16.4,1962,"Ethiopia, Addis Ababa",party,,yes,no,no
+SHA-02-007,SHA-02-007,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 12.2 by 16.4,1962,اثيوبيا، اديس ابابا,حفلة ,,yes,no,no
+SHA-02-008,SHA-02-008,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 12.2 by 16.4,1962,"Ethiopia, Massawa",Lunch at restaurant among them Hassan Saroji Sid Ahmed and Osman Hussain,,yes,no,no
+SHA-02-008,SHA-02-008,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 12.2 by 16.4,1962,اثيوبيا، مصوع,غداء في المطعم من ضمنهم حسن سروجي سيد احمد عثمان حسين,,yes,no,no
+SHA-02-009,SHA-02-009,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 12.2 by 16.4,1962,"Eritrea, Asmara",Crowd in front of Cinema Empire,Sharhabil Ahmed concert held there,yes,yes,yes
+SHA-02-009,SHA-02-009,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 12.2 by 16.4,1962,اريتريا، اسمرا,جمهور امام سينيما امباير,اقيم فيه حفل شرحبيل احمد,yes,yes,yes
+SHA-02-010,SHA-02-010,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 12.2 by 16.4,1962,"Ethiopia, Massawa",Band meeting ,,yes,yes,yes
+SHA-02-010,SHA-02-010,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 12.2 by 16.4,1962,اثيوبيا، مصوع,البعثة المفية ,,yes,yes,yes
+SHA-02-011,SHA-02-011,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 12.2 by 16.4,1962,Ethiopia,Men in plane among them Ahmed al Mustafa Badr al Tuhami and Khalifallah Abu al Sid,On the way to the city of Jimma,yes,no,no
+SHA-02-011,SHA-02-011,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 12.2 by 16.4,1962,اثيوبيا,رجال في الطائرة من ضمنهم احمد المصطفى بدر التهامي خلف الله ابو السيد,في طريق مدينة جما,yes,no,no
+SHA-02-012,SHA-02-012,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 12.2 by 16.4,1962,"Ethiopia, Addis Ababa",Men on plane among them Ahmed al Mustafa Badr al Tahami Khalifallah Abu al Sid Khidir al Hawi Sharhabil Ahmed and Osman Hussain,,yes,no,no
+SHA-02-012,SHA-02-012,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 12.2 by 16.4,1962,اثيوبيا، اديس ابابا,رجال في الطائرة من ضمنهم احمد المصطفى بدر التهامي خلف الله ابو السيد خضر الحاوي سيد خليفة شرحبيل احمد عثمان حسين,,yes,no,no
+SHA-02-013,SHA-02-013,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 12.2 by 16.4,1962,"Ethiopia, Addis Ababa",Group of men,,yes,no,no
+SHA-02-013,SHA-02-013,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 12.2 by 16.4,1962,اثيوبيا، اديس ابابا,مجموعة الرجال,,yes,no,no
+SHA-02-014,SHA-02-014,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 12.2 by 16.4,1962,"Ethiopia, Addis Ababa",Ahmed Daoud and Hassan Saroji performing Ager Fakkir theater,,yes,no,no
+SHA-02-014,SHA-02-014,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 12.2 by 16.4,1962,اثيوبيا، اديس ابابا,يعزف احمد داوود وحسن سروجي في مسرح اقير فاكر,,yes,no,no
+SHA-02-015,SHA-02-015,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 12.2 by 16.4,1962,"Ethiopia, Addis Ababa, Sudanese Club",Osman Hussain's performance set with Abdel Latif Khidir Badr al Tahami Tayuba Hassan Saroji Sid Ahmed and Hussain Jad al Sid,,yes,no,no
+SHA-02-015,SHA-02-015,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 12.2 by 16.4,1962,اثيوبيا، اديس ابابا، نادي السوداني,عثمان حسين في وصلة غنائية من ضمنهم عبد اللطيف خضر بدر التهامي طيوبا حسن سروجي سيد احمد حسين جاد السيد,,yes,no,no
+SHA-02-016,SHA-02-016,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 12.2 by 16.4,1962,"Ethiopia, Massawa",Reception of band ,,yes,no,no
+SHA-02-016,SHA-02-016,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 12.2 by 16.4,1962,اثيوبيا، مصوع,استقبال البعثة ,,yes,no,no
+SHA-02-017,SHA-02-017,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 12.2 by 16.4,1962,"Ethiopia, Addis Ababa",Band and others at Sudanese Embassy or house of ambassador,,yes,no,no
+SHA-02-017,SHA-02-017,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 12.2 by 16.4,1962,اثيوبيا، اديس ابابا,البعثة والاخرين في السفارة السوداني او في بيت السفير,,yes,no,no
+SHA-02-018,SHA-02-018,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 12.2 by 16.4,1962,"Ethiopia, Addis Ababa",Crowd among them Ahmed Mustafa Osman Hussain Khidir al Hawi Sharhabil Ahmed Abdel Latif Khidir al Hawi Tayuba ,,yes,no,no
+SHA-02-018,SHA-02-018,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 12.2 by 16.4,1962,اثيوبيا، اديس ابابا,جمهور من ضمنهم احمد المصطفى عثمان حسين خضر الحاوي شرحبيل احمد عبد اللطيف خضر الحاوي طيوبا,,yes,no,no
+SHA-03-001,SHA-03-001,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 17.9 by 22.2,1953-1954,Omdurman,Hilal Youth Team among them Kamil Hussain Sharhabil Ahmed al Na'im Farajallah 'Awad Siddiq Abdel Rahman Gasim al Sid Abu Shanab 'Awadain 'Abdu Abdel Gadir Kamal Muhammad Yusef,,yes,no,no
+SHA-03-001,SHA-03-001,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 17.9 by 22.2,1953-1954,امدرمان ,اشبال نادي الهلال من ضمنهم كامل حسين شرحبيل احمد النعيم فرج الله عوض صديق عبد الرحمن قسم السيد ابو شنب عوضين عبده عبد القادر كمال محمد يوسف,,yes,no,no
+SHA-03-002,SHA-03-002,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Studio al Farid,photograph 6.5 by 10,"December, 1971","Bahri, al Mazad",Sharhabil Ahmed,,yes,no,no
+SHA-03-002,SHA-03-002,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,استوديو الفريد,photograph 6.5 by 10,"December, 1971",بحري، المزاد,شرحبيل احمد,,yes,no,no
+SHA-03-003,SHA-03-003,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Studio al Farid,photograph 6.5 by 10,"December, 1971","Bahri, al Mazad",Sharhabil Ahmed,"""I had this picture taken before going to Cairo Music Institute vacation""",yes,no,no
+SHA-03-003,SHA-03-003,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,استوديو الفريد,photograph 6.5 by 10,"December, 1971",بحري، المزاد,شرحبيل احمد,"""هذه الصورة اخذتها قبل ذهابي رحلة للقاهرة اجازة معهد الموسيقى""",yes,no,no
+SHA-03-004,SHA-03-004,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,1991-1992,"Khartoum, Hilton ",Ramadan Concert Sharhabil Ahmed Kamil Hussain ٍShahira Sharhabil Nahid Sharhabil,,yes,no,no
+SHA-03-004,SHA-03-004,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.1 by 15.1,1991-1992,الخرطوم، هلتون,حفلة رمضان من ضمنهم شرحبيل احمد كامل حسين وشهرية شرحبيل وناهد شرحبيل,,yes,no,no
+SHA-03-005,SHA-03-005,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,1991-1992,"Khartoum, Hilton",Ramadan Concert Sharhabil Ahmed Kamil Hussain 'Ali Yaqoub Shihab Shahira Sharhabil Nahid Sharhabil,,yes,no,no
+SHA-03-005,SHA-03-005,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.1 by 15.1,1991-1992,الخرطوم، هلتون,حفلة رمضان من ضمنهم على يعقوب كامل حسين شرحبيل احمد شهاب شهيرة شرحبيل ناهد شرحبيل,,yes,no,no
+SHA-03-006,SHA-03-006,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,2005,Khartoum,Sharhabil Ahmed at Arab Cultural Capital,,yes,no,no
+SHA-03-006,SHA-03-006,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.1 by 15.1,2005,الخرطوم,شرحبيل احمد في عاصمة الثقافة العربية,,yes,no,no
+SHA-03-007,SHA-03-007,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 7.4 by 10.5,1960s,Port Sudan,Sharhabil Ahmed and three others,,yes,no,no
+SHA-03-007,SHA-03-007,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 7.4 by 10.5,1960s,بورتسودان,شرحبيل احمد وثلاثة اخرين,,yes,no,no
+SHA-03-008,SHA-03-008,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 9.9 by 15,c. 1959,Khartoum,Sharhabil Ahmed with a guitar,,yes,no,no
+SHA-03-008,SHA-03-008,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 9.9 by 15,c. 1959,الخرطوم,شرحبيل احمد بالجيتار,,yes,no,no
+SHA-03-009,SHA-03-009,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,1995,"Kafouri, French Ambassador's Residence",Sharhabi Ahmed 'Ali Yagoub Kamild Hussain and Zakia Abu Gasim in concert,,yes,no,no
+SHA-03-009,SHA-03-009,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.1 by 15.1,1995,كافوري، منزل السفير الفرنسي,شرحبيل احمد علي يعقوب كامل حسين زكية ابو القاسم في حفلة ,,yes,no,no
+SHA-03-010,SHA-03-010,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10 by 14.5,1991-1995,"Khartoum, Khartoum University Publishing House",Dancing fans in front of Sharhabil Ahmed's band,,yes,no,no
+SHA-03-010,SHA-03-010,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10 by 14.5,1991-1995,الخرطوم، دار النشر جامعة الخرطوم,معجبين راقصين اما فرقة شرحبيل احمد,,yes,no,no
+SHA-03-011,SHA-03-011,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 7.3 by 10.5,1963-1964,Malakal,Ahmed Daoud and Muhammadiya in the airport,,yes,no,no
+SHA-03-011,SHA-03-011,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 7.3 by 10.5,1963-1964,ملكال,احمد داوود ومحمدية في المطار,,yes,no,no
+SHA-03-012,SHA-03-012,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8.8 by 13,1980s,Burri,Sharhabil Ahmed with guitar,,yes,no,no
+SHA-03-012,SHA-03-012,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 8.8 by 13,1980s,بري,شرحبيل احمد بالجيتار,,yes,no,no
+SHA-03-013,SHA-03-013,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8.4 by 12.4,1965-1967,Khartoum Zoo,Sharhabil Ahmed,was used as cover of one of Sharhabil Ahmed's albums,yes,no,no
+SHA-03-013,SHA-03-013,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 8.4 by 12.4,1965-1967,الخرطوم، حديقة الحيوانات,شرحبيل احمد,مستخدم في غلاف البوم شرحبيل احمد,yes,no,no
+SHA-03-014,SHA-03-014,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 9.8 by 12.4,mid 1970s,"Emirates, Sharga",Sharhabil Ahmed Osama Abdullah Deng,,yes,no,no
+SHA-03-014,SHA-03-014,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 9.8 by 12.4,mid 1970s,الامارات، الشارقة,شرحبيل احمد اسامة عبد الله دينق,,yes,no,no
+SHA-03-015,SHA-03-015,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 12.4,1971-1975,"Khartoum, New Saint James",Sharhabil Ahmed,,yes,no,no
+SHA-03-015,SHA-03-015,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.1 by 12.4,1971-1975,الخرطوم، نيو سانت جيمس,شرحبيل احمد,,yes,no,no
+SHA-03-016,SHA-03-016,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 6.9 by 8.8,1980s,"Khartoum, Khartoum Publishing Bureau ",Sharhabil Ahmed,,yes,no,no
+SHA-03-016,SHA-03-016,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 6.9 by 8.8,1980s,الخرطوم، مكتب النشر,شرحبيل احمد,,yes,no,no
+SHA-03-017,SHA-03-017,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 20.2 by 25.8,1976-1977,Emirates,Sharhabil Ahmed and band Abu Dhabi Television Theater Concert,,yes,no,no
+SHA-03-017,SHA-03-017,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 20.2 by 25.8,1976-1977,الامارات,شرحبيل احمد وفرقته حفل مسرح التلفزيون ابو ظبي ,,yes,no,no
 SHA-03-018,SHA-03-018,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 16.5 by 22,1965,"Khartoum, Omdurman National Theater",Concert with children Sharhabil Ahmed Kamil Hussain Mahdi 'Ali Imam and Ahmed Ibrahim Daoud,,yes,no,no
 SHA-03-018,SHA-03-018,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 16.5 by 22,1965,امدرمان، المسرح القومي,حفلة مع الاطفال شرحبيل احمد كامل حسين مهدي على امام احمد ابراهيم داوود,,yes,no,no
-SHA-03-019,SHA-03-019,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,1991-1992,"Khartoum, Hilton",Ramadan Concert Sharhabil Ahmed Kamil Hussain 'Ali Yaqoub Shihab Shahira Sharhabil Nahid Sharhabil,,yes,no,no
+SHA-03-019,SHA-03-019,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,1991-1992,"Khartoum, Hilton",Ramadan Concert Sharhabil Ahmed Kamil Hussain 'Ali Yaqoub Shihab Shahira Sharhabil Nahid Sharhabil,,yes,no,no
 SHA-03-019,SHA-03-019,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.1 by 15.1,1991-1992,الخرطوم، هلتون,حفلة رمضان من ضمنهم على يعقوب كامل حسين شرحبيل احمد شهاب شهيرة شرحبيل ناهد شرحبيل,,yes,no,no
 SHA-03-020,SHA-03-020,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 17.9 by 24,1957-1958,"Egypt, Manufiya, Sirs al Layan",All foreign envoys and teachers including Sharhabil Ahmed and Abdel Mun'im Najjar,,yes,no,no
 SHA-03-020,SHA-03-020,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 17.9 by 24,1957-1958,مصر، المنوفية، سرس الليان,كل المبعوثين والاساتذة من ضمنهم شرحبيل احمد وعبد المنعم نجار,,yes,no,no
-SHA-03-021,SHA-03-021,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 14.8 by 21.6,2004,"Egypt, Cairo",Advertisement for Sharhabil Ahmed concert,,yes,no,no
+SHA-03-021,SHA-03-021,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 14.8 by 21.6,2004,"Egypt, Cairo",Advertisement for Sharhabil Ahmed concert,,yes,no,no
 SHA-03-021,SHA-03-021,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 14.8 by 21.6,2004,مصر، القاهرة,الاعلام لحفلة شرحبيل احمد,,yes,no,no
 SHA-03-022,SHA-03-022,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8.8 by 12.6,1991,Khartoum,Concert Sharhabil Ahmed Muhammad Dallo Ibrahim Omer 'Adil Kukab,,yes,no,no
 SHA-03-022,SHA-03-022,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 8.8 by 12.6,1991,الخرطوم,حفلة شرحبيل احمد محمد دللو ابراهيم عمر عادل كوكاب,,yes,no,no
-SHA-03-023,SHA-03-023,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8.8 by 12.4,1970s,"Emirates, Sharga",Concert Sharhabil Ahmed Osama Abullah Deng,,yes,no,no
+SHA-03-023,SHA-03-023,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8.8 by 12.4,1970s,"Emirates, Sharga",Concert Sharhabil Ahmed Osama Abullah Deng,,yes,no,no
 SHA-03-023,SHA-03-023,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 8.8 by 12.4,1970s,الامارات، الشارقة,حفلة شرحبيل احمد اسامة عبد الله دينق,,yes,no,no
 SHA-03-024,SHA-03-024,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8.8 by 12.6,1984,Libya,Sharhabil Ahmed concert,,yes,no,no
 SHA-03-024,SHA-03-024,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 8.8 by 12.6,1984,ليبيا,حفلة شرحبيل احمد,,yes,no,no
-SHA-03-025,SHA-03-025,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8.8 by 12.4,1980s,Khartoum,Sharhabil Ahmed concert with 'Ali Yagoub Muhammad Mustafa Sharhabil Ahmed Kamil Hussain and Wahid Deng,,yes,no,no
+SHA-03-025,SHA-03-025,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8.8 by 12.4,1980s,Khartoum,Sharhabil Ahmed concert with 'Ali Yagoub Muhammad Mustafa Sharhabil Ahmed Kamil Hussain and Wahid Deng,,yes,no,no
 SHA-03-025,SHA-03-025,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 8.8 by 12.4,1980s,الخرطوم,حفلة شرحبيل احمد مع علي يعقوب محمد مصطفى شرحبيل احمد كامل حسين وحيد دينق,,yes,no,no
-SHA-03-026,SHA-03-026,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Sudanese Ministry of Information,photograph 16.5 by 20.6,1958-1959,Kadaru,Sharhabhil Ahmed and band with violin and 'oud,"""When I played violin""",yes,yes,yes
-SHA-03-026,SHA-03-026,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,وزارة الاعلام السوداني,photograph 16.5 by 20.6,1958-1959,الكدرو,شرحبيل احمد وفرقته مع الكمان والعود,"""عندما كنت أعزف كمنجة""",yes,yes,yes
-SHA-03-027,SHA-03-027,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,1991-1992,"Khartoum, Hilton",Ramadan Concert Sharhabil Ahmed Kamil Hussain 'Ali Yaqoub Shihab Shahira Sharhabil Nahid Sharhabil,,yes,no,no
+SHA-03-026,SHA-03-026,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Sudanese Ministry of Information,photograph 16.5 by 20.6,1958-1959,Kadaru,Sharhabhil Ahmed and band with violin and 'oud,"""When I played violin""",yes,no,no
+SHA-03-026,SHA-03-026,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,وزارة الاعلام السوداني,photograph 16.5 by 20.6,1958-1959,الكدرو,شرحبيل احمد وفرقته مع الكمان والعود,"""عندما كنت أعزف كمنجة""",yes,no,no
+SHA-03-027,SHA-03-027,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,1991-1992,"Khartoum, Hilton",Ramadan Concert Sharhabil Ahmed Kamil Hussain 'Ali Yaqoub Shihab Shahira Sharhabil Nahid Sharhabil,,yes,no,no
 SHA-03-027,SHA-03-027,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.1 by 15.1,1991-1992,الخرطوم، هلتون,حفلة رمضان من ضمنهم على يعقوب كامل حسين شرحبيل احمد شهاب شهيرة شرحبيل ناهد شرحبيل,,yes,no,no
 SHA-03-028,SHA-03-028,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,2000s,Khartoum,Sharhabil Ahmed,,yes,no,no
 SHA-03-028,SHA-03-028,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.1 by 15.1,2000s,الخرطوم,شرحبيل احمد,,yes,no,no
-SHA-03-029,SHA-03-029,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 9.2 by 21.2,2008,Khartoum,Advertisement for Sharhabil Ahmed concert,,yes,no,no
+SHA-03-029,SHA-03-029,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 9.2 by 21.2,2008,Khartoum,Advertisement for Sharhabil Ahmed concert,,yes,no,no
 SHA-03-029,SHA-03-029,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 9.2 by 21.2,2008,الخرطوم,الاعلام لحفلة شرحبيل احمد,,yes,no,no
-SHA-03-030,SHA-03-030,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 9.1 by 11.7,1959,Khartoum,private concert at house of american embassy worker Musa Bahr Ibrahim Ali Nur al Jalil Sharhabil Ahmed and Ms. Beacon,,yes,no,no
-SHA-03-030,SHA-03-030,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 9.1 by 11.7,1959,الخرطوم,حفلة خاصة في بيت موظفة بالسفارة الامريكية موسى بحر ابراهيم علي نور الجليل شرحبيل احمد مس بيكون,,yes,no,no
-SHA-03-031,SHA-03-031,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8.8 by 12.1,"August, 1991",Omdurman,Concert Sharhabil Ahmed 'Ali Yagoub Kabashi Adam Khalil al Bushi Kamil Hussain and 'Adil Kukab,,yes,no,no
+SHA-03-030,SHA-03-030,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 9.1 by 11.7,1959,Khartoum,private concert at house of american embassy worker Musa Bahr Ibrahim Ali Nur al Jalil Sharhabil Ahmed and Ms. Beacon,,yes,yes,yes
+SHA-03-030,SHA-03-030,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 9.1 by 11.7,1959,الخرطوم,حفلة خاصة في بيت موظفة بالسفارة الامريكية موسى بحر ابراهيم علي نور الجليل شرحبيل احمد مس بيكون,,yes,yes,yes
+SHA-03-031,SHA-03-031,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8.8 by 12.1,"August, 1991",Omdurman,Concert Sharhabil Ahmed 'Ali Yagoub Kabashi Adam Khalil al Bushi Kamil Hussain and 'Adil Kukab,,yes,no,no
 SHA-03-031,SHA-03-031,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 8.8 by 12.1,"August, 1991",امدرمان,حفلة شرحبيل احمد علي يعقوب كباشي ادم خليل البوشي كامل حسين عادل كوكاب,,yes,no,no
 SHA-03-032,SHA-03-032,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 16.3 by 21.8,1969,Somalia,Group in front of airplane includes Abdel Aziz Muhammad Daoud Badi Muhammad al Tayeb and Somali Musician Mariam,"""Opening of Somali National Theater",yes,yes,yes
 SHA-03-032,SHA-03-032,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 16.3 by 21.8,1969,الصومال,مجموعة امام طائرة من ضمنهم عبد العزيز محمد داوود بادي محمد الطيب وفنانة الصومالية مريم,"""افتتاح المسرح القومي الصومالي""",yes,yes,yes
-SHA-03-033,SHA-03-033,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Jurg Kobler,photograph 14.7 by 20.3,1960s,Kenya,Sharhabil Ahmed with guitar,,yes,no,no
+SHA-03-033,SHA-03-033,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Jurg Kobler,photograph 14.7 by 20.3,1960s,Kenya,Sharhabil Ahmed with guitar,,yes,no,no
 SHA-03-033,SHA-03-033,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,جورق كوبلير,photograph 14.7 by 20.3,1960s,كينيا,شرحبيل احمد بالجيتار,,yes,no,no
 SHA-03-034,SHA-03-034,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Ministry of National Guidance,photograph 16.5 by 22.1,1965,"Omdurman, National Theater",Concert with children Sharhabil Ahmed Kamil Hussain Mahdi 'Ali Imam and Ahmed Ibrahim Daoud,,yes,no,no
 SHA-03-034,SHA-03-034,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,وزارة الارشاد الوطني,photograph 16.5 by 22.1,1965,امدرمان، المسرح القومي,حفلة مع الاطفال شرحبيل احمد كامل حسين مهدي على امام احمد ابراهيم داوود,,yes,no,no
-SHA-03-035,SHA-03-035,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Thermeles Deste,photograph 18 by 23.8,1962,"Ethiopia, Addis Ababa",Sharhabil Ahmed band with 'Ali Nur al Jalil Sharhabil Ahmed Abdel Latif Khidir Tayuba Hassan Saroji,,yes,no,no
+SHA-03-035,SHA-03-035,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Thermeles Deste,photograph 18 by 23.8,1962,"Ethiopia, Addis Ababa",Sharhabil Ahmed band with 'Ali Nur al Jalil Sharhabil Ahmed Abdel Latif Khidir Tayuba Hassan Saroji,,yes,no,no
 SHA-03-035,SHA-03-035,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,ثيرميليس ديستي,photograph 18 by 23.8,1962,اثيوبيا، اديس ابابا,فرقة شرحبيل احمد مع علي نور الجليل شرحبيل احمد عبد اللطيف خضر طيوبا حسن سروجي,,yes,no,no
 SHA-03-036,SHA-03-036,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 16.7 by 21.6,1965,"Tunisia, Tunis",Group of artists in the Eid al Marjan festival among them Muhammad Ahmed 'Awad Musa Muhammad Ibrahim Hassan Saroji Kamil Hussain al 'Aziz al Kabli Sharhabil Ahmed al Taj Muhammad (Director of the radio) 'Ali Shomo Osman Hussain and Rabih Hassan,,yes,yes,yes
 SHA-03-036,SHA-03-036,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 16.7 by 21.6,1965,تونس، تونس,مجموعة الفنانين في مهرجان عيد المرجان من ضمنهم محمد احمد عوض موسى محمد ابراهيم حسن سروجي كامل حسين عبد العزيز الكابلي شرحبيل احمد التاج محمد (مدير الاذاعة) علي شمو عثمان حسين رابح حسن,,yes,yes,yes
-SHA-03-037,SHA-03-037,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Studio KGS,photograph 13 by 18,1971-1972,"Khartoum, Mughrun garden",group of men and women new years eve party,,yes,no,no
+SHA-03-037,SHA-03-037,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Studio KGS,photograph 13 by 18,1971-1972,"Khartoum, Mughrun garden",group of men and women new years eve party,,yes,no,no
 SHA-03-037,SHA-03-037,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,استوديو كي جي ايس,photograph 13 by 18,1971-1972,الخرطوم، حديقة المقرن,مجموعة الرجال والنساء في حفلة رأس السنة,,yes,no,no
 SHA-03-038,SHA-03-038,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Tunisian Ministry of Information,photograph 17.8 by 24,1965,Tunis,Band in front of the ocean,,yes,no,no
 SHA-03-038,SHA-03-038,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,وزارة الاعلام التونسي,photograph 17.8 by 24,1965,تونس,الفرقة امام البحر,,yes,no,no
-SHA-03-039,SHA-03-039,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Sudanese Ministry of Information,photograph 16.5 by 21.4,1960,Kadaru,First band of Sharhabil Ahmed Kamil Hussain Hassan Basler and Muhammad Osman Ahmed Daoud. You can also see Abdel Gadir commander of the Police band,First performance of a jazz song,yes,no,no
-SHA-03-039,SHA-03-039,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,وزارة الاعلام السوداني,photograph 16.5 by 21.4,1960,الكدرو,اول فرقة شرحبيل احمد مع كامل حسين حسن بابكر عوض محمد عثمان احمد داوود ويرى عبد القادر قائد سلاح موسيقى البوليس,اول مرة غنى شرحبيل احمد جاز,yes,no,no
+SHA-03-039,SHA-03-039,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Sudanese Ministry of Information,photograph 16.5 by 21.4,1960,Kadaru,First band of Sharhabil Ahmed Kamil Hussain Hassan Basler and Muhammad Osman Ahmed Daoud. You can also see Abdel Gadir commander of the Police band,First performance of a jazz song,yes,yes,yes
+SHA-03-039,SHA-03-039,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,وزارة الاعلام السوداني,photograph 16.5 by 21.4,1960,الكدرو,اول فرقة شرحبيل احمد مع كامل حسين حسن بابكر عوض محمد عثمان احمد داوود ويرى عبد القادر قائد سلاح موسيقى البوليس,اول مرة غنى شرحبيل احمد جاز,yes,yes,yes
 SHA-03-040,SHA-03-040,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Tunisian Ministry of Information,photograph 18.1 by 23.9,1965,"Tunisia, Tunis",Sharhabil Ahmed and band,,yes,no,no
 SHA-03-040,SHA-03-040,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,وزارة الاعلام التونسي,photograph 18.1 by 23.9,1965,تونس,شرحبيل احمد الفرقة,,yes,no,no
-SHA-03-041,SHA-03-041,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 18.1 by 23.9,1965,Tunisia,Sharhabil Ahmed Kamil Hussain and Hassan Saroji dancing a traditional dance ,"The song performed was ""sabatu lay""",yes,no,no
-SHA-03-041,SHA-03-041,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 18.1 by 23.9,1965,تونس,عيد المرجان شرحبيل احمد حسن سروجي كامل حسين في رقص شعبي ,"كان يغني اغنية ""ساباتو لى """,yes,no,no
+SHA-03-041,SHA-03-041,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 18.1 by 23.9,1965,Tunisia,Sharhabil Ahmed Kamil Hussain and Hassan Saroji dancing a traditional dance ,"The song performed was ""sabatu lay""",yes,yes,yes
+SHA-03-041,SHA-03-041,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 18.1 by 23.9,1965,تونس,عيد المرجان شرحبيل احمد حسن سروجي كامل حسين في رقص شعبي ,"كان يغني اغنية ""ساباتو لى """,yes,yes,yes
 SHA-03-042,SHA-03-042,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 20.9 by 29.6,1960s,Tanzania,Article about Sharhabil Ahmed,,yes,no,no
 SHA-03-042,SHA-03-042,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 20.9 by 29.6,1960s,تنزانيا,مقالة عن شرحبيل احمد,,yes,no,no
-SHA-03-043,SHA-03-043,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 16.5 by 21.4,1961,"Khartoum, Omdurman Sports Club",Beginning of the band Kamil Hussain Sharhabil Ahmed 'Ali Nur al Jalil Hussain Babikir Awad 'Ali Akrit Ahmed Daoud ,,yes,no,no
+SHA-03-043,SHA-03-043,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 16.5 by 21.4,1961,"Khartoum, Omdurman Sports Club",Beginning of the band Kamil Hussain Sharhabil Ahmed 'Ali Nur al Jalil Hussain Babikir Awad 'Ali Akrit Ahmed Daoud ,,yes,no,no
 SHA-03-043,SHA-03-043,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 16.5 by 21.4,1961,امدرمان، نادي تربية,بداية الفرقة مع كامل حسين شرحبيل احمد علي نور الجليل حسين بابكر عوض علي اكرت احمد داوود,,yes,no,no
 SHA-03-044,SHA-03-044,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,2000s,Khartoum,Sharhabil Ahmed with guitar,,yes,no,no
 SHA-03-044,SHA-03-044,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.1 by 15.1,2000s,الخرطوم,شرحبيل احمد بالجيتار,,yes,no,no
-SHA-03-045,SHA-03-045,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,2000s,Khartoum,Sharhabil Ahmed with guitar,,yes,no,no
+SHA-03-045,SHA-03-045,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,2000s,Khartoum,Sharhabil Ahmed with guitar,,yes,no,no
 SHA-03-045,SHA-03-045,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.1 by 15.1,2000s,الخرطوم,شرحبيل احمد بالجيتار,,yes,no,no
 SHA-03-046,SHA-03-046,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 5 by 7.1,1960s,Khartoum,Sharhabil Ahmed,,yes,no,no
 SHA-03-046,SHA-03-046,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 5 by 7.1,1960s,الخرطوم,شرحبيل احمد,,yes,no,no
-SHA-03-047,SHA-03-047,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 4.5 by 5.7,1953,Khartoum,Sharhabil Ahmed,Taken for a library card,yes,no,no
+SHA-03-047,SHA-03-047,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 4.5 by 5.7,1953,Khartoum,Sharhabil Ahmed,Taken for a library card,yes,no,no
 SHA-03-047,SHA-03-047,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 4.5 by 5.7,1953,الخرطوم,شرحبيل احمد,اخذ للبطاقة مكتبية,yes,no,no
 SHA-03-048,SHA-03-048,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8.8 by 13.8,1960s,"Omdurman, Umbadah",Sharhabil Ahmed,,yes,no,no
 SHA-03-048,SHA-03-048,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 8.8 by 13.8,1960s,امدرمان، امبدا,شرحبيل احمد,,yes,no,no
-SHA-03-049,SHA-03-049,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 6.6 by 12.2,early 2000s,"Egypt, Cairo",advertisement for Sharhabil Ahmed concert,,yes,no,no
+SHA-03-049,SHA-03-049,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 6.6 by 12.2,early 2000s,"Egypt, Cairo",advertisement for Sharhabil Ahmed concert,,yes,no,no
 SHA-03-049,SHA-03-049,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 6.6 by 12.2,early 2000s,مصر، القاهرة,الاعلام لحفلة شرحبيل احمد,,yes,no,no
 SHA-03-050,SHA-03-050,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,2000s,"Egypt, Cairo",Sharhabil Ahmed with guitar,,yes,no,no
 SHA-03-050,SHA-03-050,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.1 by 15.1,2000s,مصر، القاهرة,شرحبيل احمد بالجيتار,,yes,no,no
-SHA-03-051,SHA-03-051,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,2000,"Egypt, Cairo",Sharhabil Ahmed and band performing ,,yes,no,no
+SHA-03-051,SHA-03-051,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,2000,"Egypt, Cairo",Sharhabil Ahmed and band performing ,,yes,no,no
 SHA-03-051,SHA-03-051,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.1 by 15.1,2000,مصر، القاهرة,يعزف شرحبيل احمد وفرقته,,yes,no,no
 SHA-03-052,SHA-03-052,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,1980s,Emirates,Sharhabil Ahmed performing in concert benefitting Save the Children,,yes,no,no
 SHA-03-052,SHA-03-052,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.1 by 15.1,1980s,الامارات,يعزف شرحبيل احمد في حفلة لمنظمة أنقذوا الأطفال,,yes,no,no
-SHA-03-053,SHA-03-053,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Muwahib Studio,photograph 8.8 by 13.8,1980s,Khartoum,Sharhabil Ahmed,,yes,no,no
+SHA-03-053,SHA-03-053,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Muwahib Studio,photograph 8.8 by 13.8,1980s,Khartoum,Sharhabil Ahmed,,yes,no,no
 SHA-03-053,SHA-03-053,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,استوديو مواهب,photograph 8.8 by 13.8,1980s,الخرطوم,شرحبيل احمد,,yes,no,no
 SHA-03-054,SHA-03-054,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8.9 by 13.9,1964-1965,Khartoum,Sharhabil Ahmed,,yes,no,no
 SHA-03-054,SHA-03-054,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 8.9 by 13.9,1964-1965,الخرطوم,شرحبيل احمد,,yes,no,no
-SHA-03-055,SHA-03-055,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10 by 15,2009," US, Washington DC",advertisement for Sharhabil Ahmed concert,,yes,no,no
+SHA-03-055,SHA-03-055,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10 by 15,2009," US, Washington DC",advertisement for Sharhabil Ahmed concert,,yes,no,no
 SHA-03-055,SHA-03-055,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10 by 15,2009,الولايات المتحدة، واشينطون دي سي,الاعلام لحفلة شرحبيل احمد,,yes,no,no
 SHA-03-056,SHA-03-056,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.5 by 15.6,1993,"Khartoum, Hilton",Sharhabil Ahmed with friends including Kamil Hussain and Adam Khalil,,yes,no,no
 SHA-03-056,SHA-03-056,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.5 by 15.6,1993,الخرطوم، هلتون,شرحبيل احمد مع اصحاب من ضمنهم كامل حسين وادم خليل,,yes,no,no
-SHA-03-057,SHA-03-057,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.2 by 15,1980s-1990s,"Khartoum, Residence of French Cultural Attache",Sharhabil Ahmed with group of people sitting at tables,,yes,no,no
+SHA-03-057,SHA-03-057,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.2 by 15,1980s-1990s,"Khartoum, Residence of French Cultural Attache",Sharhabil Ahmed with group of people sitting at tables,,yes,no,no
 SHA-03-057,SHA-03-057,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.2 by 15,1980s-1990s,الخرطوم، منزل الدبلوماسي الفرنسي,شرحبيل احمد مع مجموعة من الناس يقعدون في الطاولات,,yes,no,no
 SHA-03-058,SHA-03-058,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 12.6 by 17.8,1996-1997,Nigeria,Shihab Sharhabil Su'ad and Abdel 'Aziz playing guitar,,yes,no,no
 SHA-03-058,SHA-03-058,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 12.6 by 17.8,1996-1997,نجيريا,شهاب شرحبيل سعاد عبد العزيز يعزفون جيتار,,yes,no,no
-SHA-03-059,SHA-03-059,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 14.4,1991-1992,"Khartoum, Khartoum University Publishing House",Sharhabil Ahmed concert celebration of a million books,,yes,no,no
+SHA-03-059,SHA-03-059,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 14.4,1991-1992,"Khartoum, Khartoum University Publishing House",Sharhabil Ahmed concert celebration of a million books,,yes,no,no
 SHA-03-059,SHA-03-059,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.1 by 14.4,1991-1992,الخرطوم، مكتب النشر,حفلة شرحبيل احمد. الاحتفال بالمليون كتاب,,yes,no,no
 SHA-03-060,SHA-03-060,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,1991-1992,"Khartoum, Hilton ",Ramadan concert Adam Khalil 'Ali Yagoub Kamil Hussain,,yes,no,no
 SHA-03-060,SHA-03-060,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.1 by 15.1,1991-1992,الخرطوم، هلتون,حفلة رمضان ادم خليل علي يعقوب كامل حسين,,yes,no,no
-SHA-03-061,SHA-03-061,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,1991-1992,"Khartoum, Hilton ",Ramadan Concert Sharhabil Ahmed Kamil Hussain ٍShahira Sharhabil Nahid Sharhabil,,yes,no,no
+SHA-03-061,SHA-03-061,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,1991-1992,"Khartoum, Hilton ",Ramadan Concert Sharhabil Ahmed Kamil Hussain ٍShahira Sharhabil Nahid Sharhabil,,yes,no,no
 SHA-03-061,SHA-03-061,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.1 by 15.1,1991-1992,الخرطوم، هلتون,حفلة رمضان من ضمنهم شرحبيل احمد كامل حسين وشهرية شرحبيل وناهد شرحبيل,,yes,no,no
 SHA-03-062,SHA-03-062,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,1993,Khartoum,Ali Yagoub Adam Khalil Kamil Hussain performing,,yes,no,no
 SHA-03-062,SHA-03-062,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.1 by 15.1,1993,الخرطوم,يعزف علي يعقوب ادم خليل كامل حسين,,yes,no,no
-SHA-03-063,SHA-03-063,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,1991-1992,"Khartoum, Hilton",Ramadan concert Adam Khalil 'Ali Yagoub Kamil Hussain,,yes,no,no
+SHA-03-063,SHA-03-063,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,1991-1992,"Khartoum, Hilton",Ramadan concert Adam Khalil 'Ali Yagoub Kamil Hussain,,yes,no,no
 SHA-03-063,SHA-03-063,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.1 by 15.1,1991-1992,الخرطوم، هلتون,حفلة رمضان ادم خليل علي يعقوب كامل حسين,,yes,no,no
 SHA-03-064,SHA-03-064,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,late 1990s,Holland,Shihab Sharhabil and five others around a table,,yes,no,no
 SHA-03-064,SHA-03-064,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.1 by 15.1,late 1990s,هولاندا,شهاب شرحبيل وخمسة اخرين يقعدون حول طاولة ,,yes,no,no
-SHA-03-065,SHA-03-065,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,1991-1992,"Khartoum, Hilton",Ramadan concert Adam Khalil 'Ali Yagoub Kamil Hussain,,yes,no,no
+SHA-03-065,SHA-03-065,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,1991-1992,"Khartoum, Hilton",Ramadan concert Adam Khalil 'Ali Yagoub Kamil Hussain,,yes,no,no
 SHA-03-065,SHA-03-065,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.1 by 15.1,1991-1992,الخرطوم، هلتون,حفلة رمضان شرحبيل احمد ادم خليل علي يعقوب كامل حسين,,yes,no,no
 SHA-03-066,SHA-03-066,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,1995,"Bahri, Kafouri",concert with 'Ali Yagoub Shihab Sharhabil Adam Khalil and Kamil Hussain,,yes,no,no
 SHA-03-066,SHA-03-066,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.1 by 15.1,1995,بحري، كافوري,حفلة مع علي يعقوب شهاب شرحبيل ادم خليل كامل حسين,,yes,no,no
-SHA-03-067,SHA-03-067,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10 by 14.4,1991-1992,"Khartoum, Khartoum University Publishing House",Sharhabil Ahmed concert celebration of a million books,,yes,no,no
+SHA-03-067,SHA-03-067,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10 by 14.4,1991-1992,"Khartoum, Khartoum University Publishing House",Sharhabil Ahmed concert celebration of a million books,,yes,no,no
 SHA-03-067,SHA-03-067,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10 by 14.4,1991-1992,الخرطوم، مكتب النشر,حفلة شرحبيل احمد. الاحتفال بالمليون كتاب,,yes,no,no
 SHA-03-068,SHA-03-068,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 7.4 by 10.4,1965,Tunisia,Syrian and Sudanese bands for festival in the hotel,,yes,no,no
 SHA-03-068,SHA-03-068,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 7.4 by 10.4,1965,تونس,المبعوثين السوداني والسوري للحفلة في الفندق,,yes,no,no
-SHA-03-069,SHA-03-069,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,2000s,Khartoum,Sharhabil Ahmed with guitar,,yes,no,no
+SHA-03-069,SHA-03-069,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,2000s,Khartoum,Sharhabil Ahmed with guitar,,yes,no,no
 SHA-03-069,SHA-03-069,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.1 by 15.1,2000s,الخرطوم,شرحبيل احمد بالجيتار,,yes,no,no
 SHA-03-070,SHA-03-070,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8.9 by 13.9,1965,Khartoum,Sharhabil Ahmed with guitar,,yes,no,no
 SHA-03-070,SHA-03-070,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 8.9 by 13.9,1965,الخرطوم,شرحبيل احمد بالجيتار,,yes,no,no
-SHA-03-071,SHA-03-071,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.2,1994,"Saudi Arabia, Jeddah, Sudanese Embassy",Sharhabil Ahmed and employees of the Sudanese EMbassy among them Salah Mustafa,,yes,no,no
+SHA-03-071,SHA-03-071,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.2,1994,"Saudi Arabia, Jeddah, Sudanese Embassy",Sharhabil Ahmed and employees of the Sudanese EMbassy among them Salah Mustafa,,yes,no,no
 SHA-03-071,SHA-03-071,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.1 by 15.2,1994,السعودية، جدة، السفارة السودانية,شرحبيل احمد وموظفين السفارة السودانية من ضمنهم صلاح مصطفى,,yes,no,no
 SHA-03-072,SHA-03-072,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,French Cultural Center Khartoum,photograph 10.2 by 15,2000s,"Khartoum, French Cultural Center",Sharhabil Ahmed Muhammad Wardi and Minister Abdel Basil,,yes,no,no
 SHA-03-072,SHA-03-072,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,مركز الثقافة الفرنسية الخرطوم,photograph 10.2 by 15,2000s,الخرطوم، مركز الثقافة الفرنسية,شرحبيل احمد محمد وردي والوزير عبد الباصل,,yes,no,no
-SHA-03-073,SHA-03-073,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8.8 by 14.1,1978,Khartoum,Concert Sharhabil Ahmed Kemal Kela Salah Bashir and Zakia Abu Gasim,,yes,yes,yes
-SHA-03-073,SHA-03-073,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 8.8 by 14.1,1978,الخرطوم,حفلة من ضمنهم شرحبيل احمد وكمال كيلا وصلاح بشير وزاكية ابو قاسم,,yes,yes,yes
+SHA-03-073,SHA-03-073,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8.8 by 14.1,1978,Khartoum,Concert Sharhabil Ahmed Kemal Kela Salah Bashir and Zakia Abu Gasim,,yes,no,no
+SHA-03-073,SHA-03-073,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 8.8 by 14.1,1978,الخرطوم,حفلة من ضمنهم شرحبيل احمد وكمال كيلا وصلاح بشير وزاكية ابو قاسم,,yes,no,no
 SHA-03-074,SHA-03-074,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15,2000s,Khartoum,Sharhabil Ahmed with guitar,,yes,no,no
 SHA-03-074,SHA-03-074,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.1 by 15,2000s,الخرطوم,شرحبيل احمد بالجيتار,,yes,no,no
-SHA-03-075,SHA-03-075,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15,2000s,Khartoum,Sharhabil Ahmed with guitar,,yes,no,no
+SHA-03-075,SHA-03-075,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15,2000s,Khartoum,Sharhabil Ahmed with guitar,,yes,no,no
 SHA-03-075,SHA-03-075,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.1 by 15,2000s,الخرطوم,شرحبيل احمد بالجيتار,,yes,no,no
 SHA-03-076,SHA-03-076,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 14.4,1995,,concert with Sharhabil Ahmed 'Ali Yagoub Shihab Sharhabil Adam Khalil and Kamil Hussain,,yes,no,no
 SHA-03-076,SHA-03-076,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.1 by 14.4,1995,بحري، كافوري,حفلة من ضمنهم شرحبيل احمد. علي يعقوب شهاب شرحبيل ادم خليل كامل حسين,,yes,no,no
-SHA-03-077,SHA-03-077,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,1991-1995,"Khartoum, Khartoum University Publishing House",Sharhabil Ahmed,,yes,no,no
+SHA-03-077,SHA-03-077,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,1991-1995,"Khartoum, Khartoum University Publishing House",Sharhabil Ahmed,,yes,no,no
 SHA-03-077,SHA-03-077,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.1 by 15.1,1991-1995,الخرطوم، مكتب النشر,شرحبيل احمد,,yes,no,no
 SHA-03-078,SHA-03-078,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15,2002-2004,"Khartoum, Coptic Club",Sharhabil Ahmed and Abdel Rahman al Abanodi,,yes,no,no
 SHA-03-078,SHA-03-078,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.1 by 15,2002-2004,الخرطوم، نادي القبطي,شرحبيل احمد وعبد الرحمن الابنودي,,yes,no,no
-SHA-03-079,SHA-03-079,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8.8 by 13.9,1965,Khartoum,Sharhabil Ahmed,,yes,no,no
+SHA-03-079,SHA-03-079,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8.8 by 13.9,1965,Khartoum,Sharhabil Ahmed,,yes,no,no
 SHA-03-079,SHA-03-079,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 8.8 by 13.9,1965,الخرطوم,شرحبيل احمد,,yes,no,no
 SHA-03-080,SHA-03-080,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8.9 by 13.9,1965,Khartoum,Sharhabil Ahmed with flute,,yes,no,no
 SHA-03-080,SHA-03-080,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 8.9 by 13.9,1965,الخرطوم,شرحبيل احمد بالفلوت,,yes,no,no
-SHA-03-081,SHA-03-081,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8.8 by 13.9,1957-1959,Omdurman,Sharhabil Ahmed,"""In the first days before I began jazz music"" when he first joined Omdurman radio",yes,no,no
+SHA-03-081,SHA-03-081,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8.8 by 13.9,1957-1959,Omdurman,Sharhabil Ahmed,"""In the first days before I began jazz music"" when he first joined Omdurman radio",yes,no,no
 SHA-03-081,SHA-03-081,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 8.8 by 13.9,1957-1959,امدرمان,شرحبيل احمد,"""الايام الاولى قبل الدخول في موسيقى (جاز)""",yes,no,no
 SHA-03-082,SHA-03-082,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.2 by 15.2,1960s,Khartoum,Sharhabil Ahmed and Mahdi 'Ali at wedding,,yes,no,no
 SHA-03-082,SHA-03-082,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.2 by 15.2,1960s,الخرطوم,شرحبيل احمد ومهدي علي في حفل زواج,,yes,no,no
-SHA-03-083,SHA-03-083,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,1991-1992,Khartoum Hilton ,Ramadan Concert Sharhabil Ahmed Kamil Hussain ٍShahira Sharhabil Nahid Sharhabil,,yes,no,no
+SHA-03-083,SHA-03-083,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,1991-1992,Khartoum Hilton ,Ramadan Concert Sharhabil Ahmed Kamil Hussain ٍShahira Sharhabil Nahid Sharhabil,,yes,no,no
 SHA-03-083,SHA-03-083,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.1 by 15.1,1991-1992,الخرطوم، هلتون,حفلة رمضان من ضمنهم شرحبيل احمد كامل حسين وشهرية شرحبيل وناهد شرحبيل,,yes,no,no
 SHA-03-084,SHA-03-084,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8.8 by 12.6,August 1991,Khartoum,Concert Kamil Hussain 'Ali Yagoub,,yes,no,no
 SHA-03-084,SHA-03-084,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 8.8 by 12.6,August 1991,الخرطوم,حفلة كامل حسين علي يعقوب,,yes,no,no
-SHA-03-085,SHA-03-085,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 12.6,October 27 1990,Khartoum,portrait of band with Kojaja Adam Khalil Sharhabil Ahmed 'Ali Yagoub Kamil Hussain Abdel Aziz,,yes,no,no
+SHA-03-085,SHA-03-085,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 12.6,October 27 1990,Khartoum,portrait of band with Kojaja Adam Khalil Sharhabil Ahmed 'Ali Yagoub Kamil Hussain Abdel Aziz,,yes,no,no
 SHA-03-085,SHA-03-085,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.1 by 12.6,October 27 1990,الخرطوم,صورة من الفرقة من ضمنهم كوجاجا ادم خليل شرحبيل احمد علي يعقوب كامل حسين,,yes,no,no
 SHA-04-001,SHA-04-001,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.7 by 12.7,1964-1965,"Khartoum, Educational Publishing House",Director Mahdi 'Ali Sharafi Chief Editor of Sibyan Rida Muhammad Osman Editor Muhammad Osman al Shaigi,,yes,no,no
 SHA-04-001,SHA-04-001,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.7 by 12.7,1964-1965,الخرطوم، دار النشر التربوي,المدير مهدي علي شرفي سكرتير تحرير الصبيان رضا محمد عثمان المحرر محمد عثمان الشايقي,,yes,no,no
-SHA-04-002,SHA-04-002,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8.8 by 13.8,1964-1965,"Khartoum, Educational Publishing House",Sharhabil Ahmed and Sa'eed Gasimallah,,yes,no,no
+SHA-04-002,SHA-04-002,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8.8 by 13.8,1964-1965,"Khartoum, Educational Publishing House",Sharhabil Ahmed and Sa'eed Gasimallah,,yes,no,no
 SHA-04-002,SHA-04-002,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 8.8 by 13.8,1964-1965,الخرطوم، دار النشر التربوي,شرحبيل احمد وسعيد قسم الله ,,yes,no,no
 SHA-04-003,SHA-04-003,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,1964-1965,"Khartoum, Educational Publishing House",Sharhabil Ahmed with al Subyan ,,yes,no,no
 SHA-04-003,SHA-04-003,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.1 by 15.1,1964-1965,الخرطوم، دار النشر التربوي,شرحبيل احمد مع الصبيان,,yes,no,no
-SHA-04-004,SHA-04-004,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 12.6 by 17.6,1960s,"Khartoum, Educational Publishing House",Group of men including Salah Shahin Director Ibrahim Doweilbait Isma'il Muhammad al Amin Sharhabil Ahmed and a group of workers in the publishing house,,yes,no,no
+SHA-04-004,SHA-04-004,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 12.6 by 17.6,1960s,"Khartoum, Educational Publishing House",Group of men including Salah Shahin Director Ibrahim Doweilbait Isma'il Muhammad al Amin Sharhabil Ahmed and a group of workers in the publishing house,,yes,no,no
 SHA-04-004,SHA-04-004,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 12.6 by 17.6,1960s,الخرطوم، دار النشر التربوي,صلاح شاهين وعاملين بدار النشر والمدير ابراهيم ضوالبيت واسماعيل محمد الامين وشرحبيل احمد ,,yes,no,no
 SHA-05-001,SHA-05-001,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8.2 by 13.1,1963,Uganda,Muhammad Saroji Ahmed Daoud Mahdi 'Ali and Sharhabil Ahmed,,yes,no,no
 SHA-05-001,SHA-05-001,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 8.2 by 13.1,1963,يوغندا,محمد سروجي واحمد داوؤد ومهدي علي وشرحبيل احمد,,yes,no,no
-SHA-05-002,SHA-05-002,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Saudi Arabian Ministry of Information,postcard 11.7 by 17.1,,Saudi Arabia,Postcard of the Kaaba,,yes,no,no
+SHA-05-002,SHA-05-002,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Saudi Arabian Ministry of Information,postcard 11.7 by 17.1,,Saudi Arabia,Postcard of the Kaaba,,yes,no,no
 SHA-05-002,SHA-05-002,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,وزارة الاعلام السعودي,postcard 11.7 by 17.1,,السعودية,الكعبة,,yes,no,no
-SHA-05-003,SHA-05-003,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.6 by 16.6,late 1960s,"Omdurman, Omdurman Artists' Union",Jazz band group with Sharhabil Ahmed and Kemal Kela,,yes,no,no
-SHA-05-003,SHA-05-003,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.6 by 16.6,late 1960s,امدرمان، اتحاد الفنانين,مجموعة فرقة الجاز مع شرحبيل احمد وكمال كيلا,,yes,no,no
-SHA-05-004,SHA-05-004,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.7 by 16.2,1960s,,Sharhabil Ahmed and Hassan Saroji in a plane,,yes,no,no
+SHA-05-003,SHA-05-003,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.6 by 16.6,late 1960s,"Omdurman, Omdurman Artists' Union",Jazz band group with Sharhabil Ahmed and Kemal Kela,,yes,yes,yes
+SHA-05-003,SHA-05-003,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.6 by 16.6,late 1960s,امدرمان، اتحاد الفنانين,مجموعة فرقة الجاز مع شرحبيل احمد وكمال كيلا,,yes,yes,yes
+SHA-05-004,SHA-05-004,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.7 by 16.2,1960s,,Sharhabil Ahmed and Hassan Saroji in a plane,,yes,no,no
 SHA-05-004,SHA-05-004,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.7 by 16.2,1960s,,شرحبيل احمد وحسن سروجي في طائرة,,yes,no,no
 SHA-05-005,SHA-05-005,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 12.1 by 16.5,early 1960s,Omdurman,Ahmed Ibrahim Daoud with drums,,yes,no,no
 SHA-05-005,SHA-05-005,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 12.1 by 16.5,early 1960s,امدرمان,احمد ابراهيم داوؤد مع درامز,,yes,no,no
-SHA-05-006,SHA-05-006,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 6.3 by 8.9,early 1960s,"Omdurman, Abdel Gayoum Gate",Sharhabil Ahmed with two others,,yes,no,no
+SHA-05-006,SHA-05-006,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 6.3 by 8.9,early 1960s,"Omdurman, Abdel Gayoum Gate",Sharhabil Ahmed with two others,,yes,no,no
 SHA-05-006,SHA-05-006,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 6.3 by 8.9,early 1960s,امدرمان، بوابة عبد القيوم,شرحبيل احمد مع شخصان اخر,,yes,no,no
 SHA-05-007,SHA-05-007,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 7.3 by 10.4,1963-1964,Port Sudan,Group including Muhammad Isma'il Kamil Hussain Ahmed Daoud and Mahdi 'Ali Ibrahim,,yes,no,no
 SHA-05-007,SHA-05-007,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 7.3 by 10.4,1963-1964,بورتسودان,محمد اسماعيل كامل حسين احمد داوؤد مهدي علي ابراهيم,,yes,no,no
-SHA-06-001,SHA-06-001,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8.8 by 11.3,1990,"Bahrain, National Museum",Sharhabil Ahmed at a conference,,yes,no,no
+SHA-06-001,SHA-06-001,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8.8 by 11.3,1990,"Bahrain, National Museum",Sharhabil Ahmed at a conference,,yes,no,no
 SHA-06-001,SHA-06-001,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 8.8 by 11.3,1990,البحرين، المتحف القومي,شرحبيل احمد في مؤتمر,,yes,no,no
 SHA-06-002,SHA-06-002,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 7.7 by 9.9,late 1960s,"Khartoum, Khartoum Cultural Club","Stokeley Carmichael visiting with members of ""Jazz Club Number 1""",,yes,yes,yes
 SHA-06-002,SHA-06-002,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 7.7 by 9.9,late 1960s,الخرطوم، نادي ثقافي,زيارة ستوكلي كارمايكل مع اعضاء نادي جاز نمرة واحدة,,yes,yes,yes
-SHA-06-003,SHA-06-003,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 9.5 by 14.3,late 1970s,"Khartoum, Sports Park",Shihab Sharhabil and school children,,yes,no,no
+SHA-06-003,SHA-06-003,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 9.5 by 14.3,late 1970s,"Khartoum, Sports Park",Shihab Sharhabil and school children,,yes,no,no
 SHA-06-003,SHA-06-003,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 9.5 by 14.3,late 1970s,الخرطوم، دار الرياضة,شهاب شرحبيل وطلاب المدرسة,,yes,no,no
 SHA-06-004,SHA-06-004,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 9.9 by 12.6,1971-1972,Khartoum,"Drummer in Sharhabil Ahmed's band, Ethiopian-Sudanese, named 'Adil",,yes,no,no
 SHA-06-004,SHA-06-004,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 9.9 by 12.6,1971-1972,الخرطوم,عازف درامز في فرقة شرحبيل اثيوبي سوداني اسمه عادل,,yes,no,no
-SHA-06-005,SHA-06-005,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8.8 by 12.6,1980s,Khartoum,Hamid Osman,,yes,no,no
+SHA-06-005,SHA-06-005,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8.8 by 12.6,1980s,Khartoum,Hamid Osman,,yes,no,no
 SHA-06-005,SHA-06-005,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 8.8 by 12.6,1980s,الخرطوم,حامد عثمان ,,yes,no,no
 SHA-06-006,SHA-06-006,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8.8 by 12.6,1980s,Khartoum,Ali Yagoub Kabashi,,yes,no,no
 SHA-06-006,SHA-06-006,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 8.8 by 12.6,1980s,الخرطوم,علي يعقوب كباشي ,,yes,no,no
-SHA-06-007,SHA-06-007,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 13,March 1982,Khartoum,Sharhabil Ahmed and his band,,yes,no,no
+SHA-06-007,SHA-06-007,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 13,March 1982,Khartoum,Sharhabil Ahmed and his band,,yes,no,no
 SHA-06-007,SHA-06-007,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.1 by 13,March 1982,الخرطوم,شرحبيل احمد و فرقته,,yes,no,no
 SHA-06-008,SHA-06-008,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 12.1 by 18.3,1970s,Khartoum,Sharhabil Ahmed with government officials,,yes,no,no
 SHA-06-008,SHA-06-008,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 12.1 by 18.3,1970s,الخرطوم,شرحبيل احمد مع مسؤولين حكومي,,yes,no,no
-SHA-07-001,SHA-07-001,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,poster 20.2 by 29.7,1977,Khartoum,Announcement of Sharhabil Ahmed performance before the Civil Aviation department,,yes,yes,yes
-SHA-07-001,SHA-07-001,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,poster 20.2 by 29.7,1977,الخرطوم,تكريم شرحبيل احمد من قبل مصلحة الطيران المدني,,yes,yes,yes
+SHA-07-001,SHA-07-001,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,poster 20.2 by 29.7,1977,Khartoum,Announcement of Sharhabil Ahmed performance before the Civil Aviation department,,yes,no,no
+SHA-07-001,SHA-07-001,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,poster 20.2 by 29.7,1977,الخرطوم,تكريم شرحبيل احمد من قبل مصلحة الطيران المدني,,yes,no,no
 SHA-07-002,SHA-07-002,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.9 by 16.7,8/9/1977,"Khartoum, Civil Aviation Club",Audience at Sharhabil Ahmed concert,,yes,no,no
 SHA-07-002,SHA-07-002,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.9 by 16.7,8/9/1977,الخرطوم، نادي الطيران المدني,جمهور في حفل تكريم شرحبيل احمد,,yes,no,no
-SHA-07-003,SHA-07-003,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.6 by 16.8,7/9/1977,"Khartoum, Civil Aviation Club",Sharhabil Ahmed and Radio Announcer Faisal at concert,,yes,no,no
+SHA-07-003,SHA-07-003,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.6 by 16.8,7/9/1977,"Khartoum, Civil Aviation Club",Sharhabil Ahmed and Radio Announcer Faisal at concert,,yes,no,no
 SHA-07-003,SHA-07-003,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.6 by 16.8,7/9/1977,الخرطوم، نادي الطيران المدني,شرحبيل احمد ومزيع فيصل في حفل تكريم شرحبيل احمد,,yes,no,no
 SHA-07-004,SHA-07-004,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.2 by 16.8,8/9/1977,"Khartoum, Civil Aviation Club",Sharhabil Ahmed members of his band and radio announcer Faisal at concert,,yes,no,no
 SHA-07-004,SHA-07-004,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.2 by 16.8,8/9/1977,الخرطوم، نادي الطيران المدني,شرحبيل احمد واعضاء فرقته ومذيع الحفل فيصل في حفل تكريم شرحبيل احمد,,yes,no,no
-SHA-07-005,SHA-07-005,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.4 by 16.8,8/9/1977,"Khartoum, Civil Aviation Club",Sharhabil Ahmed and another person at concert,,yes,no,no
+SHA-07-005,SHA-07-005,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.4 by 16.8,8/9/1977,"Khartoum, Civil Aviation Club",Sharhabil Ahmed and another person at concert,,yes,no,no
 SHA-07-005,SHA-07-005,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.4 by 16.8,8/9/1977,الخرطوم، نادي الطيران المدني,شرحبيل احمد وشخص اخر في حفل تكريم شرحبيل احمد,,yes,no,no
 SHA-07-006,SHA-07-006,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.4 by 16.8,7/9/1977,"Khartoum, Civil Aviation Club",Sharhabil Ahmed and Faisal at concert,,yes,no,no
 SHA-07-006,SHA-07-006,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.4 by 16.8,7/9/1977,الخرطوم، نادي الطيران المدني,شرحبيل احمد و فيصل في حفل تكريم شرحبيل احمد,,yes,no,no
-SHA-07-007,SHA-07-007,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.4 by 16.8,8/9/1977,"Khartoum, Civil Aviation Club",Sharhabil Ahmed and another person at concert,,yes,no,no
+SHA-07-007,SHA-07-007,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.4 by 16.8,8/9/1977,"Khartoum, Civil Aviation Club",Sharhabil Ahmed and another person at concert,,yes,no,no
 SHA-07-007,SHA-07-007,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.4 by 16.8,8/9/1977,الخرطوم، نادي الطيران المدني,شرحبيل احمد وشخص اخر في حفل تكريم شرحبيل احمد,,yes,no,no
 SHA-07-008,SHA-07-008,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.4 by 16.8,8/9/1977,"Khartoum, Civil Aviation Club",Sharhabil Ahmed ,,yes,no,no
 SHA-07-008,SHA-07-008,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.4 by 16.8,8/9/1977,الخرطوم، نادي الطيران المدني,شرحبيل احمد,,yes,no,no
-SHA-07-009,SHA-07-009,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.4 by 16.8,8/9/1977,"Khartoum, Civil Aviation Club",Sharhabil Ahmed with someone else,,yes,no,no
+SHA-07-009,SHA-07-009,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.4 by 16.8,8/9/1977,"Khartoum, Civil Aviation Club",Sharhabil Ahmed with someone else,,yes,no,no
 SHA-07-009,SHA-07-009,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.4 by 16.8,8/9/1977,الخرطوم، نادي الطيران المدني,شرحبيل احمد وشخص اخر في حفل تكريم شرحبيل احمد,,yes,no,no
-SHA-07-010,SHA-07-010,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.4 by 16.8,8/9/1977,"Khartoum, Civil Aviation Club",Sharhabil Ahmed Kamil Hussain and 'Ali Yagoub Kabashi performing,,yes,no,no
-SHA-07-010,SHA-07-010,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.4 by 16.8,8/9/1977,الخرطوم، نادي الطيران المدني,عازفين شرحبيل احمد كامل حسين وعلي يعقوب كباشي,,yes,no,no
-SHA-08-001,SHA-08-001,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Studio Salah Sennar City,photograph 8.6 by 13.5,6/12/1964,Sennar,Mahdi 'Ali Kamil Hussain Sharhabil Ahmed and a fan,,yes,no,no
+SHA-07-010,SHA-07-010,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.4 by 16.8,8/9/1977,"Khartoum, Civil Aviation Club",Sharhabil Ahmed Kamil Hussain and 'Ali Yagoub Kabashi performing,,yes,yes,yes
+SHA-07-010,SHA-07-010,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.4 by 16.8,8/9/1977,الخرطوم، نادي الطيران المدني,عازفين شرحبيل احمد كامل حسين وعلي يعقوب كباشي,,yes,yes,yes
+SHA-08-001,SHA-08-001,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Studio Salah Sennar City,photograph 8.6 by 13.5,6/12/1964,Sennar,Mahdi 'Ali Kamil Hussain Sharhabil Ahmed and a fan,,yes,no,no
 SHA-08-001,SHA-08-001,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,ستديو صلاح سنار المدينة,photograph 8.6 by 13.5,6/12/1964,سنار,مهدي علي وكامل حسين وشرحبيل احمد ومعجب,,yes,no,no
 SHA-08-002,SHA-08-002,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 12.3 by 20.3,1971-1972,"Khartoum, New Saint James",Sharhabil Ahmed's band,,yes,no,no
 SHA-08-002,SHA-08-002,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 12.3 by 20.3,1971-1972,الخرطوم، نيو سانت جيمس,فرقة شرحبيل احمد,,yes,no,no
-SHA-08-003,SHA-08-003,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 12.3 by 20.3,1971-1972,"Khartoum, New Saint James",Sharhabil Ahmed and his band,,yes,yes,yes
+SHA-08-003,SHA-08-003,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 12.3 by 20.3,1971-1972,"Khartoum, New Saint James",Sharhabil Ahmed and his band,,yes,yes,yes
 SHA-08-003,SHA-08-003,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 12.3 by 20.3,1971-1972,الخرطوم، نيو سانت جيمس,شرحبيل احمد وفرقته,,yes,yes,yes
 SHA-09-001,SHA-09-001,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 7.5 by 8.9,1964,southern sudan,Sharhabil Ahmed's band and others in front of a bus,,yes,no,no
 SHA-09-001,SHA-09-001,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 7.5 by 8.9,1964,جنوب السودان,فرقة شرحبيل احمد واخرون امام حافلة,,yes,no,no
-SHA-09-002,SHA-09-002,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 7.3 by 10.5,1964,southern sudan,Sharhabil Ahmed's band and fans,,yes,no,no
+SHA-09-002,SHA-09-002,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 7.3 by 10.5,1964,southern sudan,Sharhabil Ahmed's band and fans,,yes,no,no
 SHA-09-002,SHA-09-002,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 7.3 by 10.5,1964,جنوب السودان,فرقة شرحبيل احمد ومعجبين,,yes,no,no
 SHA-09-003,SHA-09-003,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 7.3 by 10.5,1964,southern sudan,Sharhabil Ahmed's band and others,,yes,no,no
 SHA-09-003,SHA-09-003,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 7.3 by 10.5,1964,جنوب السودان,فرقة شرحبيل احمد واخرون,,yes,no,no
-SHA-09-004,SHA-09-004,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 7.3 by 10.5,1964,southern sudan,Sharhabil ِAhmed's band and others,,yes,no,no
+SHA-09-004,SHA-09-004,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 7.3 by 10.5,1964,southern sudan,Sharhabil ِAhmed's band and others,,yes,no,no
 SHA-09-004,SHA-09-004,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 7.3 by 10.5,1964,جنوب السودان,فرقة شرحبيل احمد واخرون,,yes,no,no
 SHA-09-005,SHA-09-005,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 7.3 by 10.5,1964,southern sudan,Sharhabil ِAhmed's band and others,,yes,no,no
 SHA-09-005,SHA-09-005,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 7.3 by 10.5,1964,جنوب السودان,فرقة شرحبيل احمد واخرون,,yes,no,no
-SHA-09-006,SHA-09-006,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 7.2 by 10.5,1964,southern sudan,Sharhabil Ahmed's band and others,,yes,no,no
+SHA-09-006,SHA-09-006,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 7.2 by 10.5,1964,southern sudan,Sharhabil Ahmed's band and others,,yes,no,no
 SHA-09-006,SHA-09-006,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 7.2 by 10.5,1964,جنوب السودان,فرقة شرحبيل احمد واخرون,,yes,no,no
 SHA-09-007,SHA-09-007,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 7.4 by 10.5,1964,Malakal,Ahmed Ibrahim Daoud,,yes,no,no
 SHA-09-007,SHA-09-007,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 7.4 by 10.5,1964,ملكال,احمد ابراهيم داوؤد,,yes,no,no
-SHA-09-008,SHA-09-008,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 7.4 by 10.5,1964,southern sudan,Sharhabil Ahmed's band and others,,yes,no,no
+SHA-09-008,SHA-09-008,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 7.4 by 10.5,1964,southern sudan,Sharhabil Ahmed's band and others,,yes,no,no
 SHA-09-008,SHA-09-008,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 7.4 by 10.5,1964,جنوب السودان,فرقة شرحبيل احمد واخرون,,yes,no,no
 SHA-09-009,SHA-09-009,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 7.4 by 10.5,1964,southern sudan,Sharhabil Ahmed's band and others,,yes,no,no
 SHA-09-009,SHA-09-009,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 7.4 by 10.5,1964,جنوب السودان,فرقة شرحبيل احمد واخرون,,yes,no,no
-SHA-09-010,SHA-09-010,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 7.4 by 10.5,1964,southern sudan,Sharhabil Ahmed and another person in front of an airplane,,yes,no,no
+SHA-09-010,SHA-09-010,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 7.4 by 10.5,1964,southern sudan,Sharhabil Ahmed and another person in front of an airplane,,yes,no,no
 SHA-09-010,SHA-09-010,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 7.4 by 10.5,1964,جنوب السودان,شرحبيل احمد وشخص اخر امام طائرة,,yes,no,no
 SHA-09-011,SHA-09-011,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 7.5 by 10.5,1965,Tunisia,Sharhabil Ahmed's band and others,,yes,no,no
 SHA-09-011,SHA-09-011,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 7.5 by 10.5,1965,تونس,فرقة شرحبيل احمد واخرون,,yes,no,no
-SHA-09-012,SHA-09-012,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 7.3 by 10.6,1964,southern sudan,Sharhabil Ahmed's band and others,,yes,no,no
+SHA-09-012,SHA-09-012,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 7.3 by 10.6,1964,southern sudan,Sharhabil Ahmed's band and others,,yes,no,no
 SHA-09-012,SHA-09-012,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 7.3 by 10.6,1964,جنوب السودان,فرقة شرحبيل احمد واخرون,,yes,no,no
 SHA-09-013,SHA-09-013,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 7.3 by 10.4,1964,southern sudan,Sharhabil Ahmed,,yes,no,no
 SHA-09-013,SHA-09-013,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 7.3 by 10.4,1964,جنوب السودان,شرحبيل احمد,,yes,no,no
-SHA-09-014,SHA-09-014,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 7.3 by 10.5,1964,Wau,Sharhabil Ahmed's band and someone else,,yes,no,no
+SHA-09-014,SHA-09-014,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 7.3 by 10.5,1964,Wau,Sharhabil Ahmed's band and someone else,,yes,no,no
 SHA-09-014,SHA-09-014,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 7.3 by 10.5,1964,واو,فرقة شرحبيل احمد وشخص اخر,,yes,no,no
-SHA-09-015,SHA-09-015,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 7.4 by 10.4,1964,Malakal,Prisoners dancing,,yes,yes,yes
-SHA-09-015,SHA-09-015,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 7.4 by 10.4,1964,ملكال,السجناء راقصين,,yes,yes,yes
-SHA-10-001,SHA-10-001,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 6.9 by 9.8,1969-1970,"Khartoum, Amarat",Sharhabil Ahmed and friend dancing,,yes,no,no
+SHA-09-015,SHA-09-015,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 7.4 by 10.4,1964,Malakal,Prisoners dancing,,yes,no,no
+SHA-09-015,SHA-09-015,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 7.4 by 10.4,1964,ملكال,السجناء راقصين,,yes,no,no
+SHA-10-001,SHA-10-001,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 6.9 by 9.8,1969-1970,"Khartoum, Amarat",Sharhabil Ahmed and friend dancing,,yes,no,no
 SHA-10-001,SHA-10-001,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 6.9 by 9.8,1969-1970,الخرطوم، العمارات,شرحبيل احمد وصديقه راقصان,,yes,no,no
 SHA-10-002,SHA-10-002,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 6.9 by 9.8,1969-1970,"Khartoum, Amarat",Friends of Sharhabil Ahmed,,yes,no,no
 SHA-10-002,SHA-10-002,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 6.9 by 9.8,1969-1970,الخرطوم، العمارات,أصحاب شرحبيل احمد,,yes,no,no
-SHA-10-003,SHA-10-003,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 6.9 by 9.8,1969-1970,"Khartoum, Amarat",Friends of Sharhabil Ahmed,,yes,no,no
+SHA-10-003,SHA-10-003,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 6.9 by 9.8,1969-1970,"Khartoum, Amarat",Friends of Sharhabil Ahmed,,yes,no,no
 SHA-10-003,SHA-10-003,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 6.9 by 9.8,1969-1970,الخرطوم، العمارات,أصحاب شرحبيل احمد,,yes,no,no
 SHA-10-004,SHA-10-004,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 6.9 by 9.9,1969-1970,"Khartoum, Amarat",Friends of Sharhabil Ahmed dancing,,yes,no,no
 SHA-10-004,SHA-10-004,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 6.9 by 9.9,1969-1970,الخرطوم، العمارات,أصحاب شرحبيل احمد راقصين,,yes,no,no
-SHA-10-005,SHA-10-005,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 6.9 by 9.10,1969-1970,"Khartoum, Amarat",Friends of Sharhabil Ahmed dancing,,yes,no,no
+SHA-10-005,SHA-10-005,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 6.9 by 9.10,1969-1970,"Khartoum, Amarat",Friends of Sharhabil Ahmed dancing,,yes,no,no
 SHA-10-005,SHA-10-005,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 6.9 by 9.10,1969-1970,الخرطوم، العمارات,أصحاب شرحبيل احمد راقصين,,yes,no,no
 SHA-10-006,SHA-10-006,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 6.9 by 9.11,1969-1970,"Khartoum, Amarat",Friends of Sharhabil Ahmed dancing,,yes,no,no
 SHA-10-006,SHA-10-006,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 6.9 by 9.11,1969-1970,الخرطوم، العمارات,أصحاب شرحبيل احمد راقصين,,yes,no,no
-SHA-10-007,SHA-10-007,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8.7 by 9.1,late 1950s,"Khartoum, Zoo",Sharhabil Ahmed al Tayeb Muhammad Sa'eed and another,,yes,no,no
+SHA-10-007,SHA-10-007,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8.7 by 9.1,late 1950s,"Khartoum, Zoo",Sharhabil Ahmed al Tayeb Muhammad Sa'eed and another,,yes,no,no
 SHA-10-007,SHA-10-007,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 8.7 by 9.1,late 1950s,الخرطوم، حديقة الحيوان,شرحبيل احمد الطيب محمد سعيد وشخص اخر,,yes,no,no
 SHA-10-008,SHA-10-008,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8 by 8.4,1954-1955,"Khartoum, Sudan University, College of Fine Arts",Sharhabil Ahmed and a friend,,yes,no,no
 SHA-10-008,SHA-10-008,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 8 by 8.4,1954-1955,الخرطوم، جامعية السودان كلية، الفنون الجميلة,شرحبيل احمد وصديقه,,yes,no,no
-SHA-10-009,SHA-10-009,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8.6 by 9,1958,"Khartoum, Zoo",Sharhabil Ahmed and al Tayeb Muhammad Sa'eed,,yes,no,no
+SHA-10-009,SHA-10-009,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8.6 by 9,1958,"Khartoum, Zoo",Sharhabil Ahmed and al Tayeb Muhammad Sa'eed,,yes,no,no
 SHA-10-009,SHA-10-009,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 8.6 by 9,1958,الخرطوم، حديقة الحيوان,شرحبيل احمد والطيب محمد سعيد,,yes,no,no
 SHA-10-010,SHA-10-010,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 6.4 by 9.1,1959-1960,Khartoum,Kamil Hussain,,yes,no,no
 SHA-10-010,SHA-10-010,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 6.4 by 9.1,1959-1960,الخرطوم,كامل حسين,,yes,no,no
-SHA-10-011,SHA-10-011,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8.7 by 9,late 1950s,"Khartoum, Zoo",Sharhabil Ahmed al Tayeb Muhammad Sa'eed and another,,yes,no,no
+SHA-10-011,SHA-10-011,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8.7 by 9,late 1950s,"Khartoum, Zoo",Sharhabil Ahmed al Tayeb Muhammad Sa'eed and another,,yes,no,no
 SHA-10-011,SHA-10-011,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 8.7 by 9,late 1950s,الخرطوم، حديقة الحيوان,شرحبيل احمد الطيب محمد سعيد وشخص اخر,,yes,no,no
 SHA-10-012,SHA-10-012,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.2 by 15.2,09/08/1980,"Khartoum, Afra Center",Nasir al Din Shulgami Sharhabil Ahmed and Muhammad 'Afifi,,yes,no,no
 SHA-10-012,SHA-10-012,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.2 by 15.2,09/08/1980,الخرطوم، افراء سنتر,نصر الدين شلقامي وشرحبيل احمد ومحمد عفيفي,,yes,no,no
-SHA-10-013,SHA-10-013,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8.7 by 12.5,1980s,Khartoum,Sharhabil Ahmed and his band including Zakia Abu Gasim Abdullah 'Ali Yagoub Kamil Hussain and Hamid Osman,,yes,no,no
+SHA-10-013,SHA-10-013,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8.7 by 12.5,1980s,Khartoum,Sharhabil Ahmed and his band including Zakia Abu Gasim Abdullah 'Ali Yagoub Kamil Hussain and Hamid Osman,,yes,no,no
 SHA-10-013,SHA-10-013,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 8.7 by 12.5,1980s,الخرطوم,شرحبيل احمد وفرقته من صمنهم زكية ابو القاسم وعبدالله علي يعقوب وكامل حسين وحامد عثمان,,yes,no,no
 SHA-10-014,SHA-10-014,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 6.9 by 9.7,1969-1970,"Khartoum, Amarat",Sharhabil Ahmed and friends dancing,,yes,no,no
 SHA-10-014,SHA-10-014,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 6.9 by 9.7,1969-1970,الخرطوم، العمارات,شرحبيل احمد واصحابه راقصين,,yes,no,no
-SHA-10-015,SHA-10-015,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 6.8 by 9.8,1969-1970,"Khartoum, Amarat",Sharhabil Ahmed and friends,,yes,no,no
+SHA-10-015,SHA-10-015,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 6.8 by 9.8,1969-1970,"Khartoum, Amarat",Sharhabil Ahmed and friends,,yes,no,no
 SHA-10-015,SHA-10-015,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 6.8 by 9.8,1969-1970,الخرطوم، العمارات,شرحبيل احمد وصديقينه,,yes,no,no
-SHA-10-016,SHA-10-016,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 16.5 by 21.5,late 1950s,"Khartoum, Kober bridge",Sharhabil Ahmed and other employees of the publications bureau,,yes,no,no
-SHA-10-016,SHA-10-016,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 16.5 by 21.5,late 1950s,الخرطوم، كبري كوبر,شرحبيل احمد وموظفين اخرين من مكتب النشر,,yes,no,no
-SHA-11-001,SHA-11-001,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 16.7 by 22.4,1966,"Ethiopia, Addis Ababa",Sharhabil Ahmed and military officer in airport,,yes,no,no
+SHA-10-016,SHA-10-016,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 16.5 by 21.5,late 1950s,"Khartoum, Kober bridge",Sharhabil Ahmed and other employees of the publications bureau,,yes,yes,yes
+SHA-10-016,SHA-10-016,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 16.5 by 21.5,late 1950s,الخرطوم، كبري كوبر,شرحبيل احمد وموظفين اخرين من مكتب النشر,,yes,yes,yes
+SHA-11-001,SHA-11-001,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 16.7 by 22.4,1966,"Ethiopia, Addis Ababa",Sharhabil Ahmed and military officer in airport,,yes,no,no
 SHA-11-001,SHA-11-001,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 16.7 by 22.4,1966,اثيوبيا، اديس ابابا,شرحبيل احمد وضابط الجيش في مطار,,yes,no,no
 SHA-11-002,SHA-11-002,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Jurg Kobler,photograph 15.2 by 20.2,1966,"Kenya, Nairobi",Harambe band performance,,yes,no,no
 SHA-11-002,SHA-11-002,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد, جورق كوبلير,photograph 15.2 by 20.2,1966,كينيا، نيروبي,عزف فرقة هرامبي,,yes,no,no
-SHA-11-003,SHA-11-003,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Jurg Kobler,photograph 15.3 by 20.6,1966,"Kenya, Nairobi",Harambe band performance,,yes,no,no
+SHA-11-003,SHA-11-003,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Jurg Kobler,photograph 15.3 by 20.6,1966,"Kenya, Nairobi",Harambe band performance,,yes,no,no
 SHA-11-003,SHA-11-003,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد, جورق كوبلير,photograph 15.3 by 20.6,1966,كينيا، نيروبي,عزف فرقة هرامبي,,yes,no,no
 SHA-11-004,SHA-11-004,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 14.5 by 20.7,1966,"Ethiopia, Addis Ababa",crowd of fans of Sharhabil Ahmed and Harambe,,yes,no,no
 SHA-11-004,SHA-11-004,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 14.5 by 20.7,1966,اثيوبيا، اديس ابابا,جمهور من معجبين شرحبيل احمد وهرامبي,,yes,no,no
-SHA-11-005,SHA-11-005,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Jurg Kobler,photograph 15.2 by 21,1966,"Khartoum, National Theater",Harambe band performance,,yes,no,no
+SHA-11-005,SHA-11-005,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Jurg Kobler,photograph 15.2 by 21,1966,"Khartoum, National Theater",Harambe band performance,,yes,no,no
 SHA-11-005,SHA-11-005,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,جورق كوبلير,photograph 15.2 by 21,1966,الخرطوم، المسرح القومي,عزف فرقة هرامبي,,yes,no,no
 SHA-11-006,SHA-11-006,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 15.3 by 20.3,1966,"Kenya, Nairobi",Harambe band performance,,yes,no,no
 SHA-11-006,SHA-11-006,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 15.3 by 20.3,1966,كينيا، نيروبي,عزف فرقة هرامبي,,yes,no,no
-SHA-11-007,SHA-11-007,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 11.7 by 16.1,1966,"Kenya, Nairobi",Harambe band performance,,yes,no,no
+SHA-11-007,SHA-11-007,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 11.7 by 16.1,1966,"Kenya, Nairobi",Harambe band performance,,yes,no,no
 SHA-11-007,SHA-11-007,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 11.7 by 16.1,1966,كينيا، نيروبي,عزف فرقة هرامبي,,yes,no,no
-SHA-11-008,SHA-11-008,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Sudanese Minsitry of Information,photograph 10.6 by 15.2,1966,Khartoum,Harambe received by Za'im al Azhari,,yes,no,no
-SHA-11-008,SHA-11-008,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,وزارة الاعلام السوداني,photograph 10.6 by 15.2,1966,الخرطوم,هرامبي مع زعيم الازهري,,yes,no,no
-SHA-11-009,SHA-11-009,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Jurg Kobler,photograph 10.8 by 14.9,1966,"Ethiopia, Addis Ababa",Haile Selassie in crowd,,yes,no,no
+SHA-11-008,SHA-11-008,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Sudanese Minsitry of Information,photograph 10.6 by 15.2,1966,Khartoum,Harambe received by President al Azhari,,yes,no,no
+SHA-11-008,SHA-11-008,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,وزارة الاعلام السوداني,photograph 10.6 by 15.2,1966,الخرطوم,هرامبي مع رئيس الازهري,,yes,no,no
+SHA-11-009,SHA-11-009,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Jurg Kobler,photograph 10.8 by 14.9,1966,"Ethiopia, Addis Ababa",Haile Selassie in crowd,,yes,no,no
 SHA-11-009,SHA-11-009,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,جورق كوبلير,photograph 10.8 by 14.9,1966,اثيوبيا، اديس ابابا,هايلي سيلاسي في جمهور,,yes,no,no
 SHA-11-010,SHA-11-010,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Jurg Kobler,photograph 12.1 by 16.2,1966,"Ethiopia, Addis Ababa",Harambe band performance,,yes,no,no
 SHA-11-010,SHA-11-010,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,جورق كوبلير,photograph 12.1 by 16.2,1966,اثيوبيا، اديس ابابا,عزف فرقة هرامبي,,yes,no,no
-SHA-11-011,SHA-11-011,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 12 by 16,1966,"Ethiopia, Addis Ababa",Harambe band performance,,yes,no,no
+SHA-11-011,SHA-11-011,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 12 by 16,1966,"Ethiopia, Addis Ababa",Harambe band performance,,yes,no,no
 SHA-11-011,SHA-11-011,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 12 by 16,1966,اثيوبيا، اديس ابابا,عزف فرقة هرامبي,,yes,no,no
 SHA-11-012,SHA-11-012,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 15.9 by 20.3,1966,"Ethiopia, Addis Ababa",Harambe band performance,,yes,no,no
 SHA-11-012,SHA-11-012,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 15.9 by 20.3,1966,اثيوبيا، اديس ابابا,عزف فرقة هرامبي,,yes,no,no
-SHA-11-013,SHA-11-013,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 15.5 by 20.6,1966,"Kenya, Nairobi",Sudanese Ambassador Sayed Mirghani and Kenyan government officials welcoming Harambe ,,yes,no,no
+SHA-11-013,SHA-11-013,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 15.5 by 20.6,1966,"Kenya, Nairobi",Sudanese Ambassador Sayed Mirghani and Kenyan government officials welcoming Harambe ,,yes,no,no
 SHA-11-013,SHA-11-013,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 15.5 by 20.6,1966,كينيا، نيروبي,السفير السوداني سيد مرغني ومسؤلين كينيي في استقبال فرقة هرامبي,,yes,no,no
 SHA-11-014,SHA-11-014,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 15.7 by 20.6,1966,"Ethiopia, Addis Ababa",Haile Selassie with Harambe band members Lucy Muro and Magdalene Anyango,,yes,no,no
 SHA-11-014,SHA-11-014,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 15.7 by 20.6,1966,اثيوبيا، اديس ابابا,هايلي سيلاسي مع اعصضاء من فرقة هرامبي لوسي مورو وماغدالين انيانغو,,yes,no,no
-SHA-11-015,SHA-11-015,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 15.7 by 20.6,1966,"Ethiopia, Addis Ababa",Reception of Harambe band at airport with lion,,yes,no,no
+SHA-11-015,SHA-11-015,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 15.7 by 20.6,1966,"Ethiopia, Addis Ababa",Reception of Harambe band at airport with lion,,yes,no,no
 SHA-11-015,SHA-11-015,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 15.7 by 20.6,1966,اثيوبيا، اديس ابابا,استقبال فرقة هرامبي في المطار مع الاسد,,yes,no,no
-SHA-11-016,SHA-11-016,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 15.4 by 20.4,1966,Khartoum,Reception of Harambe band with Sadiq al Mahdi,,yes,no,no
-SHA-11-016,SHA-11-016,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 15.4 by 20.4,1966,الخرطوم,استقبال فرقة هرامبي مع صادق المهدي,,yes,no,no
-SHA-11-017,SHA-11-017,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10 by 14.7,1966,"Ethiopia, Addis Ababa",Reception of Harambe band at airport with lion,,yes,no,no
+SHA-11-016,SHA-11-016,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 15.4 by 20.4,1966,Khartoum,Reception of Harambe band with Sadiq al Mahdi,,yes,yes,yes
+SHA-11-016,SHA-11-016,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 15.4 by 20.4,1966,الخرطوم,استقبال فرقة هرامبي مع صادق المهدي,,yes,yes,yes
+SHA-11-017,SHA-11-017,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10 by 14.7,1966,"Ethiopia, Addis Ababa",Reception of Harambe band at airport with lion,,yes,no,no
 SHA-11-017,SHA-11-017,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10 by 14.7,1966,اثيوبيا، اديس ابابا,استقبال هرامبي في المطار مع الاسد,,yes,no,no
-SHA-11-018,SHA-11-018,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 12.3 by 16.5,1966,Khartoum,Reception of Harambe with Za'im al Azhari,,yes,no,no
-SHA-11-018,SHA-11-018,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 12.3 by 16.5,1966,الخرطوم,استقبال فرقة هرامبي مع زعيم الازهري,,yes,no,no
-SHA-11-019,SHA-11-019,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 11.6 by 17.7,1966,"Ethiopia, Addis Ababa",Carriage of Haile Selassie,,yes,no,no
+SHA-11-018,SHA-11-018,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 12.3 by 16.5,1966,Khartoum,Reception of Harambe with President al Azhari,,yes,no,no
+SHA-11-018,SHA-11-018,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 12.3 by 16.5,1966,الخرطوم,استقبال فرقة هرامبي مع رئيس الازهري,,yes,no,no
+SHA-11-019,SHA-11-019,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 11.6 by 17.7,1966,"Ethiopia, Addis Ababa",Carriage of Haile Selassie,,yes,no,no
 SHA-11-019,SHA-11-019,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 11.6 by 17.7,1966,اثيوبيا، اديس ابابا,نقل هايلي سيلاسي,,yes,no,no
 SHA-11-020,SHA-11-020,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 11.6 by 16.4,1966,"Ethiopia, Addis Ababa",Harambe band performance,,yes,no,no
 SHA-11-020,SHA-11-020,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 11.6 by 16.4,1966,اثيوبيا، اديس ابابا,عزف فرقة هرامبي,,yes,no,no
-SHA-11-021,SHA-11-021,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 11.4 by 18.1,1966,"Ethiopia, Addis Ababa",Group of soldiers,,yes,no,no
+SHA-11-021,SHA-11-021,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 11.4 by 18.1,1966,"Ethiopia, Addis Ababa",Group of soldiers,,yes,no,no
 SHA-11-021,SHA-11-021,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 11.4 by 18.1,1966,اثيوبيا، اديس ابابا,مجموعة من الجنود,,yes,no,no
 SHA-11-022,SHA-11-022,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Jurg Kobler,photograph 15.8 by 20.7,1966,"Ethiopia, Addis Ababa",Commander of Ethiopian Airforce Colonel Aberra Mariam and memberr of Harambe,,yes,no,no
 SHA-11-022,SHA-11-022,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,جورق كوبلير,photograph 15.8 by 20.7,1966,اثيوبيا، اديس ابابا,قائد القوات الجوية ابيرا ماريام وعضوء من فرقة هرامبي,,yes,no,no
-SHA-11-023,SHA-11-023,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Sudanese Ministry of Information,photograph 14.6 by 19.8,1966,"Ethiopia, Addis Ababa",Harambe band performance,,yes,no,no
+SHA-11-023,SHA-11-023,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Sudanese Ministry of Information,photograph 14.6 by 19.8,1966,"Ethiopia, Addis Ababa",Harambe band performance,,yes,no,no
 SHA-11-023,SHA-11-023,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,وزارة الاعلام السوداني,photograph 14.6 by 19.8,1966,اثيوبيا، اديس ابابا,عزف فرقة هرامبي,,yes,no,no
 SHA-11-024,SHA-11-024,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 16.6 by 22.4,18/3/1966,"Ethiopia, Bashuftu Military Airport",Reception of Harambe band at airport,,yes,no,no
 SHA-11-024,SHA-11-024,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 16.6 by 22.4,18/3/1966,اثيوبيا، باشوفتو مطار عسكري,استقبال فرقة هرامبي في المطار,,yes,no,no
-SHA-12-001,SHA-12-001,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8.9 by 12.8,1988,"Khartoum, Friendship Hall",Sharhabil Ahmed and Harry Balafonte performing,,yes,no,no
+SHA-12-001,SHA-12-001,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8.9 by 12.8,1988,"Khartoum, Friendship Hall",Sharhabil Ahmed and Harry Balafonte performing,,yes,no,no
 SHA-12-001,SHA-12-001,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 8.9 by 12.8,1988,الخرطوم، قاعة الصداقة,عزف شرحبيل احمد وهاري بلفونتي,,yes,no,no
 SHA-12-002,SHA-12-002,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 9.4 by 13.3,1960s,Khartoum,Sharhabil Ahmed and his band including Zakia Abu Gasim,,yes,no,no
 SHA-12-002,SHA-12-002,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 9.4 by 13.3,1960s,الخرطوم,شرحبيل احمد وفرقته من ضمنهم زكية ابو القاسم,,yes,no,no
-SHA-12-003,SHA-12-003,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,2000s,Khartoum,Sharhabil Ahmed with a guitar,,yes,no,no
+SHA-12-003,SHA-12-003,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,2000s,Khartoum,Sharhabil Ahmed with a guitar,,yes,no,no
 SHA-12-003,SHA-12-003,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.1 by 15.1,2000s,الخرطوم,شرحبيل احمد بالجيتار,,yes,no,no
 SHA-12-004,SHA-12-004,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,2000s,Khartoum,Sharhabil Ahmed with a guitar,,yes,no,no
 SHA-12-004,SHA-12-004,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.1 by 15.1,2000s,الخرطوم,شرحبيل احمد بالجيتار,,yes,no,no
-SHA-12-005,SHA-12-005,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,2000s,Khartoum,Sharhabil Ahmed with a guitar,,yes,no,no
+SHA-12-005,SHA-12-005,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,2000s,Khartoum,Sharhabil Ahmed with a guitar,,yes,no,no
 SHA-12-005,SHA-12-005,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.1 by 15.1,2000s,الخرطوم,شرحبيل احمد بالجيتار,,yes,no,no
 SHA-12-006,SHA-12-006,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,2000s,Khartoum,Sharhabil Ahmed with a guitar,,yes,no,no
 SHA-12-006,SHA-12-006,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.1 by 15.1,2000s,الخرطوم,شرحبيل احمد بالجيتار,,yes,no,no
-SHA-12-007,SHA-12-007,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 9.9 by 15.1,1988,"Emirates, al 'Ain",Sharhabil Ahmed and two others in a bus,,yes,no,no
+SHA-12-007,SHA-12-007,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 9.9 by 15.1,1988,"Emirates, al 'Ain",Sharhabil Ahmed and two others in a bus,,yes,no,no
 SHA-12-007,SHA-12-007,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 9.9 by 15.1,1988,الامارات، العين,شرحبيل احمد واثنين اخرين في حافلة,,yes,no,no
 SHA-12-008,SHA-12-008,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8.7 by 12.6,1984,Libya,Sharhabil Ahmed and Jaylan al Wathiq ,,yes,no,no
 SHA-12-008,SHA-12-008,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 8.7 by 12.6,1984,ليبيا,شرحبيل احمد وجيلان الواثق,,yes,no,no
-SHA-12-009,SHA-12-009,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8.6 by 13.8,1957-1958,"Egypt, Manufiya, Sirs al Layan",Sharhabil Ahmed and Kamil Hussain,,yes,no,no
+SHA-12-009,SHA-12-009,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8.6 by 13.8,1957-1958,"Egypt, Manufiya, Sirs al Layan",Sharhabil Ahmed and Kamil Hussain,,yes,no,no
 SHA-12-009,SHA-12-009,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 8.6 by 13.8,1957-1958,مصر، المنوفية، سرس الليان,شرحبيل احمد وكامل حسين,,yes,no,no
 SHA-12-010,SHA-12-010,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8.7 by 12.6,1984,Libya,Crowd at Sharhabil Ahmed concert,,yes,no,no
 SHA-12-010,SHA-12-010,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 8.7 by 12.6,1984,ليبيا,جمهور في حفل شرحبيل احمد,,yes,no,no
-SHA-12-011,SHA-12-011,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8.7 by 12.6,1984,Libya,Sharhabil Ahmed and band with another person,,yes,no,no
+SHA-12-011,SHA-12-011,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8.7 by 12.6,1984,Libya,Sharhabil Ahmed and band with another person,,yes,no,no
 SHA-12-011,SHA-12-011,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 8.7 by 12.6,1984,ليبيا,شرحبيل احمد وفرقته مع سخص اخر,,yes,no,no
 SHA-12-012,SHA-12-012,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8.7 by 12.6,1984,Libya,Sharhabil Ahmed's band and another person,,yes,no,no
 SHA-12-012,SHA-12-012,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 8.7 by 12.6,1984,ليبيا,فرقة شرحبيل احمد وشخص اخر,,yes,no,no
-SHA-13-001,SHA-13-001,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 7.9 by 11.1,1965,Tunisia,Sharhabil Ahmed Kamil Hussain and Hassan Saroji dancing a traditional dance ,,yes,yes,yes
-SHA-13-001,SHA-13-001,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 7.9 by 11.1,1965,تونس,عيد المرجان شرحبيل احمد حسن سروجي كامل حسين في رقص شعبي ,,yes,yes,yes
+SHA-13-001,SHA-13-001,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 7.9 by 11.1,1965,Tunisia,Sharhabil Ahmed Kamil Hussain and Hassan Saroji dancing a traditional dance ,,yes,no,no
+SHA-13-001,SHA-13-001,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 7.9 by 11.1,1965,تونس,عيد المرجان شرحبيل احمد حسن سروجي كامل حسين في رقص شعبي ,,yes,no,no
 SHA-14-001,SHA-14-001,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.5 by 16,1963,Khartoum,Hassan Saroji and Sharhabil Ahmed,,yes,no,no
 SHA-14-001,SHA-14-001,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.5 by 16,1963,الخرطوم,حسن سروجي وشرحبيل احمد,,yes,no,no
-SHA-14-002,SHA-14-002,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8.9 by 13.9,1965,Tunisia,Hassan Saroji,,yes,no,no
+SHA-14-002,SHA-14-002,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8.9 by 13.9,1965,Tunisia,Hassan Saroji,,yes,no,no
 SHA-14-002,SHA-14-002,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 8.9 by 13.9,1965,تونس,حسن سروجي,,yes,no,no
 SHA-14-003,SHA-14-003,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8.8 by 14,1965,Khartoum,"Sharhabil Ahmed, his band, 'Ali Shomo, and the Sayed Taj Muhammad director of radio in airport",,yes,no,no
 SHA-14-003,SHA-14-003,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 8.8 by 14,1965,الخرطوم,شرحبيل احمد وفرقته وعلي شمو ومدير الاذاعة السيد التاج محمد في المطار,,yes,no,no
-SHA-14-004,SHA-14-004,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 7.2 by 10.4,1965,Tunisia,Sharhabil Ahmed and his band,,yes,no,no
+SHA-14-004,SHA-14-004,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 7.2 by 10.4,1965,Tunisia,Sharhabil Ahmed and his band,,yes,no,no
 SHA-14-004,SHA-14-004,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 7.2 by 10.4,1965,تونس,شرحبيل احمد وفرقته,,yes,no,no
 SHA-14-005,SHA-14-005,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8.2 by 10,1965,Tunisia,Sharhabil Ahmed Hassan Saroji and some others,,yes,no,no
 SHA-14-005,SHA-14-005,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 8.2 by 10,1965,تونس,شرحبيل احمد وحسن سروجي وبعض الاخرين,,yes,no,no
-SHA-14-006,SHA-14-006,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 7.3 by 10.4,1965,Tunisia,Sharhabil Ahmed his band and some others from al Marjan festival,,yes,no,no
+SHA-14-006,SHA-14-006,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 7.3 by 10.4,1965,Tunisia,Sharhabil Ahmed his band and some others from al Marjan festival,,yes,no,no
 SHA-14-006,SHA-14-006,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 7.3 by 10.4,1965,تونس,شرحبيل احمد وفرقته والاخرون من حفل عيد المرجان,,yes,no,no
 SHA-14-007,SHA-14-007,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 7.3 by 10.4,1965,Tunisia,Sharhabil Ahmed his band and some others from al Marjan festival,,yes,no,no
 SHA-14-007,SHA-14-007,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 7.3 by 10.4,1965,تونس,شرحبيل احمد وفرقته والاخرون من حفل عيد المرجان,,yes,no,no
-SHA-14-008,SHA-14-008,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8 by 11,1965,Tunisia,Sharhabil Ahmed Kamil Hussain and Hassan Saroji dancing a traditional dance ,,yes,no,no
+SHA-14-008,SHA-14-008,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8 by 11,1965,Tunisia,Sharhabil Ahmed Kamil Hussain and Hassan Saroji dancing a traditional dance ,,yes,no,no
 SHA-14-008,SHA-14-008,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 8 by 11,1965,تونس,عيد المرجان شرحبيل احمد حسن سروجي كامل حسين في رقص شعبي ,,yes,no,no
 SHA-15-001,SHA-15-001,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10 by 15.1,2007,"Ethiopia, Addis Ababa",Three people at art exhibition,,yes,no,no
 SHA-15-001,SHA-15-001,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10 by 15.1,2007,اثيوبيا، اديس ابابا,ثلاثة اشخاص في معرض الفن,,yes,no,no
-SHA-15-002,SHA-15-002,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 9.9 by 14.8,25/10/1991,"Ethiopia, Addis Ababa",Sharhabil Ahmed,,yes,no,no
+SHA-15-002,SHA-15-002,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 9.9 by 14.8,25/10/1991,"Ethiopia, Addis Ababa",Sharhabil Ahmed,,yes,no,no
 SHA-15-002,SHA-15-002,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 9.9 by 14.8,25/10/1991,اثيوبيا، اديس ابابا,شرحبيل احمد,,yes,no,no
 SHA-15-003,SHA-15-003,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10 by 15.1,1991,"Ethiopia, Addis Ababa",Sharhabil Ahmed and other envoys for concert,,yes,no,no
 SHA-15-003,SHA-15-003,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10 by 15.1,1991,اثيوبيا، اديس ابابا,شرحبيل احمد ومبعوثين في اثيوبيا لحفل,,yes,no,no
-SHA-15-004,SHA-15-004,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 12.9 by 18.2,1962,"Khartoum, Airport",Alkir Ahmed al Mustafa Sharhabil Ahmed Hassan Saroji and Ahmed Daoud,,yes,no,no
+SHA-15-004,SHA-15-004,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 12.9 by 18.2,1962,"Khartoum, Airport",Alkir Ahmed al Mustafa Sharhabil Ahmed Hassan Saroji and Ahmed Daoud,,yes,no,no
 SHA-15-004,SHA-15-004,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 12.9 by 18.2,1962,الخرطوم، المطار,الكير احمد المصطفى وشرحبيل احمد وحسن سروجي واحمد داؤود,,yes,no,no
 SHA-15-005,SHA-15-005,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 12.2 by 16.4,1962,"Ethiopia, Addis Ababa, Sudanese Ambassador's Residence",Sharhabil Ahmed and others,,yes,no,no
 SHA-15-005,SHA-15-005,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 12.2 by 16.4,1962,اثيوبيا، اديس ابابا، منزل السفير السوداني,شرحبيل احمد واخرين,,yes,no,no
-SHA-15-006,SHA-15-006,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 12.2 by 16.4,1962,"Ethiopia, Addis Ababa",Sharhabil Ahmed other Sudanese and Ethiopian musicians and Sudanese diplomats,,yes,no,no
+SHA-15-006,SHA-15-006,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 12.2 by 16.4,1962,"Ethiopia, Addis Ababa",Sharhabil Ahmed other Sudanese and Ethiopian musicians and Sudanese diplomats,,yes,no,no
 SHA-15-006,SHA-15-006,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 12.2 by 16.4,1962,أثيوبيا، اديس ابابا, شرحبيل احمد والفنانين السودانيين والاثيوبيين وموظفين من السفارة السوداني,,yes,no,no
 SHA-15-007,SHA-15-007,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 12.2 by 16.5,1962,"Ethiopia, Addis Ababa",Sharhabil Ahmed Ahmed Mustafa and many other musicians performing in national theater,,yes,no,no
 SHA-15-007,SHA-15-007,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 12.2 by 16.5,1962,أثيوبيا، اديس ابابا,شرحبيل احمد واحمد مصطفى وفنانين اخر يعزفون في المسرح القومي,,yes,no,no
-SHA-15-008,SHA-15-008,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 12.2 by 16.5,1962,"Ethiopia, Addis Ababa",Sharhabil Ahmed and other musicians performing in the national theater,,yes,no,no
+SHA-15-008,SHA-15-008,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 12.2 by 16.5,1962,"Ethiopia, Addis Ababa",Sharhabil Ahmed and other musicians performing in the national theater,,yes,no,no
 SHA-15-008,SHA-15-008,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 12.2 by 16.5,1962,أثيوبيا، اديس ابابا,يعزف شرحبيل احمد وفنانين اخر في المسرح القومي,,yes,no,no
 SHA-15-009,SHA-15-009,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.2,1991,"Ethiopia, Addis Ababa",Sharhabil Ahmed and other musicians,,yes,no,no
 SHA-15-009,SHA-15-009,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.1 by 15.2,1991,أثيوبيا، اديس ابابا,شرحبيل احمد والفنانين الاخر,,yes,no,no
-SHA-15-010,SHA-15-010,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.2,1991,"Ethiopia, Addis Ababa",Sharhabil Ahmed and other musicians,,yes,no,no
+SHA-15-010,SHA-15-010,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.2,1991,"Ethiopia, Addis Ababa",Sharhabil Ahmed and other musicians,,yes,no,no
 SHA-15-010,SHA-15-010,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.1 by 15.2,1991,أثيوبيا، اديس ابابا,شرحبيل احمد والفنانين الاخر,,yes,no,no
 SHA-15-011,SHA-15-011,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.2,2007,"Ethiopia, Addis Ababa",Sharhabil Ahmed and other musicians,,yes,no,no
 SHA-15-011,SHA-15-011,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.1 by 15.2,2007,أثيوبيا، اديس ابابا,شرحبيل احمد وفنانين اخر,,yes,no,no
-SHA-15-012,SHA-15-012,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 12.1 by 16.4,1962,"Ethiopia, Addis Ababa",Sharhabil Ahmed and others including Abdel Latif Khidir 'Ali Nur al Jalil Tayuba Hassan Saroji and Ahmed Daoud,,yes,no,no
+SHA-15-012,SHA-15-012,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 12.1 by 16.4,1962,"Ethiopia, Addis Ababa",Sharhabil Ahmed and others including Abdel Latif Khidir 'Ali Nur al Jalil Tayuba Hassan Saroji and Ahmed Daoud,,yes,no,no
 SHA-15-012,SHA-15-012,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 12.1 by 16.4,1962,أثيوبيا، اديس ابابا,شرحبيل احمد واخرين من ضمنهم عبد اللطيف خضر وعلي نور الجليل وطيوبا وحسن سروجي واحمد داؤود,,yes,no,no
 SHA-15-013,SHA-15-013,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 12.1 by 16.6,1962,"Ethiopia, Addis Ababa",Sharhabil Ahmed his band and employees of the Sudanese embassy,,yes,no,no
 SHA-15-013,SHA-15-013,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 12.1 by 16.6,1962,أثيوبيا، اديس ابابا,شرحبيل احمد وفرقته وموظفين من السفارة السوداني,,yes,no,no
-SHA-15-014,SHA-15-014,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 12.1 by 16.6,1962,"Ethiopia, Massawa",Sharhabil Ahmed and group at restaurant,,yes,no,no
+SHA-15-014,SHA-15-014,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 12.1 by 16.6,1962,"Ethiopia, Massawa",Sharhabil Ahmed and group at restaurant,,yes,no,no
 SHA-15-014,SHA-15-014,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 12.1 by 16.6,1962,أثيوبيا، مصوع,شرحبيل احمد ومجموعة في المطعم,,yes,no,no
 SHA-15-015,SHA-15-015,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 12.1 by 16.4,1962,"Ethiopia, Massawa",Group of visitors among them Sharhabil Ahmed Ahmed al Mustafa and Osman Hussain,,yes,no,no
 SHA-15-015,SHA-15-015,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 12.1 by 16.4,1962,أثيوبيا، مصوع,مجموعة من الزائرين من ضمنهم شرحبيل احمد واحمد المصطفى وعثمان حسين,,yes,no,no
-SHA-15-016,SHA-15-016,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 12.1 by 16.4,1962,"Ethiopia, Addis Ababa",Sharhabil Ahmed and band in front of crowd in national theater,,yes,no,no
+SHA-15-016,SHA-15-016,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 12.1 by 16.4,1962,"Ethiopia, Addis Ababa",Sharhabil Ahmed and band in front of crowd in national theater,,yes,no,no
 SHA-15-016,SHA-15-016,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 12.1 by 16.4,1962,اثيوبيا، اديس ابابا,شرحبيل احمد وفرقته امام جمهور في المسرح القومي,,yes,no,no
 SHA-16-001,SHA-16-001,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,1993-1995,"Britain, London",Sharhabil Ahmed in crowd,,yes,no,no
 SHA-16-001,SHA-16-001,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.1 by 15.1,1993-1995,بريطانيا، لندن,شرحبيل احمد في جمهور ,,yes,no,no
-SHA-16-002,SHA-16-002,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,1998,France,Sharhabil Ahmed with two others,,yes,no,no
+SHA-16-002,SHA-16-002,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,1998,France,Sharhabil Ahmed with two others,,yes,no,no
 SHA-16-002,SHA-16-002,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.1 by 15.1,1998,الفرنسا,شرحبيل احمد مع شخصان اخران,,yes,no,no
 SHA-16-003,SHA-16-003,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10 by 14.6,1998,France,Sharhabil Ahmed playing 'oud,,yes,no,no
 SHA-16-003,SHA-16-003,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10 by 14.6,1998,الفرنسا,شرحبيل احمد يعزف العود,,yes,no,no
-SHA-16-004,SHA-16-004,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,2003-2005,"Britain, London",Sharhabil Ahmed in front of Buckingham Palace,,yes,no,no
+SHA-16-004,SHA-16-004,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,2003-2005,"Britain, London",Sharhabil Ahmed in front of Buckingham Palace,,yes,no,no
 SHA-16-004,SHA-16-004,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.1 by 15.1,2003-2005,بريطانيا، لندن,شرحبيل احمد امام قصر بوكينهام ,,yes,no,no
 SHA-16-005,SHA-16-005,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,2003-2005,"Britain, London",Sharhabil Ahmed in front of Buckingham Palace,,yes,no,no
 SHA-16-005,SHA-16-005,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.1 by 15.1,2003-2005,بريطانيا، لندن,شرحبيل احمد امام قصر بوكينهام ,,yes,no,no
-SHA-16-006,SHA-16-006,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10 by 14.7,2005,"Britain, London",Sharhabil Ahmed with 'oud and two others,,yes,no,no
+SHA-16-006,SHA-16-006,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10 by 14.7,2005,"Britain, London",Sharhabil Ahmed with 'oud and two others,,yes,no,no
 SHA-16-006,SHA-16-006,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10 by 14.7,2005,بريطانيا، لندن,شرحبيل احمد بالعود وشخصان اخران ,,yes,no,no
 SHA-16-007,SHA-16-007,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10 by 15.2,1995,"Khartoum, Kafouri French Ambassador's Residence",Sharhabil Ahmed and his band,,yes,no,no
 SHA-16-007,SHA-16-007,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10 by 15.2,1995,الخرطوم، كافوري، منزل السفير الفرنسي,شرحبيل احمد وفرقته,,yes,no,no
-SHA-16-008,SHA-16-008,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10 by 15.2,2009-2011,Omdurman,Sharhabil Ahmed and members of the jazz association,,yes,no,no
+SHA-16-008,SHA-16-008,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10 by 15.2,2009-2011,Omdurman,Sharhabil Ahmed and members of the jazz association,,yes,no,no
 SHA-16-008,SHA-16-008,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10 by 15.2,2009-2011,امدرمان,شرحبيل احمد واعضاء من اتحاد الجاز,,yes,no,no
 SHA-16-009,SHA-16-009,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10 by 15,2005,"Britain, Manchester",Sharhabil Ahmed with an 'oud,,yes,no,no
 SHA-16-009,SHA-16-009,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10 by 15,2005,بريطانيا، منتشستر,شرحبيل احمد بالعود,,yes,no,no
-SHA-16-010,SHA-16-010,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10 by 15,early 2000s ,"Egypt, Cairo",Sharhabil Ahmed with a guitar,,yes,no,no
+SHA-16-010,SHA-16-010,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10 by 15,early 2000s ,"Egypt, Cairo",Sharhabil Ahmed with a guitar,,yes,no,no
 SHA-16-010,SHA-16-010,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10 by 15,early 2000s ,مصر، القاهرة,شرحبيل احمد بالجيتار,,yes,no,no
 SHA-16-011,SHA-16-011,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,2001,"Egypt, Cairo",Crowd at Sharhabil Ahmed concert,,yes,no,no
 SHA-16-011,SHA-16-011,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.1 by 15.1,2001,مصر، القاهرة,جمهور في حفل شرحبيل احمد,,yes,no,no
-SHA-16-012,SHA-16-012,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,2001,"Egypt, Cairo",Sharhabil Ahmed and his band,,yes,no,no
+SHA-16-012,SHA-16-012,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,2001,"Egypt, Cairo",Sharhabil Ahmed and his band,,yes,no,no
 SHA-16-012,SHA-16-012,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.1 by 15.1,2001,مصر، القاهرة,شرحبيل احمد وفرقته,,yes,no,no
 SHA-16-013,SHA-16-013,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,2001,"Egypt, Cairo",Sharhabil Ahmed with an 'oud and his band,,yes,no,no
 SHA-16-013,SHA-16-013,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.1 by 15.1,2001,مصر، القاهرة,شرحبيل احمد بالعود وفرقته,,yes,no,no
-SHA-16-014,SHA-16-014,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,2004-2005,"Egypt, Cairo",Sharhabil Ahmed with an 'oud,,yes,no,no
+SHA-16-014,SHA-16-014,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,2004-2005,"Egypt, Cairo",Sharhabil Ahmed with an 'oud,,yes,no,no
 SHA-16-014,SHA-16-014,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.1 by 15.1,2004-2005,مصر، القاهرة,شرحبيل احمد بالعود,,yes,no,no
 SHA-16-015,SHA-16-015,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,early 2000s,"Egypt, Cairo",Sharhabil Ahmed's band,,yes,no,no
 SHA-16-015,SHA-16-015,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.1 by 15.1,early 2000s,مصر، القاهرة,فرقة شرحبيل احمد,,yes,no,no
-SHA-16-016,SHA-16-016,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,early 2000s,"Egypt, Cairo",Sharhabil Ahmed with a guitar,,yes,no,no
+SHA-16-016,SHA-16-016,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,early 2000s,"Egypt, Cairo",Sharhabil Ahmed with a guitar,,yes,no,no
 SHA-16-016,SHA-16-016,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.1 by 15.1,early 2000s,مصر، القاهرة,شرحبيل احمد بالجيتار,,yes,no,no
 SHA-16-017,SHA-16-017,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,2002-2004,"Egypt, Cairo",Sharhabil Ahmed with an 'oud,,yes,no,no
 SHA-16-017,SHA-16-017,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.1 by 15.1,2002-2004,مصر، القاهرة,شرحبيل احمد بالعود,,yes,no,no
-SHA-16-018,SHA-16-018,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10 by 15.1,2003-2004,"Egypt, Cairo",Sharhabil Ahmed concert,,yes,no,no
+SHA-16-018,SHA-16-018,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10 by 15.1,2003-2004,"Egypt, Cairo",Sharhabil Ahmed concert,,yes,no,no
 SHA-16-018,SHA-16-018,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10 by 15.1,2003-2004,مصر، القاهرة,شرحبيل احمد في الحفل,,yes,no,no
 SHA-16-019,SHA-16-019,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,2003-2004,"Egypt, Cairo",Sharhabil Ahmed,,yes,no,no
 SHA-16-019,SHA-16-019,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.1 by 15.1,2003-2004,مصر، القاهرة,شرحبيل احمد,,yes,no,no
-SHA-16-020,SHA-16-020,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,2000,"Egypt, Cairo",Sharhabil Ahmed with a guitar,,yes,no,no
+SHA-16-020,SHA-16-020,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 10.1 by 15.1,2000,"Egypt, Cairo",Sharhabil Ahmed with a guitar,,yes,no,no
 SHA-16-020,SHA-16-020,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 10.1 by 15.1,2000,مصر، القاهرة,شرحبيل احمد بالجيتار,,yes,no,no
 SHA-16-021,SHA-16-021,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 12.5 by 17.8,early 2000s,"Egypt, Cairo",Sharhabil Ahmed with a guitar,,yes,no,no
 SHA-16-021,SHA-16-021,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 12.5 by 17.8,early 2000s,مصر، القاهرة,شرحبيل احمد بالجيتار,,yes,no,no
-SHA-16-022,SHA-16-022,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 9 by 13.9,late 1950s,Khartoum,Sharhabil Ahmed and two others in Ms. Beacon's house,,yes,no,no
+SHA-16-022,SHA-16-022,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 9 by 13.9,late 1950s,Khartoum,Sharhabil Ahmed and two others in Ms. Beacon's house,,yes,no,no
 SHA-16-022,SHA-16-022,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 9 by 13.9,late 1950s,الخرطوم,شرحبيل احمد وشخصان اخران في بيت مسز بيكون,,yes,no,no
 SHA-16-023,SHA-16-023,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 9 by 13.7,1972,"Egypt, Cairo, Tahrir Square",Sharhabil Ahmed Sayed Ahmed and Afar Katho,,yes,no,no
 SHA-16-023,SHA-16-023,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 9 by 13.7,1972,مصر، القاهرة، ميدان التحرير,شرحبيل احمد وسيد احمد وافر كاثو,,yes,no,no
-SHA-16-024,SHA-16-024,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8.8 by 13.9,1957-1958,"Egypt, Manufiya, Sirs al Layan",Sharhabil Ahmed and al Min'am Najjar and others,,yes,no,no
+SHA-16-024,SHA-16-024,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 8.8 by 13.9,1957-1958,"Egypt, Manufiya, Sirs al Layan",Sharhabil Ahmed and al Min'am Najjar and others,,yes,no,no
 SHA-16-024,SHA-16-024,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 8.8 by 13.9,1957-1958,مصر، المنوفية، سرس الليان,شرحبيل احمد والمنعم نجار واخرون,,yes,no,no
-SHA-16-025,SHA-16-025,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 9 by 9.6,1957-1959,"Egypt, Manufiya, Sirs al Layan",Sharhabil Ahmed and classmates,,yes,yes,yes
-SHA-16-025,SHA-16-025,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 9 by 9.6,1957-1959,مصر، المنوفية، سرس الليان,شرحبيل احمد وزملائه ,,yes,yes,yes
-SHA-17-001,SHA-17-001,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Studio Jack Kuwait,photograph 11.9 by 16.8,1964,Kuwait,Abdel Aziz Muhammad Daoud in theater,,yes,no,no
+SHA-16-025,SHA-16-025,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,,photograph 9 by 9.6,1957-1959,"Egypt, Manufiya, Sirs al Layan",Sharhabil Ahmed and classmates,,yes,no,no
+SHA-16-025,SHA-16-025,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,,photograph 9 by 9.6,1957-1959,مصر، المنوفية، سرس الليان,شرحبيل احمد وزملائه ,,yes,no,no
+SHA-17-001,SHA-17-001,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Studio Jack Kuwait,photograph 11.9 by 16.8,1964,Kuwait,Abdel Aziz Muhammad Daoud in theater,,yes,no,no
 SHA-17-001,SHA-17-001,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,استوديو جاك الكويت,photograph 11.9 by 16.8,1964,الكويت,عبد العزيز محمد داؤود في المسرح,,yes,no,no
 SHA-17-002,SHA-17-002,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Studio Jack Kuwait,photograph 11.9 by 16.8,1964,Kuwait,Two Kuwaiti officials,,yes,no,no
 SHA-17-002,SHA-17-002,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,استوديو جاك الكويت,photograph 11.9 by 16.8,1964,الكويت,المسؤولان الكويتي,,yes,no,no
-SHA-17-003,SHA-17-003,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Studio Jack Kuwait,photograph 13 by 17.9,1964,Kuwait,group of men after concert,,yes,no,no
+SHA-17-003,SHA-17-003,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Studio Jack Kuwait,photograph 13 by 17.9,1964,Kuwait,group of men after concert,,yes,no,no
 SHA-17-003,SHA-17-003,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,استوديو جاك الكويت,photograph 13 by 17.9,1964,الكويت,مجموعة من الرجال بعد الحفلة ,,yes,no,no
 SHA-17-004,SHA-17-004,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Studio Jack Kuwait,photograph 13 by 17.9,1964,Kuwait,group of men including 'Ala al Din Hamza Muhammad Dafallah and Ahmed Hassan Jum'a,,yes,no,no
 SHA-17-004,SHA-17-004,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,استوديو جاك الكويت,photograph 13 by 17.9,1964,الكويت,مجموعة من الرجال من ضمنهم علاء الدين حمزه ومحمد دفع الله واحمد حسن جمعه,,yes,no,no
-SHA-17-005,SHA-17-005,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Studio Jack Kuwait,photograph 13 by 17.9,1964,Kuwait,Mirghani al Mamoun and Ahmed Hassan Jum'a recording on Radio Kuwait,,yes,yes,yes
-SHA-17-005,SHA-17-005,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,استوديو جاك الكويت,photograph 13 by 17.9,1964,الكويت,مرغني المأمون واحمد حسن حمعه تسجيل في الاذاعة الكويتية,,yes,yes,yes
+SHA-17-005,SHA-17-005,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Studio Jack Kuwait,photograph 13 by 17.9,1964,Kuwait,Mirghani al Mamoun and Ahmed Hassan Jum'a recording on Radio Kuwait,,yes,no,no
+SHA-17-005,SHA-17-005,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,استوديو جاك الكويت,photograph 13 by 17.9,1964,الكويت,مرغني المأمون واحمد حسن حمعه تسجيل في الاذاعة الكويتية,,yes,no,no
 SHA-17-006,SHA-17-006,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Studio Jack Kuwait,photograph 13.1 by 17.8,1964,Kuwait,Ahmed Hassan Jum'a,,yes,no,no
 SHA-17-006,SHA-17-006,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,استوديو جاك الكويت,photograph 13.1 by 17.8,1964,الكويت,احمد حسن جمعه,,yes,no,no
-SHA-17-007,SHA-17-007,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Studio Jack Kuwait,photograph 13.1 by 17.8,1964,Kuwait,musician who performed with Ahmed Hassan Jum'a,,yes,no,no
+SHA-17-007,SHA-17-007,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Studio Jack Kuwait,photograph 13.1 by 17.8,1964,Kuwait,musician who performed with Ahmed Hassan Jum'a,,yes,no,no
 SHA-17-007,SHA-17-007,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,استوديو جاك الكويت,photograph 13.1 by 17.8,1964,الكويت,فنان يعزف مع احمد حسن جمعه ,,yes,no,no
 SHA-17-008,SHA-17-008,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Studio Jack Kuwait,photograph 13 by 17.9,1964,Kuwait,crowd at concert of Mirghani al Mamoun and Ahmed Hassan Jum'a,,yes,no,no
 SHA-17-008,SHA-17-008,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,استوديو جاك الكويت,photograph 13 by 17.9,1964,الكويت,جمهور في حفل مرغني المأمون واحمد حسن جمعه,,yes,no,no
-SHA-17-009,SHA-17-009,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Studio Jack Kuwait,photograph 13 by 17.9,1964,Kuwait,Ahmed al Mustafa with 'oud,,yes,no,no
+SHA-17-009,SHA-17-009,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Studio Jack Kuwait,photograph 13 by 17.9,1964,Kuwait,Ahmed al Mustafa with 'oud,,yes,no,no
 SHA-17-009,SHA-17-009,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,استوديو جاك الكويت,photograph 13 by 17.9,1964,الكويت,احمد المصطفى بالعود,,yes,no,no
 SHA-17-010,SHA-17-010,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Studio Jack Kuwait,photograph 13 by 17.9,1964,Kuwait,Abdel Aziz Muhammad Daoud with Kuwaiti singer ,,yes,no,no
 SHA-17-010,SHA-17-010,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,استوديو جاك الكويت,photograph 13 by 17.9,1964,الكويت,عبد العزيز محمد داؤود ومغني كويتي,,yes,no,no
-SHA-17-011,SHA-17-011,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Studio Jack Kuwait,photograph 11.9 by 16.8,1964,Kuwait,crowd of Kuwaitis,,yes,no,no
+SHA-17-011,SHA-17-011,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Studio Jack Kuwait,photograph 11.9 by 16.8,1964,Kuwait,crowd of Kuwaitis,,yes,no,no
 SHA-17-011,SHA-17-011,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,استوديو جاك الكويت,photograph 11.9 by 16.8,1964,الكويت,جمهور من الكويتيين,,yes,no,no
 SHA-17-012,SHA-17-012,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Studio Jack Kuwait,photograph 13.1 by 17.8,1964,Kuwait,Kuwaiti official,,yes,no,no
 SHA-17-012,SHA-17-012,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,استوديو جاك الكويت,photograph 13.1 by 17.8,1964,الكويت,مسؤولي كويتي,,yes,no,no
-SHA-17-013,SHA-17-013,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Studio Jack Kuwait,photograph 13 by 17.9,1964,Kuwait,Sayed Khalifa on Kuwaiti Radio,,yes,no,no
+SHA-17-013,SHA-17-013,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Studio Jack Kuwait,photograph 13 by 17.9,1964,Kuwait,Sayed Khalifa on Kuwaiti Radio,,yes,no,no
 SHA-17-013,SHA-17-013,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,استوديو جاك الكويت,photograph 13 by 17.9,1964,الكويت,سيد خليفة على اذاعة كويتية,,yes,no,no
 SHA-17-014,SHA-17-014,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Studio Jack Kuwait,photograph 12 by 16.8,1964,Kuwait,Ahmed al Sharif al Habib commander of Sudanese troops stationed in Kuwait and Kuwaiti officials,,yes,no,no
 SHA-17-014,SHA-17-014,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,استوديو جاك الكويت,photograph 12 by 16.8,1964,الكويت,احمد الشريف الحبيب قائد الجنود السودانيون المرابطون في الكويت,,yes,no,no
-SHA-17-015,SHA-17-015,en,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Studio Jack Kuwait,photograph 13 by 18.1,1964,Kuwait,Mirghani al Mamoun and Ahmed Hassan Jum'a on Kuwaiti radio,,yes,no,no
+SHA-17-015,SHA-17-015,en ,Sharhabil Ahmed,,Sharhabil Ahmed,Sharhabil Ahmed,Studio Jack Kuwait,photograph 13 by 18.1,1964,Kuwait,Mirghani al Mamoun and Ahmed Hassan Jum'a on Kuwaiti radio,,yes,no,no
 SHA-17-015,SHA-17-015,ar,شرحبيل احمد,,شرحبيل احمد,شرحبيل احمد,استوديو جاك الكويت,photograph 13 by 18.1,1964,الكويت,مرغني المأمون واحمد حسن جمعه في اذاعة الكويتية,,yes,no,no
+AAT-01-001,AAT-01-001,en,Abdel Rahman Ali Taha,SAD 2/14/107,Durham Sudan Archive,Sudan Archive Durham University,,photograph 16.1 by 11,1944,"Khartoum, Parliament",Opening of the Northern Sudan Advisory Council,,yes,no,no
+AAT-01-001,AAT-01-001,ar,عبد الرحمن علي طه,SAD 2/14/107,ارشيف السودان درهم,ارشيف السودان جامعة درم,,photograph 16.1 by 11,1944,الخرطوم، البرلمان ,افتتاح مجلس استشاري شمال السودان,,yes,no,no
+AAT-01-002,AAT-01-002,en,Abdel Rahman Ali Taha,,Fadwa Ali Taha,Fadwa Ali Taha ,,photograph 15.1 by 10,1952,"Egypt, Cairo",Signing of an agreement between nationalists and the Egyptian government,,yes,no,no
+AAT-01-002,AAT-01-002,ar,عبد الرحمن علي طه,,فدوى علي طه,فدوى عبد الرحمن علي طه ,,photograph 15.1 by 10,1952,مصر، القاهرة ,توقيع أتفاقية الاستقلاليين والحكومة المصرية ,,yes,no,no
+AAT-01-003,AAT-01-003,en,Abdel Rahman Ali Taha,,Fadwa Ali Taha,Fadwa Ali Taha,,photograph 12.2 by 10.3,1949,"United States, Ayer Hall","Abdel Rahman Ali Taha Minister of Education during hs visit to America shaking hands with Dr. Bagolo, President of the Education Conference","An Education Conference organized by Columbia University in the United States. Appearing in the photo are Abdel Rahman Ali Taha and Mr. Griffith, Dean of the Insttute of Bakhta Ruda at the furthest right. ",yes,no,no
+AAT-01-003,AAT-01-003,ar,عبد الرحمن علي طه,,فدوى علي طه,فدوى علي طه,,photograph 12.2 by 10.3,1949,الولايات المتحدة الامريكية، قاعة ايير,عبدالرحمن علي طه وزير المعارف عند زيارته لامريكا يصافح الدكتور بقولو رئيس مؤتمر التعليم,"مؤتمر التعليم الذي نظمته جامعة كولومبيا بالولايات المتحدة الامريكية, ويظهر في الصورة عبدالرحمن علي طه والمستر قريفيث عميد معهد بخت الرضا في أقصى اليمين",yes,no,no
+AAT-01-004,AAT-01-004,en,Abdel Rahman Ali Taha,SAD 10/13/532,Durham Sudan Archive,Sudan Archive Durham University,,photogaph 15 by 9.4,1949,,Members of the Executive Council,"Sudanese members in the Executive Council, from right to left: Abdel Rahman Ali Taha, Abdullah Khalil, Ali Badri. On top from the right: Ibrahim Ahmed Abdel Rahman Abdoun,",yes,no,no
+AAT-01-004,AAT-01-004,ar,عبد الرحمن علي طه,SAD 10/13/532,ارشيف السودان درهم,ارشيف السودان جامعة درم,,photogaph 15 by 9.4,1949,,اعضاء المجلس التنفيذي,الأعضاء السودانيون في المجلس التنفيذي جلوس من اليمين الى اليسار ، عبد الرحمن على طه ، عبد الله خليل ، على بدري ، وقوف من اليمين الى اليسار ابراهيم احمد عبد الرحمن عبدون,yes,no,no
+AAT-01-005,AAT-01-005,en,Abdel Rahman Ali Taha,SAD 11/8/747,Durham Sudan Archive,Sudan Archive Durham University,,photograph 15.9 by 10.3,1954,"Khartoum, Parliament",Convening of Sudanese Parliament,,yes,no,no
+AAT-01-005,AAT-01-005,ar,عبد الرحمن علي طه,SAD 11/8/747,ارشيف السودان درهم,ارشيف السودان جامعة درم,,photograph 15.9 by 10.3,1954,الخرطوم، البرلمان,إنعقاد البرلمان السوداني,,yes,no,no
+AAT-01-006,AAT-01-006,en,Abdel Rahman Ali Taha,SAD 10/8/747,Durham Sudan Archive,Sudan Archive Durham University,,photograph 14.3 by 10.2,1954,"Khartoum, Parliament",President Azhari and Sheikh Babikir Bedri at the opening of Parliament,President Isma'il Azhari and Sheikh Babikir Bedri in an event opening parliament,yes,no,no
+AAT-01-006,AAT-01-006,ar,عبد الرحمن علي طه,SAD 10/8/747,ارشيف السودان درهم,ارشيف السودان جامعة درم,,photograph 14.3 by 10.2,1954,الخرطوم ، البرلمان,الرئيس الأزهري والشيخ بابكر بدرى في مناسبة افتتاح البرلمان,الرئيس  اسماعيل الازهري والشيخ بابكر بدري  في مناسبة افتتاح الرلمان,yes,no,no
+AAT-01-007,AAT-01-007,en,Abdel Rahman Ali Taha,SAD 4/8/747,Durham Sudan Archive,Sudan Archive Durham University,,photograph14.7 by 10.4,1952,"Egypt, Cairo",Delegation for nationalist-Egyptian government negotiations,"From the right sitting: Abdel Rahman Ali Taha, Muhammad Naguib, Abdullah Fadil al Mahdi, Ali Mahir, Muhammad Salih Shingeiti, Salah Salim. From the right on top: Hussein Thu Fuqar Sabri, Daoud al Khalifa, Ahmed Yusef Hashim, Ziyada Irbab, Muhammad Ahmad al Mahgoub, Ayoub Bih Abdel Magid",yes,no,no
+AAT-01-007,AAT-01-007,ar,عبد الرحمن علي طه,SAD 4/8/747,ارشيف السودان درهم,ارشيف السودان جامعة درم,,photograph14.7 by 10.4,1952,مصر، القاهرة ,وفد مفاوضات الاستقلاليين والحكومة المصرية ,بمنناسبة,yes,no,no
+AAT-01-008,AAT-01-008,en,Abdel Rahman Ali Taha,,Fadwa Ali Taha,Fadwa Ali Taha,,photograph 14.7 by 10.4,1952,,Delegation for Sudanese-Egyptian negotiations,,yes,no,no
+AAT-01-008,AAT-01-008,ar,عبد الرحمن علي طه,,فدوى علي طه,فدوى علي طه,,photograph 14.7 by 10.4,1952,,وفد المفاوضات السوداني المصري ,,yes,no,no
+AAT-01-009,AAT-01-009,en,Abdel Rahman Ali Taha,,Fadwa Ali Taha,Fadwa Ali Taha,,photograph 14.9 by 10,1950,,"From the left, Nasri Hamza, headmaster of Khor Thaggat secondary school and Abdel Rahman Ali Taha shaking hands on the day of the opening of the school",,yes,no,no
+AAT-01-009,AAT-01-009,ar,عبد الرحمن علي طه,,فدوى علي طه,فدوى علي طه,,photograph 14.9 by 10,1950,من اليسار النصرى حمزه ناظر مدرسة خور طقت الثانوية وعبد الرحمن على طه يتصفحان يوم افتتاح المدرسة  ,من اليسار النصري حمزة ناظر مدرسة خور طقت الثانوية وعبد الرحمن علي طه يتصافحان يوم افتتاح المدرسة ,,yes,no,no
+AAT-01-010,AAT-01-010,en,Abdel Rahman Ali Taha,,Fadwa Ali Taha,Fadwa Ali Taha,,photograph 10.6 by 17.8,1952,"Great Britain, Ministry of Foreign Affairs building","Abdel Rahmand al Mahdi, Siddiq al Mahdi, and Abdel Rahman Ali Taha",,yes,no,no
+AAT-01-010,AAT-01-010,ar,عبد الرحمن علي طه,,فدوى علي طه,فدوى علي طه,,photograph 10.6 by 17.8,1952,بريطانيا، وزارة الخارجية,"من اليمين السيد عبدالرحمن, السيد الصديق, عبدالرحمن علي طه",,yes,no,no
+AAT-01-011,AAT-01-011,en,Abdel Rahman Ali Taha,SAD 674 photo AA 5244,Durham Sudan Archive,Sudan Archive Durham University,,photograph 15.8 by 10.3,1953,,Elections committee,"Soko Marsan, president of the committee in the middle, to his right the Secretary of the council, Khalifallah Khalid, Gordon Boli Winni. To his left is Abdel Salam al Khalifa and Abdel Fitah Hassan, and Berkins ",yes,no,no
+AAT-01-011,AAT-01-011,ar,عبد الرحمن علي طه,SAD 674 photo AA 5244,ارشيف السودان درهم,ارشيف السودان جامعة درم,,photograph 15.8 by 10.3,1953,, لجنة الأنتخابات ,سوكو مارسن (رئيس اللجنة ) في الوسط وعلى يمينه سكرتير اللجنة ، خلف الله خالد ، غوردون بولي وينى. وعلى يساره عبد السلام الخليفة ، عبد الفتاح حسن ،وبيركنز,yes,no,no
+AAT-01-012,AAT-01-012,en,Abdel Rahman Ali Taha,SAD 11/13/532,                ,Sudan Archive Durham University,,photograph 15.8 by 9.9,12/12/1948,Khartoum,Opening of the Legislative Assembly,,yes,no,no
+AAT-01-012,AAT-01-012,ar,عبد الرحمن علي طه,SAD 11/13/532,ارشيف السودان درهم,ارشيف السودان جامعة درم,,photograph 15.8 by 9.9,12/12/1948,الخرطوم,افتتاح الجمعية التشريعة ,,yes,no,no
+AAT-01-013,AAT-01-013,en,Abdel Rahman Ali Taha,,Fadwa Ali Taha,Fadwa Ali Taha,,photograph 13.5 by 19.1,1952,Great Britain,Abdel Rahman Ali Taha and Abdel Rahman al Mahdi,Sayed Abdel Rahman al Mahdi on a trip to Britain to hurry the approval of the self-governance constitution. Behind him is Abdel Rahman Ali Taha,yes,no,no
+AAT-01-013,AAT-01-013,ar,عبد الرحمن علي طه,,فدوى علي طه,فدوى علي طه,,photograph 13.5 by 19.1,1952,بريطانيا,السيد عبدالرحمن المهدي في رحلة الى بريطانيا وخلفه عبدالرحمن علي طه,السيد عبدالرحمن المهدي في رحلة إلى بريطانيا لإستعجال التصديق بدستور الحكم الذاتي ويظهر خلفه عبدالرحمن علي طه,yes,no,no
+AAT-01-014,AAT-01-014,en,Abdel Rahman Ali Taha,,Fadwa Ali Taha,Fadwa Ali Taha,,photograph 21.5 by 16.6,1967,"Khartoum, Khartoum University",Graduation at Khartoum University including Abdel Rahman Ali Taha and others,"From the right: Abdel Rahman Ali Taha, Nasr al Haj Ali, Ibrahim Ahmed, Hawa Ali present at event of the granting of honorary doctorates from University of Khartoum",yes,no,no
+AAT-01-014,AAT-01-014,ar,عبد الرحمن علي طه,,فدوى علي طه,فدوى علي طه,,photograph 21.5 by 16.6,1967,الخرطوم ،جامعة الخرطوم,عبد الرحمن على طه في احتفالات منحه الدكتوراة الفخرية جامعة الخرطوم,من اليسار لليمين : عبد الرحمن علي طه ، نصر الحاج على ، ابراهيم احمد ، حواء على البصير بمناسبة منحة الدكتوراة الفخرية من جامعة الخرطوم ,yes,no,no
+AAT-01-015,AAT-01-015,en,Abdel Rahman Ali Taha,,Fadwa Ali Taha,Fadwa Ali Taha,,photograph 25 by 20.2,1952,,Hiliali negotiatons with those pushing for independence,"From the right: Yahya Nour, Ibrahim Ahmed, Abdel Khaliq Hasouna, Abdullah al Fadil, al Hilali Basha, Muhammad Salih Shingeiti, Abdel Rahman Ali Taha, Babu Nimir",yes,no,no
+AAT-01-015,AAT-01-015,ar,عبد الرحمن علي طه,,فدوى علي طه,فدوى علي طه,,photograph 25 by 20.2,1952,,مفاوضات الهلالي مع الاستقلاليين,من اليمين الى اليسار يحيى نور ، ابراهيم احمد ، عبد الخالق حسونه ، عبد الله الفاضل ، الهلالي باشا ، محمد صالح الشنقيطي، عبد الرحمن على طه ، بابو نمر ,yes,no,no
+AAT-01-016,AAT-01-016,en,Abdel Rahman Ali Taha,,Fadwa Ali Taha,Fadwa Ali Taha,,photograph 18 by 23.8,1940,Education Institute of Bakhta Ruda,Abdel Rahman Ali Taha and others,"Abdel Rahman Ali Taha, Deputy Dean of Bakht al Ruda and Mr. Griffith, as well as Nasr al Haj Ali, a teacher in the institute",yes,no,no
+AAT-01-016,AAT-01-016,ar,عبد الرحمن علي طه,,فدوى علي طه,فدوى علي طه,,photograph 18 by 23.8,1940,معهد التربية بخت الرضا,عبدالرحمن علي طه نائب عميد معهد بخت الرضا و المستر قريفيث عميد المعهد ونصر الحاج علي أستاذ بالمعهد,عبدالرحمن علي طه نائب عميد معهد بخت الرضا و المستر قريفيث عميد المعهد ونصر الحاج علي أستاذ بالمعهد,yes,no,no
+AAT-01-017,AAT-01-017,en,Abdel Rahman Ali Taha,,Fadwa Ali Taha,Fadwa Ali Taha,,photograph 18.9 by 28.1,1959-1964,Khartoum,"Abdel Rahman Ali Taha, his father, and others","Abdel Rahman Ali Taha and from the right: Abdel Halim Ali Taha, above them from the right, Lieutenants Abdel Rizag Ali Taha and Ali Muhammad Omer al Bina",yes,yes,yes
+AAT-01-017,AAT-01-017,ar,عبد الرحمن علي طه,,فدوى علي طه,فدوى علي طه,,photograph 18.9 by 28.1,1959-1964,الخرطوم,عبدالرحمن علي طه بزي المدرسين في كلية غردون التذكارية,"عبد الرحمن علي طه وعلى يمينه عبد الحليم علي طه, وقوفا من اليمين الملازمين عبدالرزاق علي طه وعلي محمد عمر البنا",yes,yes,yes
+AAT-02-001,AAT-02-001,ar,عبد الرحمن علي طه,,فدوى علي طه,فدوى علي طه,,jpeg,,,عبدالرحمن على طه وزير المعرف ومجموعة من الوزراء  ,من اليمين لليسار : علي بابكر بدري وزير الصحة ، عبدالرحمن علي طه وزير المعارف، عبدالله خليل وزير الزراعة ، عبد الكريم محمد نائب رئيس الجمعية التشريعية ، محمد صالح الشنقيطي.,yes,no,no
+AAT-02-001,AAT-02-001,en,Abdel Rahman Ali Taha,,Fadwa Ali Taha,Fadwa Ali Taha ,,jpeg,,,"Abdel Rahman Ali Taha, the Minister of Education, and a group of ministers","From the right: Babikir Bedir, Minister of Health, Abdel Rahman Ali Taha, Minister of Education, Abdullah Khalil, Minister of Agriculture, Abdel Karim Muhammad deputy chair of the legislative council, and Muhammad Salih Shingeiti",yes,no,no
+AAT-02-002,AAT-02-002,ar,عبد الرحمن علي طه,,فدوى علي طه,فدوى علي طه,,jpeg,1948,الخرطوم ، البرلمان,عبد الرحمن على طه وزير المعارف يجيب على اسئلة اعضاء الجمعية التشريعية ,وزير المعارف عبدالرحمن علي طه يجيب على أسئلة اعضاء الجمعية التشريعية حول السياسة التعليمية والتوسع في التعليم,yes,no,no
+AAT-02-002,AAT-02-002,en,Abdel Rahman Ali Taha,,Fadwa Ali Taha,Fadwa Ali Taha ,,jpeg,1948,"Khartoum, Parliament","Abdel Rahman Ali Taha, the Minister of Education, answers questions from members of the Legislative Assembly",Minister of Education Abdel Rahman Ali Taha receiving questions to members of the legislative council on education policy and expansion of education,yes,no,no
+AAT-02-003,AAT-02-003,ar,عبد الرحمن علي طه,,فدوى علي طه,فدوى علي طه,,jpeg,1949,الخرطوم,عبدالرحمن علي طه عند توليه منصب وزير المعارف كأول وزير للمعارف في السودان,عبدالرحمن علي طه عند توليه منصب وزير المعارف كأول وزير للمعارف في السودان,yes,no,no
+AAT-02-003,AAT-02-003,en,Abdel Rahman Ali Taha,,Fadwa Ali Taha,Fadwa Ali Taha ,,jpeg,1949,Khartoum,Abdel Rahman Ali Taha at his inauguration as the first Minister of Education in Sudan,Abdel Rahman Ali Taha upon taking office as Minister of Edcuation as the first minister of education in Sudan,yes,no,no
+AAT-02-004,AAT-02-004,ar,عبد الرحمن علي طه,,فدوى علي طه,فدوى علي طه,,jpeg,1949,الخرطوم,عبدالرحمن علي طه وزير المعارف,,yes,no,no
+AAT-02-004,AAT-02-004,en,Abdel Rahman Ali Taha,,Fadwa Ali Taha,Fadwa Ali Taha ,,jpeg,1949,Khartoum,"Abdel Rahman Ali Taha, Minister of Education",,yes,no,no
+AAT-02-005,AAT-02-005,ar,عبد الرحمن علي طه,,فدوى علي طه,فدوى علي طه,,jpeg,1949,الخرطوم,عبدالرحمن علي طه وزير المعارف,,yes,no,no
+AAT-02-005,AAT-02-005,en,Abdel Rahman Ali Taha,,Fadwa Ali Taha,Fadwa Ali Taha ,,jpeg,1949,Khartoum,"Abdel Rahman Eli Taha, Minister of Education",,yes,no,no
+AAT-02-006,AAT-02-006,ar,عبد الرحمن علي طه,,فدوى علي طه,فدوى علي طه,,jpeg,1955,الخرطوم ,غلاف كتاب السودان للسودانيين تأليف عبدالرحمن علي طه,,yes,no,no
+AAT-02-006,AAT-02-006,en,Abdel Rahman Ali Taha,,Fadwa Ali Taha,Fadwa Ali Taha ,,jpeg,1955,Khartoum,"Book Cover of Sudan for the Sudanese, written by Abdel Rahman Ali Taha",,yes,no,no
+AAT-02-007,AAT-02-007,ar,عبد الرحمن علي طه,,فدوى علي طه,فدوى علي طه,,jpeg,1966,الجزيرة,عبدالرحمن علي طه مؤلف كتاب السودان للسودانيين,,yes,no,no
+AAT-02-007,AAT-02-007,en,Abdel Rahman Ali Taha,,Fadwa Ali Taha,Fadwa Ali Taha ,,jpeg,1966,Gezira,"Abdel Rahman Ali Taha, writer of the book Sudan for the Sudanese ",,yes,no,no
+AAT-02-008,AAT-02-008,ar,عبد الرحمن علي طه,,فدوى علي طه,فدوى علي طه,,jpeg,1918,الخرطوم كلية غردون ,خطاب عبدالرحمن علي طه الى والده عندما كان طالبا في كلية غردون,,yes,no,no
+AAT-02-008,AAT-02-008,en,Abdel Rahman Ali Taha,,Fadwa Ali Taha,Fadwa Ali Taha ,,jpeg,1918,"Khartoum, Gordon College",Letter of Abdel Rahman Ali Taha to his Father when he was a student in Gordon College,,yes,no,no
+AAT-02-009,AAT-02-009,ar,عبد الرحمن علي طه,,فدوى علي طه,فدوى علي طه,,jpeg,1950,الخرطوم,عبدالرحمن علي طه مع احد الأعضاء الجنوبيين بالجمعية التشريعية,,yes,no,no
+AAT-02-009,AAT-02-009,en,Abdel Rahman Ali Taha,,Fadwa Ali Taha,Fadwa Ali Taha ,,jpeg,1950,Khartoum,Abdel Rahman Ali Taha with one of the southerner members of the Legislative Assembly,,yes,no,no
+AAT-02-010,AAT-02-010,ar,عبد الرحمن علي طه,,فدوى علي طه,فدوى علي طه,,jpeg,1953,الخرطوم,صورة للمجلس التنفيذي مع الحاكم العام ,"من اليسار الى اليمين عبدالرحمن عبدون وكيل مصلحة الري, عبدالماجد احمد وكيل مصلحة الإقتصاد والتجارة, السير شارلس اسكاونز السكرتير القضائي, إبراهيم احمد, محمد أحمد أبو سن بالزي القومي, السير جيمس روبرست السكرتير الإداري, الحاكم العام السير روبرت هاو, ر هيلرد المدير العام للسكة حديد, سير لوس, علي بدري وزير الصحة, عبدالرحمن علي طه وزير المعارف, عبدالله خليل وزير الزراعة",yes,no,no
+AAT-02-010,AAT-02-010,en,Abdel Rahman Ali Taha,,Fadwa Ali Taha,Fadwa Ali Taha ,,jpeg,1953,Khartoum,photo of the Executive Council with the Governor General,"From the right: Abdel Rahman Abdoun, Agent of the Irrigation Department, Abdel Magid Ahmed, Agent of the Economics and Trading department, Sir Charles Escons, Judicial Secretary, Ibrahim Ahmed, Muhammad Ahmed Abu Sin, Sir James Roberts, Secretary of Administration, Governor Sir Robert How, Hilard Director of the Railroads, Sir Louis, Ali Bedri, Minister of Health, Abdel Rahman Ali Taha, Minister of Education, and Abdullah Khalil, Minister of Agriculture",yes,no,no
+AAT-02-011,AAT-02-011,ar,عبد الرحمن علي طه,,فدوى علي طه,فدوى علي طه,,jpeg,,,,,yes,no,no
+AAT-02-011,AAT-02-011,en,Abdel Rahman Ali Taha,,Fadwa Ali Taha,Fadwa Ali Taha ,,jpeg,,,,,yes,no,no
+AAT-02-012,AAT-02-012,ar,عبد الرحمن علي طه,,فدوى علي طه,فدوى علي طه,,jpeg,1905,الجزيرة ، قرية اربجي,الشيخ علي الحاج طه عمدة قري الجعلين شمال الجزيرة ,ولد الشيخ علي الحاج طه في العام 1843 وتوفى عام 1928,yes,no,no
+AAT-02-012,AAT-02-012,en,Abdel Rahman Ali Taha,,Fadwa Ali Taha,Fadwa Ali Taha ,,jpeg,1905,"Gezira, Arbaji village","Sheikh Ali al Haj Taha, Omda of the village of al Ja'lin in northern Gezira",Sheikh Ali Haj Taha was born in 1843 and died 1928,yes,no,no
+AAT-02-013,AAT-02-013,ar,عبد الرحمن علي طه,,فدوى علي طه,فدوى علي طه,,jpeg,1927-1934,الخرطوم ، كلية غردون,الكشاف عبد الرحمن علي طه,,yes,no,no
+AAT-02-013,AAT-02-013,en,Abdel Rahman Ali Taha,,Fadwa Ali Taha,Fadwa Ali Taha ,,jpeg,1927-1934,"Khartoum, Gordon College",The Scout Abdel Rahman Ali Taha,جوارة,yes,no,no
+AAT-02-014,AAT-02-014,ar,عبد الرحمن علي طه,,فدوى علي طه,فدوى علي طه,,jpeg,1927,الخرطوم ، كلية غردون,عبدالرحمن علي طه في كلية غردون التذكارية ,,yes,no,no
+AAT-02-014,AAT-02-014,en,Abdel Rahman Ali Taha,,Fadwa Ali Taha,Fadwa Ali Taha ,,jpeg,1927,"Khartoum, Gordon College",Abdel Rahman Ali Taha at Gordon College ,,yes,no,no
+AAT-02-015,AAT-02-015,ar,عبد الرحمن علي طه,,فدوى علي طه,فدوى علي طه,,jpeg,1952,مصر، القاهرة ,عبدالرحمن علي طه خلال مفاوضات الاستقلاليين مع حكومة نجيب الهلالي ,من اليمن عبد الرحمن علي طه،محمد فريد زغلوك وزير الدولة للدعاية ، أحمد مرتضى المراغى وزير الداخلية خلال مفاوضات الاستقلاليين مع حكومة نجيب الهلالي,yes,no,no
+AAT-02-015,AAT-02-015,en,Abdel Rahman Ali Taha,,Fadwa Ali Taha,Fadwa Ali Taha ,,jpeg,1952,"Egypt, Cairo",Abdel Rahman Ali Taha during the independence negotiations with the government of Naguib al Hilali,"From the right: Abdel Rahman Ali Taha, Muhammad Farid Zaghlok, Minister of State for Information, Ahmed Murtada al Ziraghi, Minister of Interior during the negotiations with the government of Naguib al Hilali",yes,no,no
+AAT-02-016,AAT-02-016,ar,عبد الرحمن علي طه,,فدوى علي طه,فدوى علي طه,,jpeg,1950,الخرطوم,عبدالرحمن علي طه في جلسة المجلس التنفيذي والحاكم العام يخاطب الجلسة ,عبد الرحمن علي طه الثاني من اليسار في جلسة المجلس التنفيذي والحاكم العام يخاطب الجلسة ,yes,yes,yes
+AAT-02-016,AAT-02-016,en,Abdel Rahman Ali Taha,,Fadwa Ali Taha,Fadwa Ali Taha ,,jpeg,1950,Khartoum,Abdel Rahman Ali Taha in a meeting of the Executive Council as the Governor General speaks to the assembly,,yes,yes,yes
+AAT-02-017,AAT-02-017,ar,عبد الرحمن علي طه,,فدوى علي طه,فدوى علي طه,,jpeg,1952,مصر، القاهرة ,عبدالرحمن علي طه خلال مفاوضات الاستقلاليين مع حكومة نجيب الهلالي ,من اليمين عبد الرحمن علي طه ، ابراهيم احمد، عبدالله الفاضل المهدي، فريد زغلوك، محمد مرتضى المراغي، نجيب الهلالي,yes,no,no
+AAT-02-017,AAT-02-017,en,Abdel Rahman Ali Taha,,Fadwa Ali Taha,Fadwa Ali Taha ,,jpeg,1952,"Egypt, Cairo",Abdel Rahman Ali Taha during the negotiations of the Independence movement with the government of Naguib al Hilaly,"From the right: Abdel Rahman Ali Taha, Ibrahim Ahmed, Abdullah al Fadil al Mahdi, Farid Raghlok, Muhammad Murtada al Muraghi, Naguib Hilaly",yes,no,no
+AAT-02-018,AAT-02-018,ar,عبد الرحمن علي طه,,فدوى علي طه,فدوى علي طه,,jpeg,1952,مصر، القاهرة ,عبدالرحمن علي طه في القاهرة  اثناء مفاوضات الاستقلاليين مع الحكومة المصرية برئاسة  نجيب الهلالي ,,yes,no,no
+AAT-02-018,AAT-02-018,en,Abdel Rahman Ali Taha,,Fadwa Ali Taha,Fadwa Ali Taha ,,jpeg,1952,"Egypt, Cairo",Abdel Rahman Ali Taha in Cairo during the negotiations of the independence movement with the Egyptian government led by Naguib al Hilaly,,yes,no,no
+AAT-02-019,AAT-02-019,ar,عبد الرحمن علي طه,,فدوى علي طه,فدوى علي طه,,jpeg,1965,النيل الأبيض مدينة كوستي,عبدالرحمن علي طه وأخويه عبدالرزاق علي طه والطيب علي طه,,yes,no,no
+AAT-02-019,AAT-02-019,en,Abdel Rahman Ali Taha,,Fadwa Ali Taha,Fadwa Ali Taha ,,jpeg,1965,"White Nile, Kosti",Abdel Rahman Ali Taha and his brother Abdel Raziq Ali Taha and Tayeb Ali Taha,,yes,no,no
+AAT-02-020,AAT-02-020,ar,عبد الرحمن علي طه,,فدوى علي طه,فدوى علي طه,,jpeg,29/10/1952,مصر، القاهرة ، نادي الضباط,عبد الرحمن علي طه والسيد عبدالرحمن المهدي في حفل توقيع اتفاقية الاستقلاليين مع الحكومة المصرية ,السيد عبدالرمن المهدي والى يساره اللواء محمد نجيب والى يمينة عبدالرحمن علي طه في حفل نادي الضباط ويظهر في الصورة عبدالله الفاضل يسار نجيب وعبد السلام الخليفة,yes,no,no
+AAT-02-020,AAT-02-020,en,Abdel Rahman Ali Taha,,Fadwa Ali Taha,Fadwa Ali Taha ,,jpeg,29/10/1952,"Egypt, Cairo, Officer's Club",Abdel Rahman AliTaha and the Sayed Abdel Rahman al Mahdi in a celebration of the Independence movement's agreement with the Egyptian government,The Sayed AbdelRahman al Mahdi and to his left the General Muhammad Naguib and to his right Abdel Rahman Ali Taha at a party of the officers club. Appearing in the photo Abdullah Fadil and to his left Neguib and Abdel Salam al Khalifa,yes,no,no
+AAT-02-021,AAT-02-021,ar,عبد الرحمن علي طه,,فدوى علي طه,فدوى علي طه,,jpeg,1951,أمدرمان,عبد الرحمن علي طه في حفل افتتاح مدارس الأحفاد بأمدرمان, السيد عبدالرحمن المهدي وعلى يساره الشيخ بابكر بدري وعلى يمينه عبدالرحمن علي طه في احتفال افتتاح مدارس الأحفاد بأمدرمان,yes,yes,yes
+AAT-02-021,AAT-02-021,en,Abdel Rahman Ali Taha,,Fadwa Ali Taha,Fadwa Ali Taha ,,jpeg,1951,Omdurman,Abdel Rahman Ali Taha in an opening ceremony for Ahfad schools in Omdurman,The Sayed Abdel Rahman al Mahdi and to his left the Sheikh Babikir Bedir and to his right Abdel Rahman Ali Taha in a celebratin of the opening of Ahfad schools in Omdurman,yes,yes,yes
+AAT-02-022,AAT-02-022,ar,عبد الرحمن علي طه,,فدوى علي طه,فدوى علي طه,,jpeg,1962,مصر، القاهرة ,عبد الرحمن علي طه في رحلة علاجية مع ابنه ياسر ,من اليمين :د.على المفتي ، عبدالرحمن علي طه ، د. انور المفتي، وامامهم ياسر عبد الرحمن علي طه,yes,yes,yes
+AAT-02-022,AAT-02-022,en,Abdel Rahman Ali Taha,,Fadwa Ali Taha,Fadwa Ali Taha ,,jpeg,1962,"Egypt, Cairo",Abdel Rahman Ali Taha on a trip with his son Yasir,"From the right: Dr. Ali al Mufti, Abdel Rahman Ali Taha, Dr. Anour al Mufti. In front of them Yasir Abdel Rahman Ali Taha",yes,yes,yes
+AAT-02-023,AAT-02-023,ar,عبد الرحمن علي طه,,فدوى علي طه,فدوى علي طه,,jpeg,1968,ود مدني ,أسماعيل الأزهري رئيس مجلس السيادة يخاطب مؤتمر طب الأطفال بود مدني,يظهر في الصورة عبد الرحمن علي طه بالزي القومي في الصف الأمامي والى جواره الدكتور محمد عبد الحليم ، وعلى بدري اول وزير للصحة و دكتور عبد الحميد صالح وزير الصحة ,yes,yes,yes
+AAT-02-023,AAT-02-023,en,Abdel Rahman Ali Taha,,Fadwa Ali Taha,Fadwa Ali Taha ,,jpeg,1968,Wad Madani,"Isma'il al Azhari, Prime Minister, speaking to a conference on Children's Medicine in Wad Madani",,yes,yes,yes
+AAT-02-024,AAT-02-024,ar,عبد الرحمن علي طه,,فدوى علي طه,فدوى علي طه,,jpeg,1952,مصر، القاهرة ,وفد الاستقلاليين في مفاوضات الهلالي في حفل خاص اقامه لهم عبد الرحمن عزام الأمين العام لجامعة الدول العربية  ,يظهر في الصورة على البناء أحد قيادي ثورة 1924 ، احمد يوسف هاشم رئيس تحرير صحيفة السودان الجديد ، عبد الرحمن عزام ، عبد الرحمن علي طه ، وعبد الله الفاضل المهدي ,yes,no,no
+AAT-02-024,AAT-02-024,en,Abdel Rahman Ali Taha,,Fadwa Ali Taha,Fadwa Ali Taha ,,jpeg,1952,"Egypt, Cairo","The Independence movement's delegation in negotiations with al Hilaly in a celebration held for them by Abdel Rahman Azzam, the Secretary General of the Arab Nations' University","Ahmed Yusef Hashim, chief editor of the newspaper New Sudan, Abdel Rahman Azzam, Abdel Rahman Ali Taha, and Abdullah al Fadil al Mahdi",yes,no,no
+AAT-02-025,AAT-02-025,ar,عبد الرحمن علي طه,,فدوى علي طه,فدوى علي طه,,jpeg,1950,الخرطوم,عبد الرحمن علي طه، ودكتور علي البدري ، وبوث ديو أحد الاعضاء الجنوبيين بالجمعية التشريعية ,عبد الرحمن علي طه، ودكتور علي البدري ، وبوث ديو أحد الاعضاء الجنوبيين بالجمعية التشريعية ,yes,yes,yes
+AAT-02-025,AAT-02-025,en,Abdel Rahman Ali Taha,,Fadwa Ali Taha,Fadwa Ali Taha ,,jpeg,1950,Khartoum,"Abdel Rahman Ali Taha, Dr. Ali al Badri, and Both Dio one of the southern members of the Legislative Assembly","Abdel Rahman Ali Taha, Dr. Ali Bedri, Waboth Dio, one of the Southern members of the legislative council",yes,yes,yes
+AAT-02-026,AAT-02-026,ar,عبد الرحمن علي طه,,فدوى علي طه,فدوى علي طه,,jpeg,,,من اليمين علي بدري وزير الصحة وعبد الرحمن علي طه وزير المعارف وعبد الله خليل مع مجموعة الكشاف,من اليمين علي بدري وزير الصحة وعبد الحمن علي طه وزير المعارف وعبد الله خليل مع مجموعة من الكشافة,yes,yes,yes
+AAT-02-026,AAT-02-026,en,Abdel Rahman Ali Taha,,Fadwa Ali Taha,Fadwa Ali Taha ,,jpeg,,,"From the right: Ali Badri, Minister of Health, Abdel Rahman Ali Taha, Minister of Education, and Abdullah Khalil with a group of scouts","From the right: Ali Bedri, Minister of Health, Ali Taha, Minister of Education, and Abdullah Khalil with a group of scouts",yes,yes,yes
+AAT-02-027,AAT-02-027,ar,عبد الرحمن علي طه,,فدوى علي طه,فدوى علي طه,,jpeg,1949,الخرطوم, من اليمين علي بدري وزير الصحة وعبد الرحمن علي طه وزير المعارف وعبد الله خليل مع مجموعة الكشاف,عبدالرحمن علي طه وزير المعارف ,yes,no,no
+AAT-02-027,AAT-02-027,en,Abdel Rahman Ali Taha,,Fadwa Ali Taha,Fadwa Ali Taha ,,jpeg,1949,Khartoum,"Abdel Rahman Ali Taha, Minister of Education, and Abdullah Khalil wit ha group of scouts from the right: Ali Badri, Minister of Health, Abdel Rahman Ali Taha, Minister of Education, and Abdullah Khalil with a group of scout",,yes,no,no
+AAT-02-028,AAT-02-028,ar,عبد الرحمن علي طه,,فدوى علي طه,فدوى علي طه,,jpeg,1953,الخرطوم,عبدالرحمن علي طه حضورا في احتفالات اتفاقية الحكم الذاتي وتقرير المصير,,yes,yes,yes
+AAT-02-028,AAT-02-028,en,Abdel Rahman Ali Taha,,Fadwa Ali Taha,Fadwa Ali Taha ,,jpeg,1953,Khartoum,Abdel Rahman Ali Taha lecturing in the celebration of the self-governance agreement and decision of Egypt,,yes,yes,yes
+AAT-02-029,AAT-02-029,ar,عبد الرحمن علي طه,,فدوى علي طه,فدوى علي طه,,jpeg,1952,أمدرمان,عبدالرحمن علي طه يخاطب حشود استقبال السيد عبدالرحمن المهدي بعد عودته من رحلة لندن والقاهرة,رافق عبدالرحمن علي طه السيد عبدالرحمن المهدي في رحلته الى لندن ومفاوضاته مع أنتوني ايدن وزير الخارجية البريطاني حين حثه على التصديق على مسودة قانون الحكم الذاتي وتوقيع اتفاقية تقرير المصير في القاهرة بين وفد الإستقلاليين المفوض من عبدالرحمن المهدي مع حكومة محمد نجيب ,yes,no,no
+AAT-02-029,AAT-02-029,en,Abdel Rahman Ali Taha,,Fadwa Ali Taha,Fadwa Ali Taha ,,jpeg,1952,Omdurman,Abdel Rahman Ali Taha speaks to crowds greeting the Sayed Abdel Rahman al Mahdi after his return from his trip to London and Cairo,"Abdel Rahman Ali Taha and Abdel Rahman al Mahdi in their trip to London and the negotiations with Antonio Aiden, the British Foreign Minister where he urged him to approve the draft of the self-governing law and sign the agreement of the Egyptian report in Cairo among the independence delegation composed of Abdel Rahman al Mahdi with the government of Muhammad Neguib",yes,no,no

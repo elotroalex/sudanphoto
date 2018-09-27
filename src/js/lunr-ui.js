@@ -5,7 +5,7 @@ $.getJSON("{{ site.baseurl }}/js/lunr-index.json", function(index_json) {
   window.index = new elasticlunr.Index;
   window.store = index_json;
   index.saveDocument(false);
-  index.setRef('lunr_id');
+  index.setRef('lunr_index');
   index.addField('pid');
   index.addField('title');
   index.addField('rights');
@@ -29,8 +29,8 @@ $.getJSON("{{ site.baseurl }}/js/lunr-index.json", function(index_json) {
       else {sorted.push(ref);}
     }
     results_div.empty();
-    if (sorted.length > 10){results_div.prepend("<p><small>Displaying 10 of " + sorted.length + " results.</small></p>");}
-    for (var s in sorted.slice(0, 9)) { // limit visible results to 10
+    results_div.prepend("<p><small>Displaying " + sorted.length + " results.</small></p>");
+    for (var s in sorted) { // limit visible results to 10
       var idx   = sorted[s];
       var item  = store[idx];
       var link  = item.link;

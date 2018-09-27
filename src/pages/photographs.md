@@ -11,11 +11,13 @@ The photographs below all come from archive collections that can be viewed in fu
 
 {% include search.html %}
 
-{% assign on_website = site.data.archive-en | where: 'on_website', 'yes' %}
+{% assign on_website = site.data.archive | where: 'on_website', 'yes' %}
+{% assign en_photos = on_website | where: 'language', 'en' %}
+
 <table class="photo-grid" style="margin-top:50px;">
   {% assign count = 0 %}
   <tr>
-    {% for image in on_website %}
+    {% for image in en_photos %}
       {% assign third = count | modulo: 3 %}
       {% if third == 0 %}</tr><tr>{% endif %}
       <td>

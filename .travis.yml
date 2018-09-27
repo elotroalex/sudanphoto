@@ -2,7 +2,7 @@ language: ruby
 sudo: required
 rvm: 2.4
 addons:
-  chrome: stable
+  firefox: latest
 branches:
   except:
   - static

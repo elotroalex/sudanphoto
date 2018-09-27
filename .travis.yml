@@ -8,8 +8,10 @@ branches:
   - static
   - gh-pages
 script:
+  - bundle exec rake lint archive
   - bundle exec rake process archive
   - bundle exec jekyll build
   - bundle exec rake wax:test
 after_success:
   - if [ "$TRAVIS_BRANCH" = "master" -a "$TRAVIS_PULL_REQUEST" = "false" ]; then bundle exec rake wax:push static; fi
+  - if [ "$TRAVIS_BRANCH" = "master" -a "$TRAVIS_PULL_REQUEST" = "false" ]; then bundle exec rake wax:push gh-pages; fi

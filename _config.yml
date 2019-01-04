@@ -32,31 +32,38 @@ include:
 
 collections:
   archive/ar:
-    source:   'archive-ar.csv'
     layout:   'photo-page'
     output:   true
-    lunr_index:
-      content:  false
-      fields:
-        - 'title'
-        - 'rights'
-        - 'description'
-        - 'collection'
-        - '_date'
-        - 'on_website'
+    metadata:
+      source: 'archive-ar.csv'
   archive/en:
-    source:   'archive-en.csv'
     layout:   'photo-page'
     output:   true
-    lunr_index:
-      content: false
-      fields:
-        - 'title'
-        - 'rights'
-        - 'description'
-        - 'collection'
-        - '_date'
-        - 'on_website'
+    metadata:
+      source: 'archive-en.csv'
+
+
+lunr_index:
+  - file: 'js/lunr-index.json'
+    collections:
+      archive/ar:
+        content:  false
+        fields:
+          - 'title'
+          - 'rights'
+          - 'description'
+          - 'collection'
+          - '_date'
+          - 'on_website'
+      archive/en:
+        content: false
+        fields:
+          - 'title'
+          - 'rights'
+          - 'description'
+          - 'collection'
+          - '_date'
+          - 'on_website'
 
 js:
   jquery:
@@ -68,7 +75,7 @@ js:
 
 quoll:
   en:
-    page:   en/photos
+    page: en/photos
     terms:
       - 'band'
       - 'Ethiopia'

@@ -1,31 +1,40 @@
 ---
 layout: default
 ---
+{% assign labels = site.data.archive_labels %}
+
 <article class="post">
 
   <div class="post-content {{ page.language }}">
 
     {% if page.on_server == 'yes' %}
-    <img src="http://photos.uofk.edu/largeimages/{{ page.pid }}-1080.jpg" alt="{{ page.pid }}" class="small-photo" style="margin-bottom:50px;max-height:800px;"/>
+      <img src="http://photos.uofk.edu/largeimages/{{ page.pid }}-1080.jpg" alt="{{ page.pid }}" class="small-photo" style="margin-bottom:50px;max-height:800px;"/>
     {% else %}
     <div style="background-color:#ddd;padding:20px;margin-top:20px">
       <p>This image is not currently online. You can arrange a visit to view this item in the archive by contacting us either via email at <a href="mailto:sudanphoto@uofk.edu">sudanphoto@uofk.edu</a> or via Whatsapp at +249904696503</p>
     </div>
     {% endif %}
     <br>
-    <p><b>Description</b></p>
-    <p>{{ page.description }}</p>
-
     <p>
-      <b>Date</b> {{ page._date }}<br>
-      <b>Location</b> {{ page.location }}<br>
-      <b>Archival ID</b> {{ page.pid }}<br>
-      <b>Collection</b> {{ page.collection }}<br>
+      <b>{{ labels['description'][page.language] }}</b></br>
+      {{ page.description }}
     </p>
 
-    <p><b>Citation information</b></p>
     <p>
-      {{ page.description }}, {{ page._date }}, {{ page.pid }}, {{ page.collection }} Collection, Sudan Historical Photography Archive, University of Khartoum Department of History, Algamaa Street, Khartoum 11111, Sudan.
+      <b>{{ labels['_date'][page.language] }}</b></br>
+      {{ page._date }}
+    </p>
+    <p>
+      <b>{{ labels['location'][page.language] }}</b></br>
+      {{ page.location }}
+    </p>
+    <p>
+      <b>{{ labels['pid'][page.language] }}</b><br>
+      {{ page.pid }}
+    </p>
+    <p>
+      <b>{{ labels['collection'][page.language] }}</b><br>
+      {{ page.collection }}
     </p>
   </div>
 

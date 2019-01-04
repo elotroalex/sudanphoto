@@ -2,13 +2,19 @@
 spec = Gem::Specification.find_by_name 'wax_tasks'
 Dir.glob("#{spec.gem_dir}/lib/tasks/*.rake").each { |r| load r }
 
+
+# Custom tasks
+
 LANGS = %w[en ar].freeze
 SITE  = WaxTasks::TaskRunner.new.site
 DIR   = [SITE[:source_dir], '_data'].compact.join('/')
 
+
+# Custom Sudanphoto processing task
+desc 'Split data, generate pages and regenerate lunr index'
 task :lint do
   ARGS = ARGV.drop(1).each { |a| task a.to_sym }
-  raise 'You must specify a collection after rake process' if ARGS.empty?
+  raise "You must specify a collection after 'rake process'".magenta if ARGS.empty?
 
   ARGS.each do |a|
     path    = "#{DIR}/#{a}.csv"
@@ -16,7 +22,7 @@ task :lint do
     pids    = data.map { |d| d.fetch('pid', nil) }.compact
     langs   = data.map { |d| d['language'].strip }.uniq
     orphans = frequency(pids).find_all { |p| p[1] != 2 }
-    
+
     raise "Misconfigured languages. Found #{langs}, expected #{LANGS}".magenta unless langs == LANGS
     raise "The following PIDs are orphaned: #{orphans}".magenta unless orphans.empty?
     raise 'Not all records contain a valid PID value'.magenta unless data.length == pids.length
@@ -29,7 +35,7 @@ end
 desc 'Split data, generate pages and regenerate lunr index'
 task :process do
   ARGS = ARGV.drop(1).each { |a| task a.to_sym }
-  raise 'You must specify a collection after rake process' if ARGS.empty?
+  raise "You must specify a collection after 'rake process'" if ARGS.empty?
 
   ARGS.each do |a|
     data  = ingest("#{DIR}/#{a}.csv")
@@ -43,6 +49,12 @@ task :process do
   end
   Rake::Task['wax:lunr'].invoke
 end
+
+
+
+
+
+
 
 # Read in csv file as array of hashes
 def ingest(src_file)

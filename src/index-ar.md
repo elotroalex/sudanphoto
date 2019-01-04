@@ -6,8 +6,6 @@ permalink: /ar/index.html
 title: 'مرحبا بكم في أرشيف الصور التاريخية السودانية '
 ---
 
-<img src="http://photos.uofk.edu/largeimages/SHA-06-002-1080.jpg" style="width:100%;margin:20px 0px 20px 0px;"/>
-
 ## {{ page.title }}
 
 يعمل أرشيف الصور التاريخية السودانية على تجميع وحفظ الصور الفوتوغرافية التاريخية للسودان واتاحتها للطلاب والباحثين.

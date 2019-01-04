@@ -1,15 +1,15 @@
-pid:
-  en: Archival ID
-  ar: رقم الصورة
-collection:
-  en: Collection
-  ar: مجموعة الصور
-description:
+- key: description
   en: Description
   ar: وصف
-_date:
+- key: _date
   en: Date
   ar: تاريخ
-location:
+- key: location
   en: Location
   ar: مكان
+- key: pid
+  en: Archival ID
+  ar: رقم الصورة
+- key: collection
+  en: Collection
+  ar: مجموعة الصور

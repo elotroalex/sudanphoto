@@ -16,30 +16,14 @@ layout: default
     </div>
     {% endif %}
 
-    <p>
-      <b>{{ labels['description'][language] }}</b><br>
-      {{ page.description | strip }}
-    </p>
-
-    <p>
-      <b>{{ labels['_date'][language] }}</b><br>
-      {{ page._date | strip }}
-    </p>
-
-    <p>
-      <b>{{ labels['location'][language] }}</b><br>
-      {{ page.location | strip }}
-    </p>
-
-    <p>
-      <b>{{ labels['pid'][language] }}</b><br>
-      {{ page.pid | strip }}
-    </p>
-
-    <p>
-      <b>{{ labels['collection'][language] }}</b><br>
-      {{ page.collection | strip }}
-    </p>
+    {% for label in labels %}
+      {% if page[label.key].size %}
+      <p class='metadata {{ label.key }}'>
+        <span class='metadata-label'><b>{{ label[language] }}</b></span><br>
+        <span class='metadata-value'>{{ page[label.key] | strip }}</span>
+      </p>
+      {% endif %}
+    {% endfor %}
   </div>
 
 </article>

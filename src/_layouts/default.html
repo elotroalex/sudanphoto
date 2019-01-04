@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   {% include head.html %}
-  <body class="{{ page.language }}">
+  <body class="{{ page.language | strip }}">
     {% include header.html %}
     <div class="page-heading">
       <div class="page-content">

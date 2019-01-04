@@ -1,4 +1,5 @@
-{% if page.language == "en" %}{% assign other_lang = "ar" %}{% assign button_text = "العربية" %}
+{% assign language = page.language | strip %}
+{% if language == "en" %}{% assign other_lang = "ar" %}{% assign button_text = "العربية" %}
 {% else %}{% assign other_lang = "en" %}{% assign button_text = "English" %}{% endif %}
 
 {% if page.layout == 'photo-page' %}

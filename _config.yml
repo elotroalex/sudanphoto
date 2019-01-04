@@ -55,6 +55,7 @@ lunr_index:
           - 'collection'
           - '_date'
           - 'on_website'
+          - 'language'
       archive/en:
         content: false
         fields:
@@ -64,6 +65,7 @@ lunr_index:
           - 'collection'
           - '_date'
           - 'on_website'
+          - 'language'
 
 js:
   jquery:

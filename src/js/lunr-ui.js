@@ -13,6 +13,7 @@ $.getJSON("{{ site.baseurl }}/js/lunr-index.json", function(index_json) {
   index.addField('collection');
   index.addField('_date');
   index.addField('on_website');
+  index.addField('language');
   // add docs
   for (i in store) {
     index.addDoc(store[i]);
@@ -29,7 +30,7 @@ $.getJSON("{{ site.baseurl }}/js/lunr-index.json", function(index_json) {
       else {sorted.push(ref);}
     }
     results_div.empty();
-    results_div.prepend("<p><small>Displaying " + sorted.length + " results.</small></p>");
+    results_div.prepend(`<p><small>Displaying ${sorted.length} results.</small></p>`);
     for (var s in sorted) { // limit visible results to 10
       var idx   = sorted[s];
       var item  = store[idx];

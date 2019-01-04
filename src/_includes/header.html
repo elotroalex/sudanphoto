@@ -1,8 +1,9 @@
 <header class="site-header" role="banner">
+  {% assign language = page.language | strip %}
 
   <div class="wrapper">
-    <a class="site-title" href="{{ site.index[page.language] | relative_url }}">
-      {{ site.title[page.language] | escape }}
+    <a class="site-title" href="{{ site.index[language] | relative_url }}">
+      {{ site.title[language] | escape }}
     </a>
 
       <nav class="site-nav">
@@ -19,7 +20,7 @@
         </label>
 
         <div class="trigger">
-          {% assign nav_pages = site.pages | where: "menu", "true" | where: "language", page.language | sort:"order" %}
+          {% assign nav_pages = site.pages | where: "menu", "true" | where: "language", language | sort:"order" %}
           {% for page in nav_pages %}
           {% if page.title %}
           <a class="page-link" href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>

@@ -10,6 +10,7 @@ layout: none
     "description": "ثلاثة اشخاص في معرض الفن",
     "_date": "2007",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-15-001",
     "label": "",
     "lunr_index": 0
@@ -22,6 +23,7 @@ layout: none
     "description": "رجال يرحبون الفرقة",
     "_date": "1962",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-02-006",
     "label": "",
     "lunr_index": 1
@@ -34,6 +36,7 @@ layout: none
     "description": "شرحبيل احمد واثنين اخرين في حافلة",
     "_date": "1988",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-12-007",
     "label": "",
     "lunr_index": 2
@@ -46,6 +49,7 @@ layout: none
     "description": "تكريم شرحبيل احمد من قبل مصلحة الطيران المدني",
     "_date": "1977",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-07-001",
     "label": "",
     "lunr_index": 3
@@ -58,6 +62,7 @@ layout: none
     "description": "أصحاب شرحبيل احمد راقصين",
     "_date": "1969-1970",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-10-006",
     "label": "",
     "lunr_index": 4
@@ -70,6 +75,7 @@ layout: none
     "description": "من اليمين علي بدري وزير الصحة وعبد الرحمن علي طه وزير المعارف وعبد الله خليل مع مجموعة الكشاف",
     "_date": "",
     "on_website": "yes",
+    "language": "ar",
     "pid": "AAT-02-026",
     "label": "",
     "lunr_index": 5
@@ -82,6 +88,7 @@ layout: none
     "description": "شرحبيل احمد في الحفل",
     "_date": "2003-2004",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-16-018",
     "label": "",
     "lunr_index": 6
@@ -94,6 +101,7 @@ layout: none
     "description": "الشيخ علي الحاج طه عمدة قري الجعلين شمال الجزيرة ",
     "_date": "1905",
     "on_website": "no",
+    "language": "ar",
     "pid": "AAT-02-012",
     "label": "",
     "lunr_index": 7
@@ -106,6 +114,7 @@ layout: none
     "description": "عبد الرحمن على طه وزير المعارف يجيب على اسئلة اعضاء الجمعية التشريعية ",
     "_date": "1948",
     "on_website": "no",
+    "language": "ar",
     "pid": "AAT-02-002",
     "label": "",
     "lunr_index": 8
@@ -118,6 +127,7 @@ layout: none
     "description": "شرحبيل احمد واعضاء من اتحاد الجاز",
     "_date": "2009-2011",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-16-008",
     "label": "",
     "lunr_index": 9
@@ -130,6 +140,7 @@ layout: none
     "description": "عبد العزيز محمد داؤود ومغني كويتي",
     "_date": "1964",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-17-010",
     "label": "",
     "lunr_index": 10
@@ -142,6 +153,7 @@ layout: none
     "description": "شرحبيل احمد وموظفين اخرين من مكتب النشر",
     "_date": "late 1950s",
     "on_website": "yes",
+    "language": "ar",
     "pid": "SHA-10-016",
     "label": "",
     "lunr_index": 11
@@ -154,6 +166,7 @@ layout: none
     "description": "شرحبيل احمد وشخص اخر امام طائرة",
     "_date": "1964",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-09-010",
     "label": "",
     "lunr_index": 12
@@ -166,6 +179,7 @@ layout: none
     "description": "استقبال البعثة ",
     "_date": "1962",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-02-016",
     "label": "",
     "lunr_index": 13
@@ -178,6 +192,7 @@ layout: none
     "description": "شرحبيل احمد وفنانين اخر",
     "_date": "2007",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-15-011",
     "label": "",
     "lunr_index": 14
@@ -190,6 +205,7 @@ layout: none
     "description": "شرحبيل احمد وحسن سروجي في طائرة",
     "_date": "1960s",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-05-004",
     "label": "",
     "lunr_index": 15
@@ -202,6 +218,7 @@ layout: none
     "description": "شرحبيل احمد بالجيتار",
     "_date": "2000s",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-12-003",
     "label": "",
     "lunr_index": 16
@@ -214,6 +231,7 @@ layout: none
     "description": "شرحبيل احمد واخرين",
     "_date": "1962",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-15-005",
     "label": "",
     "lunr_index": 17
@@ -226,6 +244,7 @@ layout: none
     "description": "اربعة فتيات وصبي في ملابس سهرة ",
     "_date": "1962",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-02-002",
     "label": "",
     "lunr_index": 18
@@ -238,6 +257,7 @@ layout: none
     "description": "مجموعة من الرجال من ضمنهم علاء الدين حمزه ومحمد دفع الله واحمد حسن جمعه",
     "_date": "1964",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-17-004",
     "label": "",
     "lunr_index": 19
@@ -250,6 +270,7 @@ layout: none
     "description": "عبدالرحمن علي طه في جلسة المجلس التنفيذي والحاكم العام يخاطب الجلسة ",
     "_date": "1950",
     "on_website": "yes",
+    "language": "ar",
     "pid": "AAT-02-016",
     "label": "",
     "lunr_index": 20
@@ -262,6 +283,7 @@ layout: none
     "description": "فرقة شرحبيل احمد واخرون",
     "_date": "1964",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-09-004",
     "label": "",
     "lunr_index": 21
@@ -274,6 +296,7 @@ layout: none
     "description": "شرحبيل احمد وشخص اخر في حفل تكريم شرحبيل احمد",
     "_date": "8/9/1977",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-07-005",
     "label": "",
     "lunr_index": 22
@@ -286,6 +309,7 @@ layout: none
     "description": "عبد الرحمن علي طه في رحلة علاجية مع ابنه ياسر ",
     "_date": "1962",
     "on_website": "yes",
+    "language": "ar",
     "pid": "AAT-02-022",
     "label": "",
     "lunr_index": 23
@@ -298,6 +322,7 @@ layout: none
     "description": "أصحاب شرحبيل احمد",
     "_date": "1969-1970",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-10-002",
     "label": "",
     "lunr_index": 24
@@ -310,6 +335,7 @@ layout: none
     "description": "نصر الدين شلقامي وشرحبيل احمد ومحمد عفيفي",
     "_date": "09/08/1980",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-10-012",
     "label": "",
     "lunr_index": 25
@@ -322,6 +348,7 @@ layout: none
     "description": "فرقة شرحبيل احمد وشخص اخر",
     "_date": "1964",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-09-014",
     "label": "",
     "lunr_index": 26
@@ -334,6 +361,7 @@ layout: none
     "description": "غلاف كتاب السودان للسودانيين تأليف عبدالرحمن علي طه",
     "_date": "1955",
     "on_website": "no",
+    "language": "ar",
     "pid": "AAT-02-006",
     "label": "",
     "lunr_index": 27
@@ -346,6 +374,7 @@ layout: none
     "description": "احمد الشريف الحبيب قائد الجنود السودانيون المرابطون في الكويت",
     "_date": "1964",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-17-014",
     "label": "",
     "lunr_index": 28
@@ -358,6 +387,7 @@ layout: none
     "description": "رجال في الطائرة من ضمنهم احمد المصطفى بدر التهامي خلف الله ابو السيد خضر الحاوي سيد خليفة شرحبيل احمد عثمان حسين",
     "_date": "1962",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-02-012",
     "label": "",
     "lunr_index": 29
@@ -370,6 +400,7 @@ layout: none
     "description": "مجموعة من الزائرين من ضمنهم شرحبيل احمد واحمد المصطفى وعثمان حسين",
     "_date": "1962",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-15-015",
     "label": "",
     "lunr_index": 30
@@ -382,6 +413,7 @@ layout: none
     "description": "احمد ابراهيم داوؤد مع درامز",
     "_date": "early 1960s",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-05-005",
     "label": "",
     "lunr_index": 31
@@ -394,6 +426,7 @@ layout: none
     "description": "شرحبيل احمد وفرقته من ضمنهم زكية ابو القاسم",
     "_date": "1960s",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-12-002",
     "label": "",
     "lunr_index": 32
@@ -406,6 +439,7 @@ layout: none
     "description": "الكير احمد المصطفى وشرحبيل احمد وحسن سروجي واحمد داؤود",
     "_date": "1962",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-15-004",
     "label": "",
     "lunr_index": 33
@@ -418,6 +452,7 @@ layout: none
     "description": "مجموعة الفنانين موظفين سفارة السوداني حول طاولة من ضمنهم شرحبيل احمد على نور الجليل احمد المصطفى عبد اللطيف الحاوي ",
     "_date": "1962",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-02-003",
     "label": "",
     "lunr_index": 34
@@ -430,6 +465,7 @@ layout: none
     "description": "مرغني المأمون واحمد حسن حمعه تسجيل في الاذاعة الكويتية",
     "_date": "1964",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-17-005",
     "label": "",
     "lunr_index": 35
@@ -442,6 +478,7 @@ layout: none
     "description": "عبدالرحمن علي طه خلال مفاوضات الاستقلاليين مع حكومة نجيب الهلالي ",
     "_date": "1952",
     "on_website": "no",
+    "language": "ar",
     "pid": "AAT-02-017",
     "label": "",
     "lunr_index": 36
@@ -454,6 +491,7 @@ layout: none
     "description": "فرقة شرحبيل احمد واخرون",
     "_date": "1964",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-09-005",
     "label": "",
     "lunr_index": 37
@@ -466,6 +504,7 @@ layout: none
     "description": "شرحبيل احمد واعضاء فرقته ومذيع الحفل فيصل في حفل تكريم شرحبيل احمد",
     "_date": "8/9/1977",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-07-004",
     "label": "",
     "lunr_index": 38
@@ -478,6 +517,7 @@ layout: none
     "description": "أسماعيل الأزهري رئيس مجلس السيادة يخاطب مؤتمر طب الأطفال بود مدني",
     "_date": "1968",
     "on_website": "yes",
+    "language": "ar",
     "pid": "AAT-02-023",
     "label": "",
     "lunr_index": 39
@@ -490,6 +530,7 @@ layout: none
     "description": "أصحاب شرحبيل احمد",
     "_date": "1969-1970",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-10-003",
     "label": "",
     "lunr_index": 40
@@ -502,6 +543,7 @@ layout: none
     "description": "شرحبيل احمد وفرقته من صمنهم زكية ابو القاسم وعبدالله علي يعقوب وكامل حسين وحامد عثمان",
     "_date": "1980s",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-10-013",
     "label": "",
     "lunr_index": 41
@@ -514,6 +556,7 @@ layout: none
     "description": "السجناء راقصين",
     "_date": "1964",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-09-015",
     "label": "",
     "lunr_index": 42
@@ -526,6 +569,7 @@ layout: none
     "description": "عبدالرحمن علي طه مؤلف كتاب السودان للسودانيين",
     "_date": "1966",
     "on_website": "no",
+    "language": "ar",
     "pid": "AAT-02-007",
     "label": "",
     "lunr_index": 43
@@ -538,6 +582,7 @@ layout: none
     "description": "مرغني المأمون واحمد حسن جمعه في اذاعة الكويتية",
     "_date": "1964",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-17-015",
     "label": "",
     "lunr_index": 44
@@ -550,6 +595,7 @@ layout: none
     "description": "مجموعة الرجال",
     "_date": "1962",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-02-013",
     "label": "",
     "lunr_index": 45
@@ -562,6 +608,7 @@ layout: none
     "description": "شرحبيل احمد ومجموعة في المطعم",
     "_date": "1962",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-15-014",
     "label": "",
     "lunr_index": 46
@@ -574,6 +621,7 @@ layout: none
     "description": "فرقة شرحبيل احمد وشخص اخر",
     "_date": "1984",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-12-012",
     "label": "",
     "lunr_index": 47
@@ -586,6 +634,7 @@ layout: none
     "description": "حفلة ",
     "_date": "1962",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-02-007",
     "label": "",
     "lunr_index": 48
@@ -598,6 +647,7 @@ layout: none
     "description": "محمد سروجي واحمد داوؤد ومهدي علي وشرحبيل احمد",
     "_date": "1963",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-05-001",
     "label": "",
     "lunr_index": 49
@@ -610,6 +660,7 @@ layout: none
     "description": "شرحبيل احمد بالجيتار",
     "_date": "2000s",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-12-006",
     "label": "",
     "lunr_index": 50
@@ -622,6 +673,7 @@ layout: none
     "description": "فرقة شرحبيل احمد واخرون امام حافلة",
     "_date": "1964",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-09-001",
     "label": "",
     "lunr_index": 51
@@ -634,6 +686,7 @@ layout: none
     "description": "شرحبيل احمد الطيب محمد سعيد وشخص اخر",
     "_date": "late 1950s",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-10-007",
     "label": "",
     "lunr_index": 52
@@ -646,6 +699,7 @@ layout: none
     "description": " من اليمين علي بدري وزير الصحة وعبد الرحمن علي طه وزير المعارف وعبد الله خليل مع مجموعة الكشاف",
     "_date": "1949",
     "on_website": "no",
+    "language": "ar",
     "pid": "AAT-02-027",
     "label": "",
     "lunr_index": 53
@@ -658,6 +712,7 @@ layout: none
     "description": "عبد العزيز محمد داؤود في المسرح",
     "_date": "1964",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-17-001",
     "label": "",
     "lunr_index": 54
@@ -670,6 +725,7 @@ layout: none
     "description": "شرحبيل احمد",
     "_date": "2003-2004",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-16-019",
     "label": "",
     "lunr_index": 55
@@ -682,6 +738,7 @@ layout: none
     "description": "الكشاف عبد الرحمن علي طه",
     "_date": "1927-1934",
     "on_website": "no",
+    "language": "ar",
     "pid": "AAT-02-013",
     "label": "",
     "lunr_index": 56
@@ -694,6 +751,7 @@ layout: none
     "description": "عبدالرحمن علي طه عند توليه منصب وزير المعارف كأول وزير للمعارف في السودان",
     "_date": "1949",
     "on_website": "no",
+    "language": "ar",
     "pid": "AAT-02-003",
     "label": "",
     "lunr_index": 57
@@ -706,6 +764,7 @@ layout: none
     "description": "جمهور من الكويتيين",
     "_date": "1964",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-17-011",
     "label": "",
     "lunr_index": 58
@@ -718,6 +777,7 @@ layout: none
     "description": "شرحبيل احمد بالعود",
     "_date": "2005",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-16-009",
     "label": "",
     "lunr_index": 59
@@ -730,6 +790,7 @@ layout: none
     "description": "عازفين شرحبيل احمد كامل حسين وعلي يعقوب كباشي",
     "_date": "8/9/1977",
     "on_website": "yes",
+    "language": "ar",
     "pid": "SHA-07-010",
     "label": "",
     "lunr_index": 60
@@ -742,6 +803,7 @@ layout: none
     "description": "شرحبيل احمد مع مسؤولين حكومي",
     "_date": "1970s",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-06-008",
     "label": "",
     "lunr_index": 61
@@ -754,6 +816,7 @@ layout: none
     "description": "فرقة شرحبيل احمد واخرون",
     "_date": "1965",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-09-011",
     "label": "",
     "lunr_index": 62
@@ -766,6 +829,7 @@ layout: none
     "description": "البعثة والاخرين في السفارة السوداني او في بيت السفير",
     "_date": "1962",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-02-017",
     "label": "",
     "lunr_index": 63
@@ -778,6 +842,7 @@ layout: none
     "description": "عيد المرجان شرحبيل احمد حسن سروجي كامل حسين في رقص شعبي ",
     "_date": "1965",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-14-008",
     "label": "",
     "lunr_index": 64
@@ -790,6 +855,7 @@ layout: none
     "description": "شرحبيل احمد والفنانين الاخر",
     "_date": "1991",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-15-010",
     "label": "",
     "lunr_index": 65
@@ -802,6 +868,7 @@ layout: none
     "description": "هايلي سيلاسي مع اعصضاء من فرقة هرامبي لوسي مورو وماغدالين انيانغو",
     "_date": "1966",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-11-014",
     "label": "",
     "lunr_index": 66
@@ -814,6 +881,7 @@ layout: none
     "description": "عبدالرحمن علي طه في القاهرة  اثناء مفاوضات الاستقلاليين مع الحكومة المصرية برئاسة  نجيب الهلالي ",
     "_date": "1952",
     "on_website": "no",
+    "language": "ar",
     "pid": "AAT-02-018",
     "label": "",
     "lunr_index": 67
@@ -826,6 +894,7 @@ layout: none
     "description": "عزف فرقة هرامبي",
     "_date": "1966",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-11-020",
     "label": "",
     "lunr_index": 68
@@ -838,6 +907,7 @@ layout: none
     "description": "شرحبيل احمد وفرقته",
     "_date": "2001",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-16-012",
     "label": "",
     "lunr_index": 69
@@ -850,6 +920,7 @@ layout: none
     "description": "شرحبيل احمد اسامة عبد الله دينق",
     "_date": "mid 1970s",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-014",
     "label": "",
     "lunr_index": 70
@@ -862,6 +933,7 @@ layout: none
     "description": "شرحبيل احمد بالجيتار",
     "_date": "2000s",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-045",
     "label": "",
     "lunr_index": 71
@@ -874,6 +946,7 @@ layout: none
     "description": "افتتاح مجلس استشاري شمال السودان",
     "_date": "1944",
     "on_website": "no",
+    "language": "ar",
     "pid": "AAT-01-001",
     "label": "",
     "lunr_index": 72
@@ -886,6 +959,7 @@ layout: none
     "description": "شرحبيل احمد وموظفين السفارة السودانية من ضمنهم صلاح مصطفى",
     "_date": "1994",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-071",
     "label": "",
     "lunr_index": 73
@@ -898,6 +972,7 @@ layout: none
     "description": "كل المبعوثين والاساتذة من ضمنهم شرحبيل احمد وعبد المنعم نجار",
     "_date": "1957-1958",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-020",
     "label": "",
     "lunr_index": 74
@@ -910,6 +985,7 @@ layout: none
     "description": "شرحبيل احمد ومهدي علي في حفل زواج",
     "_date": "1960s",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-082",
     "label": "",
     "lunr_index": 75
@@ -922,6 +998,7 @@ layout: none
     "description": "شرحبيل احمد وسعيد قسم الله ",
     "_date": "1964-1965",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-04-002",
     "label": "",
     "lunr_index": 76
@@ -934,6 +1011,7 @@ layout: none
     "description": "حفلة خاصة في بيت موظفة بالسفارة الامريكية موسى بحر ابراهيم علي نور الجليل شرحبيل احمد مس بيكون",
     "_date": "1959",
     "on_website": "yes",
+    "language": "ar",
     "pid": "SHA-03-030",
     "label": "",
     "lunr_index": 77
@@ -946,6 +1024,7 @@ layout: none
     "description": "حفلة رمضان من ضمنهم شرحبيل احمد كامل حسين وشهرية شرحبيل وناهد شرحبيل",
     "_date": "1991-1992",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-061",
     "label": "",
     "lunr_index": 78
@@ -958,6 +1037,7 @@ layout: none
     "description": "شرحبيل احمد وفرقته وعلي شمو ومدير الاذاعة السيد التاج محمد في المطار",
     "_date": "1965",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-14-003",
     "label": "",
     "lunr_index": 79
@@ -970,6 +1050,7 @@ layout: none
     "description": " لجنة الأنتخابات ",
     "_date": "1953",
     "on_website": "no",
+    "language": "ar",
     "pid": "AAT-01-011",
     "label": "",
     "lunr_index": 80
@@ -982,6 +1063,7 @@ layout: none
     "description": "الاعلام لحفلة شرحبيل احمد",
     "_date": "2009",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-055",
     "label": "",
     "lunr_index": 81
@@ -994,6 +1076,7 @@ layout: none
     "description": "حفلة رمضان من ضمنهم شرحبيل احمد كامل حسين وشهرية شرحبيل وناهد شرحبيل",
     "_date": "1991-1992",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-004",
     "label": "",
     "lunr_index": 82
@@ -1006,6 +1089,7 @@ layout: none
     "description": "شرحبيل احمد مع شخصان اخران",
     "_date": "1998",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-16-002",
     "label": "",
     "lunr_index": 83
@@ -1018,6 +1102,7 @@ layout: none
     "description": "شرحبيل احمد واصدقائه امام تمثال في معهد التربية الاساسية",
     "_date": "1957-1958",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-01-005",
     "label": "",
     "lunr_index": 84
@@ -1030,6 +1115,7 @@ layout: none
     "description": "خطاب عبدالرحمن علي طه الى والده عندما كان طالبا في كلية غردون",
     "_date": "1918",
     "on_website": "no",
+    "language": "ar",
     "pid": "AAT-02-008",
     "label": "",
     "lunr_index": 85
@@ -1042,6 +1128,7 @@ layout: none
     "description": "شهاب شرحبيل وطلاب المدرسة",
     "_date": "late 1970s",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-06-003",
     "label": "",
     "lunr_index": 86
@@ -1054,6 +1141,7 @@ layout: none
     "description": "فرقة شرحبيل احمد",
     "_date": "1971-1972",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-08-002",
     "label": "",
     "lunr_index": 87
@@ -1066,6 +1154,7 @@ layout: none
     "description": "جمهور من معجبين شرحبيل احمد وهرامبي",
     "_date": "1966",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-11-004",
     "label": "",
     "lunr_index": 88
@@ -1078,6 +1167,7 @@ layout: none
     "description": "استقبال فرقة هرامبي في المطار",
     "_date": "18/3/1966",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-11-024",
     "label": "",
     "lunr_index": 89
@@ -1090,6 +1180,7 @@ layout: none
     "description": "شرحبيل احمد بالجيتار",
     "_date": "early 2000s",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-16-016",
     "label": "",
     "lunr_index": 90
@@ -1102,6 +1193,7 @@ layout: none
     "description": "عبدالرحمن علي طه حضورا في احتفالات اتفاقية الحكم الذاتي وتقرير المصير",
     "_date": "1953",
     "on_website": "yes",
+    "language": "ar",
     "pid": "AAT-02-028",
     "label": "",
     "lunr_index": 91
@@ -1114,6 +1206,7 @@ layout: none
     "description": "شرحبيل احمد وصديقه",
     "_date": "1954-1955",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-10-008",
     "label": "",
     "lunr_index": 92
@@ -1126,6 +1219,7 @@ layout: none
     "description": "عزف فرقة هرامبي",
     "_date": "1966",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-11-010",
     "label": "",
     "lunr_index": 93
@@ -1138,6 +1232,7 @@ layout: none
     "description": "شرحبيل احمد وشخصان اخران في بيت مسز بيكون",
     "_date": "late 1950s",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-16-022",
     "label": "",
     "lunr_index": 94
@@ -1150,6 +1245,7 @@ layout: none
     "description": "حفلة شرحبيل احمد",
     "_date": "1984",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-024",
     "label": "",
     "lunr_index": 95
@@ -1162,6 +1258,7 @@ layout: none
     "description": "شرحبيل احمد وكامل حسين",
     "_date": "1957-1958",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-12-009",
     "label": "",
     "lunr_index": 96
@@ -1174,6 +1271,7 @@ layout: none
     "description": "شرحبيل احمد بالجيتار",
     "_date": "2000s",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-075",
     "label": "",
     "lunr_index": 97
@@ -1186,6 +1284,7 @@ layout: none
     "description": "عيد المرجان شرحبيل احمد حسن سروجي كامل حسين في رقص شعبي ",
     "_date": "1965",
     "on_website": "yes",
+    "language": "ar",
     "pid": "SHA-03-041",
     "label": "",
     "lunr_index": 98
@@ -1198,6 +1297,7 @@ layout: none
     "description": "إنعقاد البرلمان السوداني",
     "_date": "1954",
     "on_website": "no",
+    "language": "ar",
     "pid": "AAT-01-005",
     "label": "",
     "lunr_index": 99
@@ -1210,6 +1310,7 @@ layout: none
     "description": "معجبين راقصين اما فرقة شرحبيل احمد",
     "_date": "1991-1995",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-010",
     "label": "",
     "lunr_index": 100
@@ -1222,6 +1323,7 @@ layout: none
     "description": "غداء في المطعم من ضمنهم حسن سروجي سيد احمد عثمان حسين",
     "_date": "1962",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-02-008",
     "label": "",
     "lunr_index": 101
@@ -1234,6 +1336,7 @@ layout: none
     "description": "شرحبيل احمد وفرقته والاخرون من حفل عيد المرجان",
     "_date": "1965",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-14-007",
     "label": "",
     "lunr_index": 102
@@ -1246,6 +1349,7 @@ layout: none
     "description": "جمهور من ضمنهم احمد المصطفى عثمان حسين خضر الحاوي شرحبيل احمد عبد اللطيف خضر الحاوي طيوبا",
     "_date": "1962",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-02-018",
     "label": "",
     "lunr_index": 103
@@ -1258,6 +1362,7 @@ layout: none
     "description": "مفاوضات الهلالي مع الاستقلاليين",
     "_date": "1952",
     "on_website": "no",
+    "language": "ar",
     "pid": "AAT-01-015",
     "label": "",
     "lunr_index": 104
@@ -1270,6 +1375,7 @@ layout: none
     "description": "يعزف شرحبيل احمد وفرقته",
     "_date": "2000",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-051",
     "label": "",
     "lunr_index": 105
@@ -1282,6 +1388,7 @@ layout: none
     "description": "حفلة رمضان شرحبيل احمد ادم خليل علي يعقوب كامل حسين",
     "_date": "1991-1992",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-065",
     "label": "",
     "lunr_index": 106
@@ -1294,6 +1401,7 @@ layout: none
     "description": "عيد المرجان شرحبيل احمد حسن سروجي كامل حسين في رقص شعبي ",
     "_date": "1965",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-13-001",
     "label": "",
     "lunr_index": 107
@@ -1306,6 +1414,7 @@ layout: none
     "description": "حفلة مع الاطفال شرحبيل احمد كامل حسين مهدي على امام احمد ابراهيم داوود",
     "_date": "1965",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-034",
     "label": "",
     "lunr_index": 108
@@ -1318,6 +1427,7 @@ layout: none
     "description": "شرحبيل احمد و فرقته",
     "_date": "March 1982",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-06-007",
     "label": "",
     "lunr_index": 109
@@ -1330,6 +1440,7 @@ layout: none
     "description": "شرحبيل احمد بالعود وشخصان اخران ",
     "_date": "2005",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-16-006",
     "label": "",
     "lunr_index": 110
@@ -1342,6 +1453,7 @@ layout: none
     "description": "شرحبيل احمد يقعد خلف الاسود الحجرية في الحديقة ",
     "_date": "1957-1958",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-01-001",
     "label": "",
     "lunr_index": 111
@@ -1354,6 +1466,7 @@ layout: none
     "description": "شرحبيل احمد بالعود",
     "_date": "2002-2004",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-16-017",
     "label": "",
     "lunr_index": 112
@@ -1366,6 +1479,7 @@ layout: none
     "description": "عبدالرحمن علي طه يخاطب حشود استقبال السيد عبدالرحمن المهدي بعد عودته من رحلة لندن والقاهرة",
     "_date": "1952",
     "on_website": "no",
+    "language": "ar",
     "pid": "AAT-02-029",
     "label": "",
     "lunr_index": 113
@@ -1378,6 +1492,7 @@ layout: none
     "description": "عزف فرقة هرامبي",
     "_date": "1966",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-11-011",
     "label": "",
     "lunr_index": 114
@@ -1390,6 +1505,7 @@ layout: none
     "description": "شرحبيل احمد والطيب محمد سعيد",
     "_date": "1958",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-10-009",
     "label": "",
     "lunr_index": 115
@@ -1402,6 +1518,7 @@ layout: none
     "description": "شرحبيل احمد وسيد احمد وافر كاثو",
     "_date": "1972",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-16-023",
     "label": "",
     "lunr_index": 116
@@ -1414,6 +1531,7 @@ layout: none
     "description": "شرحبيل احمد وجيلان الواثق",
     "_date": "1984",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-12-008",
     "label": "",
     "lunr_index": 117
@@ -1426,6 +1544,7 @@ layout: none
     "description": "حفلة شرحبيل احمد مع علي يعقوب محمد مصطفى شرحبيل احمد كامل حسين وحيد دينق",
     "_date": "1980s",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-025",
     "label": "",
     "lunr_index": 118
@@ -1438,6 +1557,7 @@ layout: none
     "description": "شرحبيل احمد بالجيتار",
     "_date": "2000s",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-074",
     "label": "",
     "lunr_index": 119
@@ -1450,6 +1570,7 @@ layout: none
     "description": "شرحبيل احمد الفرقة",
     "_date": "1965",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-040",
     "label": "",
     "lunr_index": 120
@@ -1462,6 +1583,7 @@ layout: none
     "description": "اعضاء المجلس التنفيذي",
     "_date": "1949",
     "on_website": "no",
+    "language": "ar",
     "pid": "AAT-01-004",
     "label": "",
     "lunr_index": 121
@@ -1474,6 +1596,7 @@ layout: none
     "description": "جمهور امام سينيما امباير",
     "_date": "1962",
     "on_website": "yes",
+    "language": "ar",
     "pid": "SHA-02-009",
     "label": "",
     "lunr_index": 122
@@ -1486,6 +1609,7 @@ layout: none
     "description": "احمد داوود ومحمدية في المطار",
     "_date": "1963-1964",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-011",
     "label": "",
     "lunr_index": 123
@@ -1498,6 +1622,7 @@ layout: none
     "description": "شرحبيل احمد وفرقته والاخرون من حفل عيد المرجان",
     "_date": "1965",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-14-006",
     "label": "",
     "lunr_index": 124
@@ -1510,6 +1635,7 @@ layout: none
     "description": "اشبال نادي الهلال من ضمنهم كامل حسين شرحبيل احمد النعيم فرج الله عوض صديق عبد الرحمن قسم السيد ابو شنب عوضين عبده عبد القادر كمال محمد يوسف",
     "_date": "1953-1954",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-001",
     "label": "",
     "lunr_index": 125
@@ -1522,6 +1648,7 @@ layout: none
     "description": "عبد الرحمن على طه في احتفالات منحه الدكتوراة الفخرية جامعة الخرطوم",
     "_date": "1967",
     "on_website": "no",
+    "language": "ar",
     "pid": "AAT-01-014",
     "label": "",
     "lunr_index": 126
@@ -1534,6 +1661,7 @@ layout: none
     "description": "شرحبيل احمد بالجيتار",
     "_date": "2000s",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-050",
     "label": "",
     "lunr_index": 127
@@ -1546,6 +1674,7 @@ layout: none
     "description": "شهاب شرحبيل وخمسة اخرين يقعدون حول طاولة ",
     "_date": "late 1990s",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-064",
     "label": "",
     "lunr_index": 128
@@ -1558,6 +1687,7 @@ layout: none
     "description": "فرقة شرحبيل احمد مع علي نور الجليل شرحبيل احمد عبد اللطيف خضر طيوبا حسن سروجي",
     "_date": "1962",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-035",
     "label": "",
     "lunr_index": 129
@@ -1570,6 +1700,7 @@ layout: none
     "description": "علي يعقوب كباشي ",
     "_date": "1980s",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-06-006",
     "label": "",
     "lunr_index": 130
@@ -1582,6 +1713,7 @@ layout: none
     "description": "شرحبيل احمد وضابط الجيش في مطار",
     "_date": "1966",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-11-001",
     "label": "",
     "lunr_index": 131
@@ -1594,6 +1726,7 @@ layout: none
     "description": "شرحبيل احمد وفرقته",
     "_date": "1995",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-16-007",
     "label": "",
     "lunr_index": 132
@@ -1606,6 +1739,7 @@ layout: none
     "description": "استقبال فرقة هرامبي في المطار مع الاسد",
     "_date": "1966",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-11-015",
     "label": "",
     "lunr_index": 133
@@ -1618,6 +1752,7 @@ layout: none
     "description": "عبدالرحمن علي طه وأخويه عبدالرزاق علي طه والطيب علي طه",
     "_date": "1965",
     "on_website": "no",
+    "language": "ar",
     "pid": "AAT-02-019",
     "label": "",
     "lunr_index": 134
@@ -1630,6 +1765,7 @@ layout: none
     "description": "مجموعة من الجنود",
     "_date": "1966",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-11-021",
     "label": "",
     "lunr_index": 135
@@ -1642,6 +1778,7 @@ layout: none
     "description": "شرحبيل احمد بالعود وفرقته",
     "_date": "2001",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-16-013",
     "label": "",
     "lunr_index": 136
@@ -1654,6 +1791,7 @@ layout: none
     "description": "شرحبيل احمد",
     "_date": "1971-1975",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-015",
     "label": "",
     "lunr_index": 137
@@ -1666,6 +1804,7 @@ layout: none
     "description": "شرحبيل احمد بالجيتار",
     "_date": "2000s",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-044",
     "label": "",
     "lunr_index": 138
@@ -1678,6 +1817,7 @@ layout: none
     "description": "شرحبيل احمد بالجيتار",
     "_date": "1965",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-070",
     "label": "",
     "lunr_index": 139
@@ -1690,6 +1830,7 @@ layout: none
     "description": "الاعلام لحفلة شرحبيل احمد",
     "_date": "2004",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-021",
     "label": "",
     "lunr_index": 140
@@ -1702,6 +1843,7 @@ layout: none
     "description": "حفلة رمضان من ضمنهم شرحبيل احمد كامل حسين وشهرية شرحبيل وناهد شرحبيل",
     "_date": "1991-1992",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-083",
     "label": "",
     "lunr_index": 141
@@ -1714,6 +1856,7 @@ layout: none
     "description": "شرحبيل احمد مع الصبيان",
     "_date": "1964-1965",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-04-003",
     "label": "",
     "lunr_index": 142
@@ -1726,6 +1869,7 @@ layout: none
     "description": "حفلة شرحبيل احمد علي يعقوب كباشي ادم خليل البوشي كامل حسين عادل كوكاب",
     "_date": "August, 1991",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-031",
     "label": "",
     "lunr_index": 143
@@ -1738,6 +1882,7 @@ layout: none
     "description": "حفلة رمضان ادم خليل علي يعقوب كامل حسين",
     "_date": "1991-1992",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-060",
     "label": "",
     "lunr_index": 144
@@ -1750,6 +1895,7 @@ layout: none
     "description": "حسن سروجي",
     "_date": "1965",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-14-002",
     "label": "",
     "lunr_index": 145
@@ -1762,6 +1908,7 @@ layout: none
     "description": "من اليمين السيد عبدالرحمن, السيد الصديق, عبدالرحمن علي طه",
     "_date": "1952",
     "on_website": "no",
+    "language": "ar",
     "pid": "AAT-01-010",
     "label": "",
     "lunr_index": 146
@@ -1774,6 +1921,7 @@ layout: none
     "description": "شرحبيل احمد",
     "_date": "1964-1965",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-054",
     "label": "",
     "lunr_index": 147
@@ -1786,6 +1934,7 @@ layout: none
     "description": "حفلة رمضان من ضمنهم على يعقوب كامل حسين شرحبيل احمد شهاب شهيرة شرحبيل ناهد شرحبيل",
     "_date": "1991-1992",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-005",
     "label": "",
     "lunr_index": 148
@@ -1798,6 +1947,7 @@ layout: none
     "description": "شرحبيل احمد يعزف العود",
     "_date": "1998",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-16-003",
     "label": "",
     "lunr_index": 149
@@ -1810,6 +1960,7 @@ layout: none
     "description": "شرحبيل احمد امام تمثال",
     "_date": "1957-1958",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-01-004",
     "label": "",
     "lunr_index": 150
@@ -1822,6 +1973,7 @@ layout: none
     "description": "عبدالرحمن علي طه مع احد الأعضاء الجنوبيين بالجمعية التشريعية",
     "_date": "1950",
     "on_website": "no",
+    "language": "ar",
     "pid": "AAT-02-009",
     "label": "",
     "lunr_index": 151
@@ -1834,6 +1986,7 @@ layout: none
     "description": "زيارة ستوكلي كارمايكل مع اعضاء نادي جاز نمرة واحدة",
     "_date": "late 1960s",
     "on_website": "yes",
+    "language": "ar",
     "pid": "SHA-06-002",
     "label": "",
     "lunr_index": 152
@@ -1846,6 +1999,7 @@ layout: none
     "description": "شرحبيل احمد وفرقته",
     "_date": "1971-1972",
     "on_website": "yes",
+    "language": "ar",
     "pid": "SHA-08-003",
     "label": "",
     "lunr_index": 153
@@ -1858,6 +2012,7 @@ layout: none
     "description": "عزف فرقة هرامبي",
     "_date": "1966",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-11-005",
     "label": "",
     "lunr_index": 154
@@ -1870,6 +2025,7 @@ layout: none
     "description": "شرحبيل احمد بالعود",
     "_date": "2004-2005",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-16-014",
     "label": "",
     "lunr_index": 155
@@ -1882,6 +2038,7 @@ layout: none
     "description": "شرحبيل احمد بالجيتار",
     "_date": "2000",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-16-020",
     "label": "",
     "lunr_index": 156
@@ -1894,6 +2051,7 @@ layout: none
     "description": "عزف فرقة هرامبي",
     "_date": "1966",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-11-012",
     "label": "",
     "lunr_index": 157
@@ -1906,6 +2064,7 @@ layout: none
     "description": "حفلة كامل حسين علي يعقوب",
     "_date": "August 1991",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-084",
     "label": "",
     "lunr_index": 158
@@ -1918,6 +2077,7 @@ layout: none
     "description": "شرحبيل احمد",
     "_date": "1991-1995",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-077",
     "label": "",
     "lunr_index": 159
@@ -1930,6 +2090,7 @@ layout: none
     "description": "شرحبيل احمد وفرقته مع الكمان والعود",
     "_date": "1958-1959",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-026",
     "label": "",
     "lunr_index": 160
@@ -1942,6 +2103,7 @@ layout: none
     "description": "شرحبيل احمد بالجيتار",
     "_date": "1980s",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-012",
     "label": "",
     "lunr_index": 161
@@ -1954,6 +2116,7 @@ layout: none
     "description": "بداية الفرقة مع كامل حسين شرحبيل احمد علي نور الجليل حسين بابكر عوض علي اكرت احمد داوود",
     "_date": "1961",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-043",
     "label": "",
     "lunr_index": 162
@@ -1966,6 +2129,7 @@ layout: none
     "description": "وفد مفاوضات الاستقلاليين والحكومة المصرية ",
     "_date": "1952",
     "on_website": "no",
+    "language": "ar",
     "pid": "AAT-01-007",
     "label": "",
     "lunr_index": 163
@@ -1978,6 +2142,7 @@ layout: none
     "description": "عبدالرحمن علي طه بزي المدرسين في كلية غردون التذكارية",
     "_date": "1959-1964",
     "on_website": "yes",
+    "language": "ar",
     "pid": "AAT-01-017",
     "label": "",
     "lunr_index": 164
@@ -1990,6 +2155,7 @@ layout: none
     "description": "شرحبيل احمد",
     "_date": "1980s",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-053",
     "label": "",
     "lunr_index": 165
@@ -2002,6 +2168,7 @@ layout: none
     "description": "شرحبيل احمد",
     "_date": "December, 1971",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-002",
     "label": "",
     "lunr_index": 166
@@ -2014,6 +2181,7 @@ layout: none
     "description": "شرحبيل احمد وحسن سروجي وبعض الاخرين",
     "_date": "1965",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-14-005",
     "label": "",
     "lunr_index": 167
@@ -2026,6 +2194,7 @@ layout: none
     "description": "مجموعة الفنانين في مهرجان عيد المرجان من ضمنهم محمد احمد عوض موسى محمد ابراهيم حسن سروجي كامل حسين عبد العزيز الكابلي شرحبيل احمد التاج محمد (مدير الاذاعة) علي شمو عثمان حسين رابح حسن",
     "_date": "1965",
     "on_website": "yes",
+    "language": "ar",
     "pid": "SHA-03-036",
     "label": "",
     "lunr_index": 168
@@ -2038,6 +2207,7 @@ layout: none
     "description": "حفلة شرحبيل احمد. الاحتفال بالمليون كتاب",
     "_date": "1991-1992",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-067",
     "label": "",
     "lunr_index": 169
@@ -2050,6 +2220,7 @@ layout: none
     "description": "صلاح شاهين وعاملين بدار النشر والمدير ابراهيم ضوالبيت واسماعيل محمد الامين وشرحبيل احمد ",
     "_date": "1960s",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-04-004",
     "label": "",
     "lunr_index": 170
@@ -2062,6 +2233,7 @@ layout: none
     "description": "عزف فرقة هرامبي",
     "_date": "1966",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-11-002",
     "label": "",
     "lunr_index": 171
@@ -2074,6 +2246,7 @@ layout: none
     "description": "حامد عثمان ",
     "_date": "1980s",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-06-005",
     "label": "",
     "lunr_index": 172
@@ -2086,6 +2259,7 @@ layout: none
     "description": "شرحبيل احمد وامه",
     "_date": "1976-1977",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-01-003",
     "label": "",
     "lunr_index": 173
@@ -2098,6 +2272,7 @@ layout: none
     "description": "شرحبيل احمد امام قصر بوكينهام ",
     "_date": "2003-2005",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-16-004",
     "label": "",
     "lunr_index": 174
@@ -2110,6 +2285,7 @@ layout: none
     "description": "فرقة شرحبيل احمد واخرون",
     "_date": "1964",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-09-008",
     "label": "",
     "lunr_index": 175
@@ -2122,6 +2298,7 @@ layout: none
     "description": "شرحبيل احمد وشخص اخر في حفل تكريم شرحبيل احمد",
     "_date": "8/9/1977",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-07-009",
     "label": "",
     "lunr_index": 176
@@ -2134,6 +2311,7 @@ layout: none
     "description": "شرحبيل احمد والمنعم نجار واخرون",
     "_date": "1957-1958",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-16-024",
     "label": "",
     "lunr_index": 177
@@ -2146,6 +2324,7 @@ layout: none
     "description": "استقبال فرقة هرامبي مع صادق المهدي",
     "_date": "1966",
     "on_website": "yes",
+    "language": "ar",
     "pid": "SHA-11-016",
     "label": "",
     "lunr_index": 178
@@ -2158,6 +2337,7 @@ layout: none
     "description": "جمهور في حفل مرغني المأمون واحمد حسن جمعه",
     "_date": "1964",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-17-008",
     "label": "",
     "lunr_index": 179
@@ -2170,6 +2350,7 @@ layout: none
     "description": "شرحبيل احمد بالجيتار",
     "_date": "early 2000s ",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-16-010",
     "label": "",
     "lunr_index": 180
@@ -2182,6 +2363,7 @@ layout: none
     "description": "قائد القوات الجوية ابيرا ماريام وعضوء من فرقة هرامبي",
     "_date": "1966",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-11-022",
     "label": "",
     "lunr_index": 181
@@ -2194,6 +2376,7 @@ layout: none
     "description": "شرحبيل احمد والفنانين الاخر",
     "_date": "1991",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-15-009",
     "label": "",
     "lunr_index": 182
@@ -2206,6 +2389,7 @@ layout: none
     "description": "شرحبيل احمد",
     "_date": "1953",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-047",
     "label": "",
     "lunr_index": 183
@@ -2218,6 +2402,7 @@ layout: none
     "description": "عبدالرحمن علي طه وزير المعارف عند زيارته لامريكا يصافح الدكتور بقولو رئيس مؤتمر التعليم",
     "_date": "1949",
     "on_website": "no",
+    "language": "ar",
     "pid": "AAT-01-003",
     "label": "",
     "lunr_index": 184
@@ -2230,6 +2415,7 @@ layout: none
     "description": "شرحبيل احمد",
     "_date": "1980s",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-016",
     "label": "",
     "lunr_index": 185
@@ -2242,6 +2428,7 @@ layout: none
     "description": "شرحبيل احمد بالفلوت",
     "_date": "1965",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-080",
     "label": "",
     "lunr_index": 186
@@ -2254,6 +2441,7 @@ layout: none
     "description": "حفلة شرحبيل احمد محمد دللو ابراهيم عمر عادل كوكاب",
     "_date": "1991",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-022",
     "label": "",
     "lunr_index": 187
@@ -2266,6 +2454,7 @@ layout: none
     "description": "حفلة من ضمنهم شرحبيل احمد وكمال كيلا وصلاح بشير وزاكية ابو قاسم",
     "_date": "1978",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-073",
     "label": "",
     "lunr_index": 188
@@ -2278,6 +2467,7 @@ layout: none
     "description": "حفلة رمضان ادم خليل علي يعقوب كامل حسين",
     "_date": "1991-1992",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-063",
     "label": "",
     "lunr_index": 189
@@ -2290,6 +2480,7 @@ layout: none
     "description": "مجموعة امام طائرة من ضمنهم عبد العزيز محمد داوود بادي محمد الطيب وفنانة الصومالية مريم",
     "_date": "1969",
     "on_website": "yes",
+    "language": "ar",
     "pid": "SHA-03-032",
     "label": "",
     "lunr_index": 190
@@ -2302,6 +2493,7 @@ layout: none
     "description": "شرحبيل احمد في عاصمة الثقافة العربية",
     "_date": "2005",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-006",
     "label": "",
     "lunr_index": 191
@@ -2314,6 +2506,7 @@ layout: none
     "description": "السيد عبدالرحمن المهدي في رحلة الى بريطانيا وخلفه عبدالرحمن علي طه",
     "_date": "1952",
     "on_website": "no",
+    "language": "ar",
     "pid": "AAT-01-013",
     "label": "",
     "lunr_index": 192
@@ -2326,6 +2519,7 @@ layout: none
     "description": "شرحبيل احمد مع مجموعة من الناس يقعدون في الطاولات",
     "_date": "1980s-1990s",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-057",
     "label": "",
     "lunr_index": 193
@@ -2338,6 +2532,7 @@ layout: none
     "description": "حسن سروجي وشرحبيل احمد",
     "_date": "1963",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-14-001",
     "label": "",
     "lunr_index": 194
@@ -2350,6 +2545,7 @@ layout: none
     "description": "عزف فرقة هرامبي",
     "_date": "1966",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-11-006",
     "label": "",
     "lunr_index": 195
@@ -2362,6 +2558,7 @@ layout: none
     "description": "شرحبيل احمد في مؤتمر",
     "_date": "1990",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-06-001",
     "label": "",
     "lunr_index": 196
@@ -2374,6 +2571,7 @@ layout: none
     "description": "فرقة شرحبيل احمد واخرون",
     "_date": "1964",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-09-009",
     "label": "",
     "lunr_index": 197
@@ -2386,6 +2584,7 @@ layout: none
     "description": "شرحبيل احمد وزملائه ",
     "_date": "1957-1959",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-16-025",
     "label": "",
     "lunr_index": 198
@@ -2398,6 +2597,7 @@ layout: none
     "description": "شرحبيل احمد",
     "_date": "8/9/1977",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-07-008",
     "label": "",
     "lunr_index": 199
@@ -2410,6 +2610,7 @@ layout: none
     "description": "استقبال هرامبي في المطار مع الاسد",
     "_date": "1966",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-11-017",
     "label": "",
     "lunr_index": 200
@@ -2422,6 +2623,7 @@ layout: none
     "description": "جمهور في حفل شرحبيل احمد",
     "_date": "2001",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-16-011",
     "label": "",
     "lunr_index": 201
@@ -2434,6 +2636,7 @@ layout: none
     "description": "احمد المصطفى بالعود",
     "_date": "1964",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-17-009",
     "label": "",
     "lunr_index": 202
@@ -2446,6 +2649,7 @@ layout: none
     "description": "عزف فرقة هرامبي",
     "_date": "1966",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-11-023",
     "label": "",
     "lunr_index": 203
@@ -2458,6 +2662,7 @@ layout: none
     "description": "يعزف شرحبيل احمد وفنانين اخر في المسرح القومي",
     "_date": "1962",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-15-008",
     "label": "",
     "lunr_index": 204
@@ -2470,6 +2675,7 @@ layout: none
     "description": "شرحبيل احمد",
     "_date": "1960s",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-046",
     "label": "",
     "lunr_index": 205
@@ -2482,6 +2688,7 @@ layout: none
     "description": "توقيع أتفاقية الاستقلاليين والحكومة المصرية ",
     "_date": "1952",
     "on_website": "no",
+    "language": "ar",
     "pid": "AAT-01-002",
     "label": "",
     "lunr_index": 206
@@ -2494,6 +2701,7 @@ layout: none
     "description": "شرحبيل احمد وفرقته حفل مسرح التلفزيون ابو ظبي ",
     "_date": "1976-1977",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-017",
     "label": "",
     "lunr_index": 207
@@ -2506,6 +2714,7 @@ layout: none
     "description": "شرحبيل احمد",
     "_date": "1957-1959",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-081",
     "label": "",
     "lunr_index": 208
@@ -2518,6 +2727,7 @@ layout: none
     "description": "حفلة شرحبيل احمد اسامة عبد الله دينق",
     "_date": "1970s",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-023",
     "label": "",
     "lunr_index": 209
@@ -2530,6 +2740,7 @@ layout: none
     "description": "شرحبيل احمد محمد وردي والوزير عبد الباصل",
     "_date": "2000s",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-072",
     "label": "",
     "lunr_index": 210
@@ -2542,6 +2753,7 @@ layout: none
     "description": "يعزف علي يعقوب ادم خليل كامل حسين",
     "_date": "1993",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-062",
     "label": "",
     "lunr_index": 211
@@ -2554,6 +2766,7 @@ layout: none
     "description": "شرحبيل احمد بالجيتار",
     "_date": "1960s",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-033",
     "label": "",
     "lunr_index": 212
@@ -2566,6 +2779,7 @@ layout: none
     "description": "المدير مهدي علي شرفي سكرتير تحرير الصبيان رضا محمد عثمان المحرر محمد عثمان الشايقي",
     "_date": "1964-1965",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-04-001",
     "label": "",
     "lunr_index": 213
@@ -2578,6 +2792,7 @@ layout: none
     "description": "شرحبيل احمد وثلاثة اخرين",
     "_date": "1960s",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-007",
     "label": "",
     "lunr_index": 214
@@ -2590,6 +2805,7 @@ layout: none
     "description": "افتتاح الجمعية التشريعة ",
     "_date": "12/12/1948",
     "on_website": "no",
+    "language": "ar",
     "pid": "AAT-01-012",
     "label": "",
     "lunr_index": 215
@@ -2602,6 +2818,7 @@ layout: none
     "description": "شرحبيل احمد مع اصحاب من ضمنهم كامل حسين وادم خليل",
     "_date": "1993",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-056",
     "label": "",
     "lunr_index": 216
@@ -2614,6 +2831,7 @@ layout: none
     "description": "شرحبيل احمد في جمهور ",
     "_date": "1993-1995",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-16-001",
     "label": "",
     "lunr_index": 217
@@ -2626,6 +2844,7 @@ layout: none
     "description": "عزف فرقة هرامبي",
     "_date": "1966",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-11-007",
     "label": "",
     "lunr_index": 218
@@ -2638,6 +2857,7 @@ layout: none
     "description": "مهدي علي وكامل حسين وشرحبيل احمد ومعجب",
     "_date": "6/12/1964",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-08-001",
     "label": "",
     "lunr_index": 219
@@ -2650,6 +2870,7 @@ layout: none
     "description": "فرقة شرحبيل احمد",
     "_date": "early 2000s",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-16-015",
     "label": "",
     "lunr_index": 220
@@ -2662,6 +2883,7 @@ layout: none
     "description": "شرحبيل احمد بالجيتار",
     "_date": "early 2000s",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-16-021",
     "label": "",
     "lunr_index": 221
@@ -2674,6 +2896,7 @@ layout: none
     "description": "السفير السوداني سيد مرغني ومسؤلين كينيي في استقبال فرقة هرامبي",
     "_date": "1966",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-11-013",
     "label": "",
     "lunr_index": 222
@@ -2686,6 +2909,7 @@ layout: none
     "description": "صورة من الفرقة من ضمنهم كوجاجا ادم خليل شرحبيل احمد علي يعقوب كامل حسين",
     "_date": "October 27 1990",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-085",
     "label": "",
     "lunr_index": 223
@@ -2698,6 +2922,7 @@ layout: none
     "description": "حفلة من ضمنهم شرحبيل احمد. علي يعقوب شهاب شرحبيل ادم خليل كامل حسين",
     "_date": "1995",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-076",
     "label": "",
     "lunr_index": 224
@@ -2710,6 +2935,7 @@ layout: none
     "description": "حفلة رمضان من ضمنهم على يعقوب كامل حسين شرحبيل احمد شهاب شهيرة شرحبيل ناهد شرحبيل",
     "_date": "1991-1992",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-027",
     "label": "",
     "lunr_index": 225
@@ -2722,6 +2948,7 @@ layout: none
     "description": "شرحبيل احمد",
     "_date": "1965-1967",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-013",
     "label": "",
     "lunr_index": 226
@@ -2734,6 +2961,7 @@ layout: none
     "description": "مقالة عن شرحبيل احمد",
     "_date": "1960s",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-042",
     "label": "",
     "lunr_index": 227
@@ -2746,6 +2974,7 @@ layout: none
     "description": "الرئيس الأزهري والشيخ بابكر بدرى في مناسبة افتتاح البرلمان",
     "_date": "1954",
     "on_website": "no",
+    "language": "ar",
     "pid": "AAT-01-006",
     "label": "",
     "lunr_index": 228
@@ -2758,6 +2987,7 @@ layout: none
     "description": "عبدالرحمن علي طه نائب عميد معهد بخت الرضا و المستر قريفيث عميد المعهد ونصر الحاج علي أستاذ بالمعهد",
     "_date": "1940",
     "on_website": "no",
+    "language": "ar",
     "pid": "AAT-01-016",
     "label": "",
     "lunr_index": 229
@@ -2770,6 +3000,7 @@ layout: none
     "description": "يعزف شرحبيل احمد في حفلة لمنظمة أنقذوا الأطفال",
     "_date": "1980s",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-052",
     "label": "",
     "lunr_index": 230
@@ -2782,6 +3013,7 @@ layout: none
     "description": "شرحبيل احمد",
     "_date": "December, 1971",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-003",
     "label": "",
     "lunr_index": 231
@@ -2794,6 +3026,7 @@ layout: none
     "description": "شرحبيل احمد وفرقته",
     "_date": "1965",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-14-004",
     "label": "",
     "lunr_index": 232
@@ -2806,6 +3039,7 @@ layout: none
     "description": "مجموعة الرجال والنساء في حفلة رأس السنة",
     "_date": "1971-1972",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-037",
     "label": "",
     "lunr_index": 233
@@ -2818,6 +3052,7 @@ layout: none
     "description": "حفلة مع علي يعقوب شهاب شرحبيل ادم خليل كامل حسين",
     "_date": "1995",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-066",
     "label": "",
     "lunr_index": 234
@@ -2830,6 +3065,7 @@ layout: none
     "description": "عزف فرقة هرامبي",
     "_date": "1966",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-11-003",
     "label": "",
     "lunr_index": 235
@@ -2842,6 +3078,7 @@ layout: none
     "description": "عازف درامز في فرقة شرحبيل اثيوبي سوداني اسمه عادل",
     "_date": "1971-1972",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-06-004",
     "label": "",
     "lunr_index": 236
@@ -2854,6 +3091,7 @@ layout: none
     "description": "مجموعة من المبعوثين الاجانب من ضمنهم شرحبيل احمد، عبد المنعم نجار، عبد الحليم البرجيني",
     "_date": "1957-1958",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-01-002",
     "label": "",
     "lunr_index": 237
@@ -2866,6 +3104,7 @@ layout: none
     "description": "شرحبيل احمد امام قصر بوكينهام ",
     "_date": "2003-2005",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-16-005",
     "label": "",
     "lunr_index": 238
@@ -2878,6 +3117,7 @@ layout: none
     "description": "عزف شرحبيل احمد وهاري بلفونتي",
     "_date": "1988",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-12-001",
     "label": "",
     "lunr_index": 239
@@ -2890,6 +3130,7 @@ layout: none
     "description": "شرحبيل احمد مع شخصان اخر",
     "_date": "early 1960s",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-05-006",
     "label": "",
     "lunr_index": 240
@@ -2902,6 +3143,7 @@ layout: none
     "description": "حفلة مع الاطفال شرحبيل احمد كامل حسين مهدي على امام احمد ابراهيم داوود",
     "_date": "1965",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-018",
     "label": "",
     "lunr_index": 241
@@ -2914,6 +3156,7 @@ layout: none
     "description": "الاعلام لحفلة شرحبيل احمد",
     "_date": "early 2000s",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-049",
     "label": "",
     "lunr_index": 242
@@ -2926,6 +3169,7 @@ layout: none
     "description": "شرحبيل احمد واحمد مصطفى وفنانين اخر يعزفون في المسرح القومي",
     "_date": "1962",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-15-007",
     "label": "",
     "lunr_index": 243
@@ -2938,6 +3182,7 @@ layout: none
     "description": "عبدالرحمن علي طه في كلية غردون التذكارية ",
     "_date": "1927",
     "on_website": "no",
+    "language": "ar",
     "pid": "AAT-02-014",
     "label": "",
     "lunr_index": 244
@@ -2950,6 +3195,7 @@ layout: none
     "description": "احمد حسن جمعه",
     "_date": "1964",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-17-006",
     "label": "",
     "lunr_index": 245
@@ -2962,6 +3208,7 @@ layout: none
     "description": "استقبال فرقة هرامبي مع رئيس الازهري",
     "_date": "1966",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-11-018",
     "label": "",
     "lunr_index": 246
@@ -2974,6 +3221,7 @@ layout: none
     "description": "عبد الرحمن علي طه والسيد عبدالرحمن المهدي في حفل توقيع اتفاقية الاستقلاليين مع الحكومة المصرية ",
     "_date": "29/10/1952",
     "on_website": "no",
+    "language": "ar",
     "pid": "AAT-02-020",
     "label": "",
     "lunr_index": 247
@@ -2986,6 +3234,7 @@ layout: none
     "description": "فرقة شرحبيل احمد واخرون",
     "_date": "1964",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-09-006",
     "label": "",
     "lunr_index": 248
@@ -2998,6 +3247,7 @@ layout: none
     "description": "شرحبيل احمد وشخص اخر في حفل تكريم شرحبيل احمد",
     "_date": "8/9/1977",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-07-007",
     "label": "",
     "lunr_index": 249
@@ -3010,6 +3260,7 @@ layout: none
     "description": "هرامبي مع رئيس الازهري",
     "_date": "1966",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-11-008",
     "label": "",
     "lunr_index": 250
@@ -3022,6 +3273,7 @@ layout: none
     "description": "كامل حسين",
     "_date": "1959-1960",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-10-010",
     "label": "",
     "lunr_index": 251
@@ -3034,6 +3286,7 @@ layout: none
     "description": "عبدالرحمن علي طه وزير المعارف",
     "_date": "1949",
     "on_website": "no",
+    "language": "ar",
     "pid": "AAT-02-004",
     "label": "",
     "lunr_index": 252
@@ -3046,6 +3299,7 @@ layout: none
     "description": "حفلة شرحبيل احمد. الاحتفال بالمليون كتاب",
     "_date": "1991-1992",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-059",
     "label": "",
     "lunr_index": 253
@@ -3058,6 +3312,7 @@ layout: none
     "description": "البعثة المفية ",
     "_date": "1962",
     "on_website": "yes",
+    "language": "ar",
     "pid": "SHA-02-010",
     "label": "",
     "lunr_index": 254
@@ -3070,6 +3325,7 @@ layout: none
     "description": "شرحبيل احمد بالجيتار",
     "_date": "c. 1959",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-008",
     "label": "",
     "lunr_index": 255
@@ -3082,6 +3338,7 @@ layout: none
     "description": "شرحبيل احمد وفرقته مع سخص اخر",
     "_date": "1984",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-12-011",
     "label": "",
     "lunr_index": 256
@@ -3094,6 +3351,7 @@ layout: none
     "description": "من اليسار النصري حمزة ناظر مدرسة خور طقت الثانوية وعبد الرحمن علي طه يتصافحان يوم افتتاح المدرسة ",
     "_date": "1950",
     "on_website": "no",
+    "language": "ar",
     "pid": "AAT-01-009",
     "label": "",
     "lunr_index": 257
@@ -3106,6 +3364,7 @@ layout: none
     "description": "مجموعة من كبار موظفين السفارة مرافقين طول الرحلة من ضمنهم خضر الحاوي عبد اللطيف الحاوي حسن سروجي",
     "_date": "1962",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-02-004",
     "label": "",
     "lunr_index": 258
@@ -3118,6 +3377,7 @@ layout: none
     "description": "شرحبيل احمد ومبعوثين في اثيوبيا لحفل",
     "_date": "1991",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-15-003",
     "label": "",
     "lunr_index": 259
@@ -3130,6 +3390,7 @@ layout: none
     "description": "شرحبيل احمد",
     "_date": "2000s",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-028",
     "label": "",
     "lunr_index": 260
@@ -3142,6 +3403,7 @@ layout: none
     "description": "شرحبيل احمد بالجيتار",
     "_date": "2000s",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-12-005",
     "label": "",
     "lunr_index": 261
@@ -3154,6 +3416,7 @@ layout: none
     "description": "شرحبيل احمد",
     "_date": "1965",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-079",
     "label": "",
     "lunr_index": 262
@@ -3166,6 +3429,7 @@ layout: none
     "description": "الكعبة",
     "_date": "",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-05-002",
     "label": "",
     "lunr_index": 263
@@ -3178,6 +3442,7 @@ layout: none
     "description": "وفد الاستقلاليين في مفاوضات الهلالي في حفل خاص اقامه لهم عبد الرحمن عزام الأمين العام لجامعة الدول العربية  ",
     "_date": "1952",
     "on_website": "no",
+    "language": "ar",
     "pid": "AAT-02-024",
     "label": "",
     "lunr_index": 264
@@ -3190,6 +3455,7 @@ layout: none
     "description": "أصحاب شرحبيل احمد راقصين",
     "_date": "1969-1970",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-10-004",
     "label": "",
     "lunr_index": 265
@@ -3202,6 +3468,7 @@ layout: none
     "description": "فرقة شرحبيل احمد ومعجبين",
     "_date": "1964",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-09-002",
     "label": "",
     "lunr_index": 266
@@ -3214,6 +3481,7 @@ layout: none
     "description": "شرحبيل احمد ومزيع فيصل في حفل تكريم شرحبيل احمد",
     "_date": "7/9/1977",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-07-003",
     "label": "",
     "lunr_index": 267
@@ -3226,6 +3494,7 @@ layout: none
     "description": "صورة للمجلس التنفيذي مع الحاكم العام ",
     "_date": "1953",
     "on_website": "no",
+    "language": "ar",
     "pid": "AAT-02-010",
     "label": "",
     "lunr_index": 268
@@ -3238,6 +3507,7 @@ layout: none
     "description": "المسؤولان الكويتي",
     "_date": "1964",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-17-002",
     "label": "",
     "lunr_index": 269
@@ -3250,6 +3520,7 @@ layout: none
     "description": "مسؤولي كويتي",
     "_date": "1964",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-17-012",
     "label": "",
     "lunr_index": 270
@@ -3262,6 +3533,7 @@ layout: none
     "description": "فرقة شرحبيل احمد واخرون",
     "_date": "1964",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-09-012",
     "label": "",
     "lunr_index": 271
@@ -3274,6 +3546,7 @@ layout: none
     "description": "شرحبيل احمد واصحابه راقصين",
     "_date": "1969-1970",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-10-014",
     "label": "",
     "lunr_index": 272
@@ -3286,6 +3559,7 @@ layout: none
     "description": "شرحبيل احمد بالجيتار",
     "_date": "2000s",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-069",
     "label": "",
     "lunr_index": 273
@@ -3298,6 +3572,7 @@ layout: none
     "description": "الفرقة امام البحر",
     "_date": "1965",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-038",
     "label": "",
     "lunr_index": 274
@@ -3310,6 +3585,7 @@ layout: none
     "description": "شرحبيل احمد وفرقته وموظفين من السفارة السوداني",
     "_date": "1962",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-15-013",
     "label": "",
     "lunr_index": 275
@@ -3322,6 +3598,7 @@ layout: none
     "description": "يعزف احمد داوود وحسن سروجي في مسرح اقير فاكر",
     "_date": "1962",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-02-014",
     "label": "",
     "lunr_index": 276
@@ -3334,6 +3611,7 @@ layout: none
     "description": "وفد المفاوضات السوداني المصري ",
     "_date": "1952",
     "on_website": "no",
+    "language": "ar",
     "pid": "AAT-01-008",
     "label": "",
     "lunr_index": 277
@@ -3346,6 +3624,7 @@ layout: none
     "description": "مجموعة من الرجال من ضمنهم خضر الحاوي عثمان حسين سيد احمد. علي نور الجليل حسن سروجي خلف الله الاعلام شرحبيل احمد احمد داوود سيد خليفة طيوبه بدر التهامي والطفلة الصغيرة",
     "_date": "1962",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-02-005",
     "label": "",
     "lunr_index": 278
@@ -3358,6 +3637,7 @@ layout: none
     "description": "شرحبيل احمد",
     "_date": "25/10/1991",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-15-002",
     "label": "",
     "lunr_index": 279
@@ -3370,6 +3650,7 @@ layout: none
     "description": "شرحبيل احمد بالجيتار",
     "_date": "2000s",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-12-004",
     "label": "",
     "lunr_index": 280
@@ -3382,6 +3663,7 @@ layout: none
     "description": "الاعلام لحفلة شرحبيل احمد",
     "_date": "2008",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-029",
     "label": "",
     "lunr_index": 281
@@ -3394,6 +3676,7 @@ layout: none
     "description": "شرحبيل احمد وعبد الرحمن الابنودي",
     "_date": "2002-2004",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-078",
     "label": "",
     "lunr_index": 282
@@ -3406,6 +3689,7 @@ layout: none
     "description": "مجموعة فرقة الجاز مع شرحبيل احمد وكمال كيلا",
     "_date": "late 1960s",
     "on_website": "yes",
+    "language": "ar",
     "pid": "SHA-05-003",
     "label": "",
     "lunr_index": 283
@@ -3418,6 +3702,7 @@ layout: none
     "description": "عبد الرحمن علي طه، ودكتور علي البدري ، وبوث ديو أحد الاعضاء الجنوبيين بالجمعية التشريعية ",
     "_date": "1950",
     "on_website": "yes",
+    "language": "ar",
     "pid": "AAT-02-025",
     "label": "",
     "lunr_index": 284
@@ -3430,6 +3715,7 @@ layout: none
     "description": "أصحاب شرحبيل احمد راقصين",
     "_date": "1969-1970",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-10-005",
     "label": "",
     "lunr_index": 285
@@ -3442,6 +3728,7 @@ layout: none
     "description": "فرقة شرحبيل احمد واخرون",
     "_date": "1964",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-09-003",
     "label": "",
     "lunr_index": 286
@@ -3454,6 +3741,7 @@ layout: none
     "description": "جمهور في حفل تكريم شرحبيل احمد",
     "_date": "8/9/1977",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-07-002",
     "label": "",
     "lunr_index": 287
@@ -3466,6 +3754,7 @@ layout: none
     "description": "",
     "_date": "",
     "on_website": "no",
+    "language": "ar",
     "pid": "AAT-02-011",
     "label": "",
     "lunr_index": 288
@@ -3478,6 +3767,7 @@ layout: none
     "description": "مجموعة من الرجال بعد الحفلة ",
     "_date": "1964",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-17-003",
     "label": "",
     "lunr_index": 289
@@ -3490,6 +3780,7 @@ layout: none
     "description": "سيد خليفة على اذاعة كويتية",
     "_date": "1964",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-17-013",
     "label": "",
     "lunr_index": 290
@@ -3502,6 +3793,7 @@ layout: none
     "description": "عبدالرحمن على طه وزير المعرف ومجموعة من الوزراء  ",
     "_date": "",
     "on_website": "no",
+    "language": "ar",
     "pid": "AAT-02-001",
     "label": "",
     "lunr_index": 291
@@ -3514,6 +3806,7 @@ layout: none
     "description": "شرحبيل احمد",
     "_date": "1964",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-09-013",
     "label": "",
     "lunr_index": 292
@@ -3526,6 +3819,7 @@ layout: none
     "description": "شرحبيل احمد وصديقينه",
     "_date": "1969-1970",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-10-015",
     "label": "",
     "lunr_index": 293
@@ -3538,6 +3832,7 @@ layout: none
     "description": "المبعوثين السوداني والسوري للحفلة في الفندق",
     "_date": "1965",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-068",
     "label": "",
     "lunr_index": 294
@@ -3550,6 +3845,7 @@ layout: none
     "description": "اول فرقة شرحبيل احمد مع كامل حسين حسن بابكر عوض محمد عثمان احمد داوود ويرى عبد القادر قائد سلاح موسيقى البوليس",
     "_date": "1960",
     "on_website": "yes",
+    "language": "ar",
     "pid": "SHA-03-039",
     "label": "",
     "lunr_index": 295
@@ -3562,6 +3858,7 @@ layout: none
     "description": "شرحبيل احمد واخرين من ضمنهم عبد اللطيف خضر وعلي نور الجليل وطيوبا وحسن سروجي واحمد داؤود",
     "_date": "1962",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-15-012",
     "label": "",
     "lunr_index": 296
@@ -3574,6 +3871,7 @@ layout: none
     "description": "عثمان حسين في وصلة غنائية من ضمنهم عبد اللطيف خضر بدر التهامي طيوبا حسن سروجي سيد احمد حسين جاد السيد",
     "_date": "1962",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-02-015",
     "label": "",
     "lunr_index": 297
@@ -3586,6 +3884,7 @@ layout: none
     "description": "محمد اسماعيل كامل حسين احمد داوؤد مهدي علي ابراهيم",
     "_date": "1963-1964",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-05-007",
     "label": "",
     "lunr_index": 298
@@ -3598,6 +3897,7 @@ layout: none
     "description": "حفلة رمضان من ضمنهم على يعقوب كامل حسين شرحبيل احمد شهاب شهيرة شرحبيل ناهد شرحبيل",
     "_date": "1991-1992",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-019",
     "label": "",
     "lunr_index": 299
@@ -3610,6 +3910,7 @@ layout: none
     "description": "حفل موسيقي شرحبيل احمد والفرقة يعزفون امام جمهور راقص",
     "_date": "1962",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-02-001",
     "label": "",
     "lunr_index": 300
@@ -3622,6 +3923,7 @@ layout: none
     "description": "شرحبيل احمد",
     "_date": "1960s",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-048",
     "label": "",
     "lunr_index": 301
@@ -3634,6 +3936,7 @@ layout: none
     "description": " شرحبيل احمد والفنانين السودانيين والاثيوبيين وموظفين من السفارة السوداني",
     "_date": "1962",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-15-006",
     "label": "",
     "lunr_index": 302
@@ -3646,6 +3949,7 @@ layout: none
     "description": "عبدالرحمن علي طه خلال مفاوضات الاستقلاليين مع حكومة نجيب الهلالي ",
     "_date": "1952",
     "on_website": "no",
+    "language": "ar",
     "pid": "AAT-02-015",
     "label": "",
     "lunr_index": 303
@@ -3658,6 +3962,7 @@ layout: none
     "description": "فنان يعزف مع احمد حسن جمعه ",
     "_date": "1964",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-17-007",
     "label": "",
     "lunr_index": 304
@@ -3670,6 +3975,7 @@ layout: none
     "description": "شرحبيل احمد وصديقه راقصان",
     "_date": "1969-1970",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-10-001",
     "label": "",
     "lunr_index": 305
@@ -3682,6 +3988,7 @@ layout: none
     "description": "نقل هايلي سيلاسي",
     "_date": "1966",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-11-019",
     "label": "",
     "lunr_index": 306
@@ -3694,6 +4001,7 @@ layout: none
     "description": "عبد الرحمن علي طه في حفل افتتاح مدارس الأحفاد بأمدرمان",
     "_date": "1951",
     "on_website": "yes",
+    "language": "ar",
     "pid": "AAT-02-021",
     "label": "",
     "lunr_index": 307
@@ -3706,6 +4014,7 @@ layout: none
     "description": "احمد ابراهيم داوؤد",
     "_date": "1964",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-09-007",
     "label": "",
     "lunr_index": 308
@@ -3718,6 +4027,7 @@ layout: none
     "description": "شرحبيل احمد و فيصل في حفل تكريم شرحبيل احمد",
     "_date": "7/9/1977",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-07-006",
     "label": "",
     "lunr_index": 309
@@ -3730,6 +4040,7 @@ layout: none
     "description": "شرحبيل احمد الطيب محمد سعيد وشخص اخر",
     "_date": "late 1950s",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-10-011",
     "label": "",
     "lunr_index": 310
@@ -3742,6 +4053,7 @@ layout: none
     "description": "هايلي سيلاسي في جمهور",
     "_date": "1966",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-11-009",
     "label": "",
     "lunr_index": 311
@@ -3754,6 +4066,7 @@ layout: none
     "description": "عبدالرحمن علي طه وزير المعارف",
     "_date": "1949",
     "on_website": "no",
+    "language": "ar",
     "pid": "AAT-02-005",
     "label": "",
     "lunr_index": 312
@@ -3766,6 +4079,7 @@ layout: none
     "description": "شرحبيل احمد وفرقته امام جمهور في المسرح القومي",
     "_date": "1962",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-15-016",
     "label": "",
     "lunr_index": 313
@@ -3778,6 +4092,7 @@ layout: none
     "description": "شهاب شرحبيل سعاد عبد العزيز يعزفون جيتار",
     "_date": "1996-1997",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-058",
     "label": "",
     "lunr_index": 314
@@ -3790,6 +4105,7 @@ layout: none
     "description": "شرحبيل احمد علي يعقوب كامل حسين زكية ابو القاسم في حفلة ",
     "_date": "1995",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-03-009",
     "label": "",
     "lunr_index": 315
@@ -3802,6 +4118,7 @@ layout: none
     "description": "رجال في الطائرة من ضمنهم احمد المصطفى بدر التهامي خلف الله ابو السيد",
     "_date": "1962",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-02-011",
     "label": "",
     "lunr_index": 316
@@ -3814,6 +4131,7 @@ layout: none
     "description": "جمهور في حفل شرحبيل احمد",
     "_date": "1984",
     "on_website": "no",
+    "language": "ar",
     "pid": "SHA-12-010",
     "label": "",
     "lunr_index": 317
@@ -3826,6 +4144,7 @@ layout: none
     "description": "Three people at art exhibition",
     "_date": "2007",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-15-001",
     "label": "",
     "lunr_index": 318
@@ -3838,6 +4157,7 @@ layout: none
     "description": "Men welcoming the band",
     "_date": "1962",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-02-006",
     "label": "",
     "lunr_index": 319
@@ -3850,6 +4170,7 @@ layout: none
     "description": "Sharhabil Ahmed and two others in a bus",
     "_date": "1988",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-12-007",
     "label": "",
     "lunr_index": 320
@@ -3862,6 +4183,7 @@ layout: none
     "description": "Announcement of Sharhabil Ahmed performance before the Civil Aviation department",
     "_date": "1977",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-07-001",
     "label": "",
     "lunr_index": 321
@@ -3874,6 +4196,7 @@ layout: none
     "description": "Friends of Sharhabil Ahmed dancing",
     "_date": "1969-1970",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-10-006",
     "label": "",
     "lunr_index": 322
@@ -3886,6 +4209,7 @@ layout: none
     "description": "From the right: Ali Badri, Minister of Health, Abdel Rahman Ali Taha, Minister of Education, and Abdullah Khalil with a group of scouts",
     "_date": "",
     "on_website": "yes",
+    "language": "en",
     "pid": "AAT-02-026",
     "label": "",
     "lunr_index": 323
@@ -3898,6 +4222,7 @@ layout: none
     "description": "Sharhabil Ahmed concert",
     "_date": "2003-2004",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-16-018",
     "label": "",
     "lunr_index": 324
@@ -3910,6 +4235,7 @@ layout: none
     "description": "Sheikh Ali al Haj Taha, Omda of the village of al Ja'lin in northern Gezira",
     "_date": "1905",
     "on_website": "no",
+    "language": "en",
     "pid": "AAT-02-012",
     "label": "",
     "lunr_index": 325
@@ -3922,6 +4248,7 @@ layout: none
     "description": "Abdel Rahman Ali Taha, the Minister of Education, answers questions from members of the Legislative Assembly",
     "_date": "1948",
     "on_website": "no",
+    "language": "en",
     "pid": "AAT-02-002",
     "label": "",
     "lunr_index": 326
@@ -3934,6 +4261,7 @@ layout: none
     "description": "Sharhabil Ahmed and members of the jazz association",
     "_date": "2009-2011",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-16-008",
     "label": "",
     "lunr_index": 327
@@ -3946,6 +4274,7 @@ layout: none
     "description": "Abdel Aziz Muhammad Daoud with Kuwaiti singer ",
     "_date": "1964",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-17-010",
     "label": "",
     "lunr_index": 328
@@ -3958,6 +4287,7 @@ layout: none
     "description": "Sharhabil Ahmed and other employees of the publications bureau",
     "_date": "late 1950s",
     "on_website": "yes",
+    "language": "en",
     "pid": "SHA-10-016",
     "label": "",
     "lunr_index": 329
@@ -3970,6 +4300,7 @@ layout: none
     "description": "Sharhabil Ahmed and another person in front of an airplane",
     "_date": "1964",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-09-010",
     "label": "",
     "lunr_index": 330
@@ -3982,6 +4313,7 @@ layout: none
     "description": "Reception of band ",
     "_date": "1962",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-02-016",
     "label": "",
     "lunr_index": 331
@@ -3994,6 +4326,7 @@ layout: none
     "description": "Sharhabil Ahmed and other musicians",
     "_date": "2007",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-15-011",
     "label": "",
     "lunr_index": 332
@@ -4006,6 +4339,7 @@ layout: none
     "description": "Sharhabil Ahmed and Hassan Saroji in a plane",
     "_date": "1960s",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-05-004",
     "label": "",
     "lunr_index": 333
@@ -4018,6 +4352,7 @@ layout: none
     "description": "Sharhabil Ahmed with a guitar",
     "_date": "2000s",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-12-003",
     "label": "",
     "lunr_index": 334
@@ -4030,6 +4365,7 @@ layout: none
     "description": "Sharhabil Ahmed and others",
     "_date": "1962",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-15-005",
     "label": "",
     "lunr_index": 335
@@ -4042,6 +4378,7 @@ layout: none
     "description": "Four girls and one boy in formal clothing",
     "_date": "1962",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-02-002",
     "label": "",
     "lunr_index": 336
@@ -4054,6 +4391,7 @@ layout: none
     "description": "group of men including 'Ala al Din Hamza Muhammad Dafallah and Ahmed Hassan Jum'a",
     "_date": "1964",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-17-004",
     "label": "",
     "lunr_index": 337
@@ -4066,6 +4404,7 @@ layout: none
     "description": "Abdel Rahman Ali Taha in a meeting of the Executive Council as the Governor General speaks to the assembly",
     "_date": "1950",
     "on_website": "yes",
+    "language": "en",
     "pid": "AAT-02-016",
     "label": "",
     "lunr_index": 338
@@ -4078,6 +4417,7 @@ layout: none
     "description": "Sharhabil ِAhmed's band and others",
     "_date": "1964",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-09-004",
     "label": "",
     "lunr_index": 339
@@ -4090,6 +4430,7 @@ layout: none
     "description": "Sharhabil Ahmed and another person at concert",
     "_date": "8/9/1977",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-07-005",
     "label": "",
     "lunr_index": 340
@@ -4102,6 +4443,7 @@ layout: none
     "description": "Abdel Rahman Ali Taha on a trip with his son Yasir",
     "_date": "1962",
     "on_website": "yes",
+    "language": "en",
     "pid": "AAT-02-022",
     "label": "",
     "lunr_index": 341
@@ -4114,6 +4456,7 @@ layout: none
     "description": "Friends of Sharhabil Ahmed",
     "_date": "1969-1970",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-10-002",
     "label": "",
     "lunr_index": 342
@@ -4126,6 +4469,7 @@ layout: none
     "description": "Nasir al Din Shulgami Sharhabil Ahmed and Muhammad 'Afifi",
     "_date": "09/08/1980",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-10-012",
     "label": "",
     "lunr_index": 343
@@ -4138,6 +4482,7 @@ layout: none
     "description": "Sharhabil Ahmed's band and someone else",
     "_date": "1964",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-09-014",
     "label": "",
     "lunr_index": 344
@@ -4150,6 +4495,7 @@ layout: none
     "description": "Book Cover of Sudan for the Sudanese, written by Abdel Rahman Ali Taha",
     "_date": "1955",
     "on_website": "no",
+    "language": "en",
     "pid": "AAT-02-006",
     "label": "",
     "lunr_index": 345
@@ -4162,6 +4508,7 @@ layout: none
     "description": "Ahmed al Sharif al Habib commander of Sudanese troops stationed in Kuwait and Kuwaiti officials",
     "_date": "1964",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-17-014",
     "label": "",
     "lunr_index": 346
@@ -4174,6 +4521,7 @@ layout: none
     "description": "Men on plane among them Ahmed al Mustafa Badr al Tahami Khalifallah Abu al Sid Khidir al Hawi Sharhabil Ahmed and Osman Hussain",
     "_date": "1962",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-02-012",
     "label": "",
     "lunr_index": 347
@@ -4186,6 +4534,7 @@ layout: none
     "description": "Group of visitors among them Sharhabil Ahmed Ahmed al Mustafa and Osman Hussain",
     "_date": "1962",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-15-015",
     "label": "",
     "lunr_index": 348
@@ -4198,6 +4547,7 @@ layout: none
     "description": "Ahmed Ibrahim Daoud with drums",
     "_date": "early 1960s",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-05-005",
     "label": "",
     "lunr_index": 349
@@ -4210,6 +4560,7 @@ layout: none
     "description": "Sharhabil Ahmed and his band including Zakia Abu Gasim",
     "_date": "1960s",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-12-002",
     "label": "",
     "lunr_index": 350
@@ -4222,6 +4573,7 @@ layout: none
     "description": "Alkir Ahmed al Mustafa Sharhabil Ahmed Hassan Saroji and Ahmed Daoud",
     "_date": "1962",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-15-004",
     "label": "",
     "lunr_index": 351
@@ -4234,6 +4586,7 @@ layout: none
     "description": "Group of artists and Sudanese diplomats around a table including Sharhabil Ahmed Ali Nur al Jalil Ahmed al Mustafa and Abdel Latif al Hawi",
     "_date": "1962",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-02-003",
     "label": "",
     "lunr_index": 352
@@ -4246,6 +4599,7 @@ layout: none
     "description": "Mirghani al Mamoun and Ahmed Hassan Jum'a recording on Radio Kuwait",
     "_date": "1964",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-17-005",
     "label": "",
     "lunr_index": 353
@@ -4258,6 +4612,7 @@ layout: none
     "description": "Abdel Rahman Ali Taha during the negotiations of the Independence movement with the government of Naguib al Hilaly",
     "_date": "1952",
     "on_website": "no",
+    "language": "en",
     "pid": "AAT-02-017",
     "label": "",
     "lunr_index": 354
@@ -4270,6 +4625,7 @@ layout: none
     "description": "Sharhabil ِAhmed's band and others",
     "_date": "1964",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-09-005",
     "label": "",
     "lunr_index": 355
@@ -4282,6 +4638,7 @@ layout: none
     "description": "Sharhabil Ahmed members of his band and radio announcer Faisal at concert",
     "_date": "8/9/1977",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-07-004",
     "label": "",
     "lunr_index": 356
@@ -4294,6 +4651,7 @@ layout: none
     "description": "Isma'il al Azhari, Prime Minister, speaking to a conference on Children's Medicine in Wad Madani",
     "_date": "1968",
     "on_website": "yes",
+    "language": "en",
     "pid": "AAT-02-023",
     "label": "",
     "lunr_index": 357
@@ -4306,6 +4664,7 @@ layout: none
     "description": "Friends of Sharhabil Ahmed",
     "_date": "1969-1970",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-10-003",
     "label": "",
     "lunr_index": 358
@@ -4318,6 +4677,7 @@ layout: none
     "description": "Sharhabil Ahmed and his band including Zakia Abu Gasim Abdullah 'Ali Yagoub Kamil Hussain and Hamid Osman",
     "_date": "1980s",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-10-013",
     "label": "",
     "lunr_index": 359
@@ -4330,6 +4690,7 @@ layout: none
     "description": "Prisoners dancing",
     "_date": "1964",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-09-015",
     "label": "",
     "lunr_index": 360
@@ -4342,6 +4703,7 @@ layout: none
     "description": "Abdel Rahman Ali Taha, writer of the book Sudan for the Sudanese ",
     "_date": "1966",
     "on_website": "no",
+    "language": "en",
     "pid": "AAT-02-007",
     "label": "",
     "lunr_index": 361
@@ -4354,6 +4716,7 @@ layout: none
     "description": "Mirghani al Mamoun and Ahmed Hassan Jum'a on Kuwaiti radio",
     "_date": "1964",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-17-015",
     "label": "",
     "lunr_index": 362
@@ -4366,6 +4729,7 @@ layout: none
     "description": "Group of men",
     "_date": "1962",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-02-013",
     "label": "",
     "lunr_index": 363
@@ -4378,6 +4742,7 @@ layout: none
     "description": "Sharhabil Ahmed and group at restaurant",
     "_date": "1962",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-15-014",
     "label": "",
     "lunr_index": 364
@@ -4390,6 +4755,7 @@ layout: none
     "description": "Sharhabil Ahmed's band and another person",
     "_date": "1984",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-12-012",
     "label": "",
     "lunr_index": 365
@@ -4402,6 +4768,7 @@ layout: none
     "description": "party",
     "_date": "1962",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-02-007",
     "label": "",
     "lunr_index": 366
@@ -4414,6 +4781,7 @@ layout: none
     "description": "Muhammad Saroji Ahmed Daoud Mahdi 'Ali and Sharhabil Ahmed",
     "_date": "1963",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-05-001",
     "label": "",
     "lunr_index": 367
@@ -4426,6 +4794,7 @@ layout: none
     "description": "Sharhabil Ahmed with a guitar",
     "_date": "2000s",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-12-006",
     "label": "",
     "lunr_index": 368
@@ -4438,6 +4807,7 @@ layout: none
     "description": "Sharhabil Ahmed's band and others in front of a bus",
     "_date": "1964",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-09-001",
     "label": "",
     "lunr_index": 369
@@ -4450,6 +4820,7 @@ layout: none
     "description": "Sharhabil Ahmed al Tayeb Muhammad Sa'eed and another",
     "_date": "late 1950s",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-10-007",
     "label": "",
     "lunr_index": 370
@@ -4462,6 +4833,7 @@ layout: none
     "description": "Abdel Rahman Ali Taha, Minister of Education, and Abdullah Khalil wit ha group of scouts from the right: Ali Badri, Minister of Health, Abdel Rahman Ali Taha, Minister of Education, and Abdullah Khalil with a group of scout",
     "_date": "1949",
     "on_website": "no",
+    "language": "en",
     "pid": "AAT-02-027",
     "label": "",
     "lunr_index": 371
@@ -4474,6 +4846,7 @@ layout: none
     "description": "Abdel Aziz Muhammad Daoud in theater",
     "_date": "1964",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-17-001",
     "label": "",
     "lunr_index": 372
@@ -4486,6 +4859,7 @@ layout: none
     "description": "Sharhabil Ahmed",
     "_date": "2003-2004",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-16-019",
     "label": "",
     "lunr_index": 373
@@ -4498,6 +4872,7 @@ layout: none
     "description": "The Scout Abdel Rahman Ali Taha",
     "_date": "1927-1934",
     "on_website": "no",
+    "language": "en",
     "pid": "AAT-02-013",
     "label": "",
     "lunr_index": 374
@@ -4510,6 +4885,7 @@ layout: none
     "description": "Abdel Rahman Ali Taha at his inauguration as the first Minister of Education in Sudan",
     "_date": "1949",
     "on_website": "no",
+    "language": "en",
     "pid": "AAT-02-003",
     "label": "",
     "lunr_index": 375
@@ -4522,6 +4898,7 @@ layout: none
     "description": "crowd of Kuwaitis",
     "_date": "1964",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-17-011",
     "label": "",
     "lunr_index": 376
@@ -4534,6 +4911,7 @@ layout: none
     "description": "Sharhabil Ahmed with an 'oud",
     "_date": "2005",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-16-009",
     "label": "",
     "lunr_index": 377
@@ -4546,6 +4924,7 @@ layout: none
     "description": "Sharhabil Ahmed Kamil Hussain and 'Ali Yagoub Kabashi performing",
     "_date": "8/9/1977",
     "on_website": "yes",
+    "language": "en",
     "pid": "SHA-07-010",
     "label": "",
     "lunr_index": 378
@@ -4558,6 +4937,7 @@ layout: none
     "description": "Sharhabil Ahmed with government officials",
     "_date": "1970s",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-06-008",
     "label": "",
     "lunr_index": 379
@@ -4570,6 +4950,7 @@ layout: none
     "description": "Sharhabil Ahmed's band and others",
     "_date": "1965",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-09-011",
     "label": "",
     "lunr_index": 380
@@ -4582,6 +4963,7 @@ layout: none
     "description": "Band and others at Sudanese Embassy or house of ambassador",
     "_date": "1962",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-02-017",
     "label": "",
     "lunr_index": 381
@@ -4594,6 +4976,7 @@ layout: none
     "description": "Sharhabil Ahmed Kamil Hussain and Hassan Saroji dancing a traditional dance ",
     "_date": "1965",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-14-008",
     "label": "",
     "lunr_index": 382
@@ -4606,6 +4989,7 @@ layout: none
     "description": "Sharhabil Ahmed and other musicians",
     "_date": "1991",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-15-010",
     "label": "",
     "lunr_index": 383
@@ -4618,6 +5002,7 @@ layout: none
     "description": "Haile Selassie with Harambe band members Lucy Muro and Magdalene Anyango",
     "_date": "1966",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-11-014",
     "label": "",
     "lunr_index": 384
@@ -4630,6 +5015,7 @@ layout: none
     "description": "Abdel Rahman Ali Taha in Cairo during the negotiations of the independence movement with the Egyptian government led by Naguib al Hilaly",
     "_date": "1952",
     "on_website": "no",
+    "language": "en",
     "pid": "AAT-02-018",
     "label": "",
     "lunr_index": 385
@@ -4642,6 +5028,7 @@ layout: none
     "description": "Harambe band performance",
     "_date": "1966",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-11-020",
     "label": "",
     "lunr_index": 386
@@ -4654,6 +5041,7 @@ layout: none
     "description": "Sharhabil Ahmed and his band",
     "_date": "2001",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-16-012",
     "label": "",
     "lunr_index": 387
@@ -4666,6 +5054,7 @@ layout: none
     "description": "Sharhabil Ahmed Osama Abdullah Deng",
     "_date": "mid 1970s",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-03-014",
     "label": "",
     "lunr_index": 388
@@ -4678,6 +5067,7 @@ layout: none
     "description": "Sharhabil Ahmed with guitar",
     "_date": "2000s",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-03-045",
     "label": "",
     "lunr_index": 389
@@ -4690,6 +5080,7 @@ layout: none
     "description": "Opening of the Northern Sudan Advisory Council",
     "_date": "1944",
     "on_website": "no",
+    "language": "en",
     "pid": "AAT-01-001",
     "label": "",
     "lunr_index": 390
@@ -4702,6 +5093,7 @@ layout: none
     "description": "Sharhabil Ahmed and employees of the Sudanese EMbassy among them Salah Mustafa",
     "_date": "1994",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-03-071",
     "label": "",
     "lunr_index": 391
@@ -4714,6 +5106,7 @@ layout: none
     "description": "All foreign envoys and teachers including Sharhabil Ahmed and Abdel Mun'im Najjar",
     "_date": "1957-1958",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-03-020",
     "label": "",
     "lunr_index": 392
@@ -4726,6 +5119,7 @@ layout: none
     "description": "Sharhabil Ahmed and Mahdi 'Ali at wedding",
     "_date": "1960s",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-03-082",
     "label": "",
     "lunr_index": 393
@@ -4738,6 +5132,7 @@ layout: none
     "description": "Sharhabil Ahmed and Sa'eed Gasimallah",
     "_date": "1964-1965",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-04-002",
     "label": "",
     "lunr_index": 394
@@ -4750,6 +5145,7 @@ layout: none
     "description": "private concert at house of american embassy worker Musa Bahr Ibrahim Ali Nur al Jalil Sharhabil Ahmed and Ms. Beacon",
     "_date": "1959",
     "on_website": "yes",
+    "language": "en",
     "pid": "SHA-03-030",
     "label": "",
     "lunr_index": 395
@@ -4762,6 +5158,7 @@ layout: none
     "description": "Ramadan Concert Sharhabil Ahmed Kamil Hussain ٍShahira Sharhabil Nahid Sharhabil",
     "_date": "1991-1992",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-03-061",
     "label": "",
     "lunr_index": 396
@@ -4774,6 +5171,7 @@ layout: none
     "description": "Sharhabil Ahmed, his band, 'Ali Shomo, and the Sayed Taj Muhammad director of radio in airport",
     "_date": "1965",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-14-003",
     "label": "",
     "lunr_index": 397
@@ -4786,6 +5184,7 @@ layout: none
     "description": "Elections committee",
     "_date": "1953",
     "on_website": "no",
+    "language": "en",
     "pid": "AAT-01-011",
     "label": "",
     "lunr_index": 398
@@ -4798,6 +5197,7 @@ layout: none
     "description": "advertisement for Sharhabil Ahmed concert",
     "_date": "2009",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-03-055",
     "label": "",
     "lunr_index": 399
@@ -4810,6 +5210,7 @@ layout: none
     "description": "Ramadan Concert Sharhabil Ahmed Kamil Hussain ٍShahira Sharhabil Nahid Sharhabil",
     "_date": "1991-1992",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-03-004",
     "label": "",
     "lunr_index": 400
@@ -4822,6 +5223,7 @@ layout: none
     "description": "Sharhabil Ahmed with two others",
     "_date": "1998",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-16-002",
     "label": "",
     "lunr_index": 401
@@ -4834,6 +5236,7 @@ layout: none
     "description": "Sharhabil Ahmed and friends in front of statue at teaching institute",
     "_date": "1957-1958",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-01-005",
     "label": "",
     "lunr_index": 402
@@ -4846,6 +5249,7 @@ layout: none
     "description": "Letter of Abdel Rahman Ali Taha to his Father when he was a student in Gordon College",
     "_date": "1918",
     "on_website": "no",
+    "language": "en",
     "pid": "AAT-02-008",
     "label": "",
     "lunr_index": 403
@@ -4858,6 +5262,7 @@ layout: none
     "description": "Shihab Sharhabil and school children",
     "_date": "late 1970s",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-06-003",
     "label": "",
     "lunr_index": 404
@@ -4870,6 +5275,7 @@ layout: none
     "description": "Sharhabil Ahmed's band",
     "_date": "1971-1972",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-08-002",
     "label": "",
     "lunr_index": 405
@@ -4882,6 +5288,7 @@ layout: none
     "description": "crowd of fans of Sharhabil Ahmed and Harambe",
     "_date": "1966",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-11-004",
     "label": "",
     "lunr_index": 406
@@ -4894,6 +5301,7 @@ layout: none
     "description": "Reception of Harambe band at airport",
     "_date": "18/3/1966",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-11-024",
     "label": "",
     "lunr_index": 407
@@ -4906,6 +5314,7 @@ layout: none
     "description": "Sharhabil Ahmed with a guitar",
     "_date": "early 2000s",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-16-016",
     "label": "",
     "lunr_index": 408
@@ -4918,6 +5327,7 @@ layout: none
     "description": "Abdel Rahman Ali Taha lecturing in the celebration of the self-governance agreement and decision of Egypt",
     "_date": "1953",
     "on_website": "yes",
+    "language": "en",
     "pid": "AAT-02-028",
     "label": "",
     "lunr_index": 409
@@ -4930,6 +5340,7 @@ layout: none
     "description": "Sharhabil Ahmed and a friend",
     "_date": "1954-1955",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-10-008",
     "label": "",
     "lunr_index": 410
@@ -4942,6 +5353,7 @@ layout: none
     "description": "Harambe band performance",
     "_date": "1966",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-11-010",
     "label": "",
     "lunr_index": 411
@@ -4954,6 +5366,7 @@ layout: none
     "description": "Sharhabil Ahmed and two others in Ms. Beacon's house",
     "_date": "late 1950s",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-16-022",
     "label": "",
     "lunr_index": 412
@@ -4966,6 +5379,7 @@ layout: none
     "description": "Sharhabil Ahmed concert",
     "_date": "1984",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-03-024",
     "label": "",
     "lunr_index": 413
@@ -4978,6 +5392,7 @@ layout: none
     "description": "Sharhabil Ahmed and Kamil Hussain",
     "_date": "1957-1958",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-12-009",
     "label": "",
     "lunr_index": 414
@@ -4990,6 +5405,7 @@ layout: none
     "description": "Sharhabil Ahmed with guitar",
     "_date": "2000s",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-03-075",
     "label": "",
     "lunr_index": 415
@@ -5002,6 +5418,7 @@ layout: none
     "description": "Sharhabil Ahmed Kamil Hussain and Hassan Saroji dancing a traditional dance ",
     "_date": "1965",
     "on_website": "yes",
+    "language": "en ",
     "pid": "SHA-03-041",
     "label": "",
     "lunr_index": 416
@@ -5014,6 +5431,7 @@ layout: none
     "description": "Convening of Sudanese Parliament",
     "_date": "1954",
     "on_website": "no",
+    "language": "en",
     "pid": "AAT-01-005",
     "label": "",
     "lunr_index": 417
@@ -5026,6 +5444,7 @@ layout: none
     "description": "Dancing fans in front of Sharhabil Ahmed's band",
     "_date": "1991-1995",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-03-010",
     "label": "",
     "lunr_index": 418
@@ -5038,6 +5457,7 @@ layout: none
     "description": "Lunch at restaurant among them Hassan Saroji Sid Ahmed and Osman Hussain",
     "_date": "1962",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-02-008",
     "label": "",
     "lunr_index": 419
@@ -5050,6 +5470,7 @@ layout: none
     "description": "Sharhabil Ahmed his band and some others from al Marjan festival",
     "_date": "1965",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-14-007",
     "label": "",
     "lunr_index": 420
@@ -5062,6 +5483,7 @@ layout: none
     "description": "Crowd among them Ahmed Mustafa Osman Hussain Khidir al Hawi Sharhabil Ahmed Abdel Latif Khidir al Hawi Tayuba ",
     "_date": "1962",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-02-018",
     "label": "",
     "lunr_index": 421
@@ -5074,6 +5496,7 @@ layout: none
     "description": "Hiliali negotiatons with those pushing for independence",
     "_date": "1952",
     "on_website": "no",
+    "language": "en",
     "pid": "AAT-01-015",
     "label": "",
     "lunr_index": 422
@@ -5086,6 +5509,7 @@ layout: none
     "description": "Sharhabil Ahmed and band performing ",
     "_date": "2000",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-03-051",
     "label": "",
     "lunr_index": 423
@@ -5098,6 +5522,7 @@ layout: none
     "description": "Ramadan concert Adam Khalil 'Ali Yagoub Kamil Hussain",
     "_date": "1991-1992",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-03-065",
     "label": "",
     "lunr_index": 424
@@ -5110,6 +5535,7 @@ layout: none
     "description": "Sharhabil Ahmed Kamil Hussain and Hassan Saroji dancing a traditional dance ",
     "_date": "1965",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-13-001",
     "label": "",
     "lunr_index": 425
@@ -5122,6 +5548,7 @@ layout: none
     "description": "Concert with children Sharhabil Ahmed Kamil Hussain Mahdi 'Ali Imam and Ahmed Ibrahim Daoud",
     "_date": "1965",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-03-034",
     "label": "",
     "lunr_index": 426
@@ -5134,6 +5561,7 @@ layout: none
     "description": "Sharhabil Ahmed and his band",
     "_date": "March 1982",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-06-007",
     "label": "",
     "lunr_index": 427
@@ -5146,6 +5574,7 @@ layout: none
     "description": "Sharhabil Ahmed with 'oud and two others",
     "_date": "2005",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-16-006",
     "label": "",
     "lunr_index": 428
@@ -5158,6 +5587,7 @@ layout: none
     "description": "Sharhabil Ahmed sitting behind statues of lions in garden",
     "_date": "1957-1958",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-01-001",
     "label": "",
     "lunr_index": 429
@@ -5170,6 +5600,7 @@ layout: none
     "description": "Sharhabil Ahmed with an 'oud",
     "_date": "2002-2004",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-16-017",
     "label": "",
     "lunr_index": 430
@@ -5182,6 +5613,7 @@ layout: none
     "description": "Abdel Rahman Ali Taha speaks to crowds greeting the Sayed Abdel Rahman al Mahdi after his return from his trip to London and Cairo",
     "_date": "1952",
     "on_website": "no",
+    "language": "en",
     "pid": "AAT-02-029",
     "label": "",
     "lunr_index": 431
@@ -5194,6 +5626,7 @@ layout: none
     "description": "Harambe band performance",
     "_date": "1966",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-11-011",
     "label": "",
     "lunr_index": 432
@@ -5206,6 +5639,7 @@ layout: none
     "description": "Sharhabil Ahmed and al Tayeb Muhammad Sa'eed",
     "_date": "1958",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-10-009",
     "label": "",
     "lunr_index": 433
@@ -5218,6 +5652,7 @@ layout: none
     "description": "Sharhabil Ahmed Sayed Ahmed and Afar Katho",
     "_date": "1972",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-16-023",
     "label": "",
     "lunr_index": 434
@@ -5230,6 +5665,7 @@ layout: none
     "description": "Sharhabil Ahmed and Jaylan al Wathiq ",
     "_date": "1984",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-12-008",
     "label": "",
     "lunr_index": 435
@@ -5242,6 +5678,7 @@ layout: none
     "description": "Sharhabil Ahmed concert with 'Ali Yagoub Muhammad Mustafa Sharhabil Ahmed Kamil Hussain and Wahid Deng",
     "_date": "1980s",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-03-025",
     "label": "",
     "lunr_index": 436
@@ -5254,6 +5691,7 @@ layout: none
     "description": "Sharhabil Ahmed with guitar",
     "_date": "2000s",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-03-074",
     "label": "",
     "lunr_index": 437
@@ -5266,6 +5704,7 @@ layout: none
     "description": "Sharhabil Ahmed and band",
     "_date": "1965",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-03-040",
     "label": "",
     "lunr_index": 438
@@ -5278,6 +5717,7 @@ layout: none
     "description": "Members of the Executive Council",
     "_date": "1949",
     "on_website": "no",
+    "language": "en",
     "pid": "AAT-01-004",
     "label": "",
     "lunr_index": 439
@@ -5290,6 +5730,7 @@ layout: none
     "description": "Crowd in front of Cinema Empire",
     "_date": "1962",
     "on_website": "yes",
+    "language": "en ",
     "pid": "SHA-02-009",
     "label": "",
     "lunr_index": 440
@@ -5302,6 +5743,7 @@ layout: none
     "description": "Ahmed Daoud and Muhammadiya in the airport",
     "_date": "1963-1964",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-03-011",
     "label": "",
     "lunr_index": 441
@@ -5314,6 +5756,7 @@ layout: none
     "description": "Sharhabil Ahmed his band and some others from al Marjan festival",
     "_date": "1965",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-14-006",
     "label": "",
     "lunr_index": 442
@@ -5326,6 +5769,7 @@ layout: none
     "description": "Hilal Youth Team among them Kamil Hussain Sharhabil Ahmed al Na'im Farajallah 'Awad Siddiq Abdel Rahman Gasim al Sid Abu Shanab 'Awadain 'Abdu Abdel Gadir Kamal Muhammad Yusef",
     "_date": "1953-1954",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-03-001",
     "label": "",
     "lunr_index": 443
@@ -5338,6 +5782,7 @@ layout: none
     "description": "Graduation at Khartoum University including Abdel Rahman Ali Taha and others",
     "_date": "1967",
     "on_website": "no",
+    "language": "en",
     "pid": "AAT-01-014",
     "label": "",
     "lunr_index": 444
@@ -5350,6 +5795,7 @@ layout: none
     "description": "Sharhabil Ahmed with guitar",
     "_date": "2000s",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-03-050",
     "label": "",
     "lunr_index": 445
@@ -5362,6 +5808,7 @@ layout: none
     "description": "Shihab Sharhabil and five others around a table",
     "_date": "late 1990s",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-03-064",
     "label": "",
     "lunr_index": 446
@@ -5374,6 +5821,7 @@ layout: none
     "description": "Sharhabil Ahmed band with 'Ali Nur al Jalil Sharhabil Ahmed Abdel Latif Khidir Tayuba Hassan Saroji",
     "_date": "1962",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-03-035",
     "label": "",
     "lunr_index": 447
@@ -5386,6 +5834,7 @@ layout: none
     "description": "Ali Yagoub Kabashi",
     "_date": "1980s",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-06-006",
     "label": "",
     "lunr_index": 448
@@ -5398,6 +5847,7 @@ layout: none
     "description": "Sharhabil Ahmed and military officer in airport",
     "_date": "1966",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-11-001",
     "label": "",
     "lunr_index": 449
@@ -5410,6 +5860,7 @@ layout: none
     "description": "Sharhabil Ahmed and his band",
     "_date": "1995",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-16-007",
     "label": "",
     "lunr_index": 450
@@ -5422,6 +5873,7 @@ layout: none
     "description": "Reception of Harambe band at airport with lion",
     "_date": "1966",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-11-015",
     "label": "",
     "lunr_index": 451
@@ -5434,6 +5886,7 @@ layout: none
     "description": "Abdel Rahman Ali Taha and his brother Abdel Raziq Ali Taha and Tayeb Ali Taha",
     "_date": "1965",
     "on_website": "no",
+    "language": "en",
     "pid": "AAT-02-019",
     "label": "",
     "lunr_index": 452
@@ -5446,6 +5899,7 @@ layout: none
     "description": "Group of soldiers",
     "_date": "1966",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-11-021",
     "label": "",
     "lunr_index": 453
@@ -5458,6 +5912,7 @@ layout: none
     "description": "Sharhabil Ahmed with an 'oud and his band",
     "_date": "2001",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-16-013",
     "label": "",
     "lunr_index": 454
@@ -5470,6 +5925,7 @@ layout: none
     "description": "Sharhabil Ahmed",
     "_date": "1971-1975",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-03-015",
     "label": "",
     "lunr_index": 455
@@ -5482,6 +5938,7 @@ layout: none
     "description": "Sharhabil Ahmed with guitar",
     "_date": "2000s",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-03-044",
     "label": "",
     "lunr_index": 456
@@ -5494,6 +5951,7 @@ layout: none
     "description": "Sharhabil Ahmed with guitar",
     "_date": "1965",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-03-070",
     "label": "",
     "lunr_index": 457
@@ -5506,6 +5964,7 @@ layout: none
     "description": "Advertisement for Sharhabil Ahmed concert",
     "_date": "2004",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-03-021",
     "label": "",
     "lunr_index": 458
@@ -5518,6 +5977,7 @@ layout: none
     "description": "Ramadan Concert Sharhabil Ahmed Kamil Hussain ٍShahira Sharhabil Nahid Sharhabil",
     "_date": "1991-1992",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-03-083",
     "label": "",
     "lunr_index": 459
@@ -5530,6 +5990,7 @@ layout: none
     "description": "Sharhabil Ahmed with al Subyan ",
     "_date": "1964-1965",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-04-003",
     "label": "",
     "lunr_index": 460
@@ -5542,6 +6003,7 @@ layout: none
     "description": "Concert Sharhabil Ahmed 'Ali Yagoub Kabashi Adam Khalil al Bushi Kamil Hussain and 'Adil Kukab",
     "_date": "August, 1991",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-03-031",
     "label": "",
     "lunr_index": 461
@@ -5554,6 +6016,7 @@ layout: none
     "description": "Ramadan concert Adam Khalil 'Ali Yagoub Kamil Hussain",
     "_date": "1991-1992",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-03-060",
     "label": "",
     "lunr_index": 462
@@ -5566,6 +6029,7 @@ layout: none
     "description": "Hassan Saroji",
     "_date": "1965",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-14-002",
     "label": "",
     "lunr_index": 463
@@ -5578,6 +6042,7 @@ layout: none
     "description": "Abdel Rahmand al Mahdi, Siddiq al Mahdi, and Abdel Rahman Ali Taha",
     "_date": "1952",
     "on_website": "no",
+    "language": "en",
     "pid": "AAT-01-010",
     "label": "",
     "lunr_index": 464
@@ -5590,6 +6055,7 @@ layout: none
     "description": "Sharhabil Ahmed",
     "_date": "1964-1965",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-03-054",
     "label": "",
     "lunr_index": 465
@@ -5602,6 +6068,7 @@ layout: none
     "description": "Ramadan Concert Sharhabil Ahmed Kamil Hussain 'Ali Yaqoub Shihab Shahira Sharhabil Nahid Sharhabil",
     "_date": "1991-1992",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-03-005",
     "label": "",
     "lunr_index": 466
@@ -5614,6 +6081,7 @@ layout: none
     "description": "Sharhabil Ahmed playing 'oud",
     "_date": "1998",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-16-003",
     "label": "",
     "lunr_index": 467
@@ -5626,6 +6094,7 @@ layout: none
     "description": "Sharhabil Ahmed in front of statue ",
     "_date": "1957-1958",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-01-004",
     "label": "",
     "lunr_index": 468
@@ -5638,6 +6107,7 @@ layout: none
     "description": "Abdel Rahman Ali Taha with one of the southerner members of the Legislative Assembly",
     "_date": "1950",
     "on_website": "no",
+    "language": "en",
     "pid": "AAT-02-009",
     "label": "",
     "lunr_index": 469
@@ -5650,6 +6120,7 @@ layout: none
     "description": "Stokeley Carmichael visiting with members of \"Jazz Club Number 1\"",
     "_date": "late 1960s",
     "on_website": "yes",
+    "language": "en",
     "pid": "SHA-06-002",
     "label": "",
     "lunr_index": 470
@@ -5662,6 +6133,7 @@ layout: none
     "description": "Sharhabil Ahmed and his band",
     "_date": "1971-1972",
     "on_website": "yes",
+    "language": "en ",
     "pid": "SHA-08-003",
     "label": "",
     "lunr_index": 471
@@ -5674,6 +6146,7 @@ layout: none
     "description": "Harambe band performance",
     "_date": "1966",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-11-005",
     "label": "",
     "lunr_index": 472
@@ -5686,6 +6159,7 @@ layout: none
     "description": "Sharhabil Ahmed with an 'oud",
     "_date": "2004-2005",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-16-014",
     "label": "",
     "lunr_index": 473
@@ -5698,6 +6172,7 @@ layout: none
     "description": "Sharhabil Ahmed with a guitar",
     "_date": "2000",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-16-020",
     "label": "",
     "lunr_index": 474
@@ -5710,6 +6185,7 @@ layout: none
     "description": "Harambe band performance",
     "_date": "1966",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-11-012",
     "label": "",
     "lunr_index": 475
@@ -5722,6 +6198,7 @@ layout: none
     "description": "Concert Kamil Hussain 'Ali Yagoub",
     "_date": "August 1991",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-03-084",
     "label": "",
     "lunr_index": 476
@@ -5734,6 +6211,7 @@ layout: none
     "description": "Sharhabil Ahmed",
     "_date": "1991-1995",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-03-077",
     "label": "",
     "lunr_index": 477
@@ -5746,6 +6224,7 @@ layout: none
     "description": "Sharhabhil Ahmed and band with violin and 'oud",
     "_date": "1958-1959",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-03-026",
     "label": "",
     "lunr_index": 478
@@ -5758,6 +6237,7 @@ layout: none
     "description": "Sharhabil Ahmed with guitar",
     "_date": "1980s",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-03-012",
     "label": "",
     "lunr_index": 479
@@ -5770,6 +6250,7 @@ layout: none
     "description": "Beginning of the band Kamil Hussain Sharhabil Ahmed 'Ali Nur al Jalil Hussain Babikir Awad 'Ali Akrit Ahmed Daoud ",
     "_date": "1961",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-03-043",
     "label": "",
     "lunr_index": 480
@@ -5782,6 +6263,7 @@ layout: none
     "description": "Delegation for nationalist-Egyptian government negotiations",
     "_date": "1952",
     "on_website": "no",
+    "language": "en",
     "pid": "AAT-01-007",
     "label": "",
     "lunr_index": 481
@@ -5794,6 +6276,7 @@ layout: none
     "description": "Abdel Rahman Ali Taha, his father, and others",
     "_date": "1959-1964",
     "on_website": "yes",
+    "language": "en",
     "pid": "AAT-01-017",
     "label": "",
     "lunr_index": 482
@@ -5806,6 +6289,7 @@ layout: none
     "description": "Sharhabil Ahmed",
     "_date": "1980s",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-03-053",
     "label": "",
     "lunr_index": 483
@@ -5818,6 +6302,7 @@ layout: none
     "description": "Sharhabil Ahmed",
     "_date": "December, 1971",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-03-002",
     "label": "",
     "lunr_index": 484
@@ -5830,6 +6315,7 @@ layout: none
     "description": "Sharhabil Ahmed Hassan Saroji and some others",
     "_date": "1965",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-14-005",
     "label": "",
     "lunr_index": 485
@@ -5842,6 +6328,7 @@ layout: none
     "description": "Group of artists in the Eid al Marjan festival among them Muhammad Ahmed 'Awad Musa Muhammad Ibrahim Hassan Saroji Kamil Hussain al 'Aziz al Kabli Sharhabil Ahmed al Taj Muhammad (Director of the radio) 'Ali Shomo Osman Hussain and Rabih Hassan",
     "_date": "1965",
     "on_website": "yes",
+    "language": "en",
     "pid": "SHA-03-036",
     "label": "",
     "lunr_index": 486
@@ -5854,6 +6341,7 @@ layout: none
     "description": "Sharhabil Ahmed concert celebration of a million books",
     "_date": "1991-1992",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-03-067",
     "label": "",
     "lunr_index": 487
@@ -5866,6 +6354,7 @@ layout: none
     "description": "Group of men including Salah Shahin Director Ibrahim Doweilbait Isma'il Muhammad al Amin Sharhabil Ahmed and a group of workers in the publishing house",
     "_date": "1960s",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-04-004",
     "label": "",
     "lunr_index": 488
@@ -5878,6 +6367,7 @@ layout: none
     "description": "Harambe band performance",
     "_date": "1966",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-11-002",
     "label": "",
     "lunr_index": 489
@@ -5890,6 +6380,7 @@ layout: none
     "description": "Hamid Osman",
     "_date": "1980s",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-06-005",
     "label": "",
     "lunr_index": 490
@@ -5902,6 +6393,7 @@ layout: none
     "description": "Sharhabil Ahmed and his mother",
     "_date": "1976-1977",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-01-003",
     "label": "",
     "lunr_index": 491
@@ -5914,6 +6406,7 @@ layout: none
     "description": "Sharhabil Ahmed in front of Buckingham Palace",
     "_date": "2003-2005",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-16-004",
     "label": "",
     "lunr_index": 492
@@ -5926,6 +6419,7 @@ layout: none
     "description": "Sharhabil Ahmed's band and others",
     "_date": "1964",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-09-008",
     "label": "",
     "lunr_index": 493
@@ -5938,6 +6432,7 @@ layout: none
     "description": "Sharhabil Ahmed with someone else",
     "_date": "8/9/1977",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-07-009",
     "label": "",
     "lunr_index": 494
@@ -5950,6 +6445,7 @@ layout: none
     "description": "Sharhabil Ahmed and al Min'am Najjar and others",
     "_date": "1957-1958",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-16-024",
     "label": "",
     "lunr_index": 495
@@ -5962,6 +6458,7 @@ layout: none
     "description": "Reception of Harambe band with Sadiq al Mahdi",
     "_date": "1966",
     "on_website": "yes",
+    "language": "en",
     "pid": "SHA-11-016",
     "label": "",
     "lunr_index": 496
@@ -5974,6 +6471,7 @@ layout: none
     "description": "crowd at concert of Mirghani al Mamoun and Ahmed Hassan Jum'a",
     "_date": "1964",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-17-008",
     "label": "",
     "lunr_index": 497
@@ -5986,6 +6484,7 @@ layout: none
     "description": "Sharhabil Ahmed with a guitar",
     "_date": "early 2000s ",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-16-010",
     "label": "",
     "lunr_index": 498
@@ -5998,6 +6497,7 @@ layout: none
     "description": "Commander of Ethiopian Airforce Colonel Aberra Mariam and memberr of Harambe",
     "_date": "1966",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-11-022",
     "label": "",
     "lunr_index": 499
@@ -6010,6 +6510,7 @@ layout: none
     "description": "Sharhabil Ahmed and other musicians",
     "_date": "1991",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-15-009",
     "label": "",
     "lunr_index": 500
@@ -6022,6 +6523,7 @@ layout: none
     "description": "Sharhabil Ahmed",
     "_date": "1953",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-03-047",
     "label": "",
     "lunr_index": 501
@@ -6034,6 +6536,7 @@ layout: none
     "description": "Abdel Rahman Ali Taha Minister of Education during hs visit to America shaking hands with Dr. Bagolo, President of the Education Conference",
     "_date": "1949",
     "on_website": "no",
+    "language": "en",
     "pid": "AAT-01-003",
     "label": "",
     "lunr_index": 502
@@ -6046,6 +6549,7 @@ layout: none
     "description": "Sharhabil Ahmed",
     "_date": "1980s",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-03-016",
     "label": "",
     "lunr_index": 503
@@ -6058,6 +6562,7 @@ layout: none
     "description": "Sharhabil Ahmed with flute",
     "_date": "1965",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-03-080",
     "label": "",
     "lunr_index": 504
@@ -6070,6 +6575,7 @@ layout: none
     "description": "Concert Sharhabil Ahmed Muhammad Dallo Ibrahim Omer 'Adil Kukab",
     "_date": "1991",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-03-022",
     "label": "",
     "lunr_index": 505
@@ -6082,6 +6588,7 @@ layout: none
     "description": "Concert Sharhabil Ahmed Kemal Kela Salah Bashir and Zakia Abu Gasim",
     "_date": "1978",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-03-073",
     "label": "",
     "lunr_index": 506
@@ -6094,6 +6601,7 @@ layout: none
     "description": "Ramadan concert Adam Khalil 'Ali Yagoub Kamil Hussain",
     "_date": "1991-1992",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-03-063",
     "label": "",
     "lunr_index": 507
@@ -6106,6 +6614,7 @@ layout: none
     "description": "Group in front of airplane includes Abdel Aziz Muhammad Daoud Badi Muhammad al Tayeb and Somali Musician Mariam",
     "_date": "1969",
     "on_website": "yes",
+    "language": "en",
     "pid": "SHA-03-032",
     "label": "",
     "lunr_index": 508
@@ -6118,6 +6627,7 @@ layout: none
     "description": "Sharhabil Ahmed at Arab Cultural Capital",
     "_date": "2005",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-03-006",
     "label": "",
     "lunr_index": 509
@@ -6130,6 +6640,7 @@ layout: none
     "description": "Abdel Rahman Ali Taha and Abdel Rahman al Mahdi",
     "_date": "1952",
     "on_website": "no",
+    "language": "en",
     "pid": "AAT-01-013",
     "label": "",
     "lunr_index": 510
@@ -6142,6 +6653,7 @@ layout: none
     "description": "Sharhabil Ahmed with group of people sitting at tables",
     "_date": "1980s-1990s",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-03-057",
     "label": "",
     "lunr_index": 511
@@ -6154,6 +6666,7 @@ layout: none
     "description": "Hassan Saroji and Sharhabil Ahmed",
     "_date": "1963",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-14-001",
     "label": "",
     "lunr_index": 512
@@ -6166,6 +6679,7 @@ layout: none
     "description": "Harambe band performance",
     "_date": "1966",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-11-006",
     "label": "",
     "lunr_index": 513
@@ -6178,6 +6692,7 @@ layout: none
     "description": "Sharhabil Ahmed at a conference",
     "_date": "1990",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-06-001",
     "label": "",
     "lunr_index": 514
@@ -6190,6 +6705,7 @@ layout: none
     "description": "Sharhabil Ahmed's band and others",
     "_date": "1964",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-09-009",
     "label": "",
     "lunr_index": 515
@@ -6202,6 +6718,7 @@ layout: none
     "description": "Sharhabil Ahmed and classmates",
     "_date": "1957-1959",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-16-025",
     "label": "",
     "lunr_index": 516
@@ -6214,6 +6731,7 @@ layout: none
     "description": "Sharhabil Ahmed ",
     "_date": "8/9/1977",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-07-008",
     "label": "",
     "lunr_index": 517
@@ -6226,6 +6744,7 @@ layout: none
     "description": "Reception of Harambe band at airport with lion",
     "_date": "1966",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-11-017",
     "label": "",
     "lunr_index": 518
@@ -6238,6 +6757,7 @@ layout: none
     "description": "Crowd at Sharhabil Ahmed concert",
     "_date": "2001",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-16-011",
     "label": "",
     "lunr_index": 519
@@ -6250,6 +6770,7 @@ layout: none
     "description": "Ahmed al Mustafa with 'oud",
     "_date": "1964",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-17-009",
     "label": "",
     "lunr_index": 520
@@ -6262,6 +6783,7 @@ layout: none
     "description": "Harambe band performance",
     "_date": "1966",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-11-023",
     "label": "",
     "lunr_index": 521
@@ -6274,6 +6796,7 @@ layout: none
     "description": "Sharhabil Ahmed and other musicians performing in the national theater",
     "_date": "1962",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-15-008",
     "label": "",
     "lunr_index": 522
@@ -6286,6 +6809,7 @@ layout: none
     "description": "Sharhabil Ahmed",
     "_date": "1960s",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-03-046",
     "label": "",
     "lunr_index": 523
@@ -6298,6 +6822,7 @@ layout: none
     "description": "Signing of an agreement between nationalists and the Egyptian government",
     "_date": "1952",
     "on_website": "no",
+    "language": "en",
     "pid": "AAT-01-002",
     "label": "",
     "lunr_index": 524
@@ -6310,6 +6835,7 @@ layout: none
     "description": "Sharhabil Ahmed and band Abu Dhabi Television Theater Concert",
     "_date": "1976-1977",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-03-017",
     "label": "",
     "lunr_index": 525
@@ -6322,6 +6848,7 @@ layout: none
     "description": "Sharhabil Ahmed",
     "_date": "1957-1959",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-03-081",
     "label": "",
     "lunr_index": 526
@@ -6334,6 +6861,7 @@ layout: none
     "description": "Concert Sharhabil Ahmed Osama Abullah Deng",
     "_date": "1970s",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-03-023",
     "label": "",
     "lunr_index": 527
@@ -6346,6 +6874,7 @@ layout: none
     "description": "Sharhabil Ahmed Muhammad Wardi and Minister Abdel Basil",
     "_date": "2000s",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-03-072",
     "label": "",
     "lunr_index": 528
@@ -6358,6 +6887,7 @@ layout: none
     "description": "Ali Yagoub Adam Khalil Kamil Hussain performing",
     "_date": "1993",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-03-062",
     "label": "",
     "lunr_index": 529
@@ -6370,6 +6900,7 @@ layout: none
     "description": "Sharhabil Ahmed with guitar",
     "_date": "1960s",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-03-033",
     "label": "",
     "lunr_index": 530
@@ -6382,6 +6913,7 @@ layout: none
     "description": "Director Mahdi 'Ali Sharafi Chief Editor of Sibyan Rida Muhammad Osman Editor Muhammad Osman al Shaigi",
     "_date": "1964-1965",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-04-001",
     "label": "",
     "lunr_index": 531
@@ -6394,6 +6926,7 @@ layout: none
     "description": "Sharhabil Ahmed and three others",
     "_date": "1960s",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-03-007",
     "label": "",
     "lunr_index": 532
@@ -6406,6 +6939,7 @@ layout: none
     "description": "Opening of the Legislative Assembly",
     "_date": "12/12/1948",
     "on_website": "no",
+    "language": "en",
     "pid": "AAT-01-012",
     "label": "",
     "lunr_index": 533
@@ -6418,6 +6952,7 @@ layout: none
     "description": "Sharhabil Ahmed with friends including Kamil Hussain and Adam Khalil",
     "_date": "1993",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-03-056",
     "label": "",
     "lunr_index": 534
@@ -6430,6 +6965,7 @@ layout: none
     "description": "Sharhabil Ahmed in crowd",
     "_date": "1993-1995",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-16-001",
     "label": "",
     "lunr_index": 535
@@ -6442,6 +6978,7 @@ layout: none
     "description": "Harambe band performance",
     "_date": "1966",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-11-007",
     "label": "",
     "lunr_index": 536
@@ -6454,6 +6991,7 @@ layout: none
     "description": "Mahdi 'Ali Kamil Hussain Sharhabil Ahmed and a fan",
     "_date": "6/12/1964",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-08-001",
     "label": "",
     "lunr_index": 537
@@ -6466,6 +7004,7 @@ layout: none
     "description": "Sharhabil Ahmed's band",
     "_date": "early 2000s",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-16-015",
     "label": "",
     "lunr_index": 538
@@ -6478,6 +7017,7 @@ layout: none
     "description": "Sharhabil Ahmed with a guitar",
     "_date": "early 2000s",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-16-021",
     "label": "",
     "lunr_index": 539
@@ -6490,6 +7030,7 @@ layout: none
     "description": "Sudanese Ambassador Sayed Mirghani and Kenyan government officials welcoming Harambe ",
     "_date": "1966",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-11-013",
     "label": "",
     "lunr_index": 540
@@ -6502,6 +7043,7 @@ layout: none
     "description": "portrait of band with Kojaja Adam Khalil Sharhabil Ahmed 'Ali Yagoub Kamil Hussain Abdel Aziz",
     "_date": "October 27 1990",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-03-085",
     "label": "",
     "lunr_index": 541
@@ -6514,6 +7056,7 @@ layout: none
     "description": "concert with Sharhabil Ahmed 'Ali Yagoub Shihab Sharhabil Adam Khalil and Kamil Hussain",
     "_date": "1995",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-03-076",
     "label": "",
     "lunr_index": 542
@@ -6526,6 +7069,7 @@ layout: none
     "description": "Ramadan Concert Sharhabil Ahmed Kamil Hussain 'Ali Yaqoub Shihab Shahira Sharhabil Nahid Sharhabil",
     "_date": "1991-1992",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-03-027",
     "label": "",
     "lunr_index": 543
@@ -6538,6 +7082,7 @@ layout: none
     "description": "Sharhabil Ahmed",
     "_date": "1965-1967",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-03-013",
     "label": "",
     "lunr_index": 544
@@ -6550,6 +7095,7 @@ layout: none
     "description": "Article about Sharhabil Ahmed",
     "_date": "1960s",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-03-042",
     "label": "",
     "lunr_index": 545
@@ -6562,6 +7108,7 @@ layout: none
     "description": "President Azhari and Sheikh Babikir Bedri at the opening of Parliament",
     "_date": "1954",
     "on_website": "no",
+    "language": "en",
     "pid": "AAT-01-006",
     "label": "",
     "lunr_index": 546
@@ -6574,6 +7121,7 @@ layout: none
     "description": "Abdel Rahman Ali Taha and others",
     "_date": "1940",
     "on_website": "no",
+    "language": "en",
     "pid": "AAT-01-016",
     "label": "",
     "lunr_index": 547
@@ -6586,6 +7134,7 @@ layout: none
     "description": "Sharhabil Ahmed performing in concert benefitting Save the Children",
     "_date": "1980s",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-03-052",
     "label": "",
     "lunr_index": 548
@@ -6598,6 +7147,7 @@ layout: none
     "description": "Sharhabil Ahmed",
     "_date": "December, 1971",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-03-003",
     "label": "",
     "lunr_index": 549
@@ -6610,6 +7160,7 @@ layout: none
     "description": "Sharhabil Ahmed and his band",
     "_date": "1965",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-14-004",
     "label": "",
     "lunr_index": 550
@@ -6622,6 +7173,7 @@ layout: none
     "description": "group of men and women new years eve party",
     "_date": "1971-1972",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-03-037",
     "label": "",
     "lunr_index": 551
@@ -6634,6 +7186,7 @@ layout: none
     "description": "concert with 'Ali Yagoub Shihab Sharhabil Adam Khalil and Kamil Hussain",
     "_date": "1995",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-03-066",
     "label": "",
     "lunr_index": 552
@@ -6646,6 +7199,7 @@ layout: none
     "description": "Harambe band performance",
     "_date": "1966",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-11-003",
     "label": "",
     "lunr_index": 553
@@ -6658,6 +7212,7 @@ layout: none
     "description": "Drummer in Sharhabil Ahmed's band, Ethiopian-Sudanese, named 'Adil",
     "_date": "1971-1972",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-06-004",
     "label": "",
     "lunr_index": 554
@@ -6670,6 +7225,7 @@ layout: none
     "description": "Gathering of foreign country envoys including Sharhabil Ahmed, Abdel Mun'im Najjar, Abdel Halim Berjini",
     "_date": "1957-1958",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-01-002",
     "label": "",
     "lunr_index": 555
@@ -6682,6 +7238,7 @@ layout: none
     "description": "Sharhabil Ahmed in front of Buckingham Palace",
     "_date": "2003-2005",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-16-005",
     "label": "",
     "lunr_index": 556
@@ -6694,6 +7251,7 @@ layout: none
     "description": "Sharhabil Ahmed and Harry Balafonte performing",
     "_date": "1988",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-12-001",
     "label": "",
     "lunr_index": 557
@@ -6706,6 +7264,7 @@ layout: none
     "description": "Sharhabil Ahmed with two others",
     "_date": "early 1960s",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-05-006",
     "label": "",
     "lunr_index": 558
@@ -6718,6 +7277,7 @@ layout: none
     "description": "Concert with children Sharhabil Ahmed Kamil Hussain Mahdi 'Ali Imam and Ahmed Ibrahim Daoud",
     "_date": "1965",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-03-018",
     "label": "",
     "lunr_index": 559
@@ -6730,6 +7290,7 @@ layout: none
     "description": "advertisement for Sharhabil Ahmed concert",
     "_date": "early 2000s",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-03-049",
     "label": "",
     "lunr_index": 560
@@ -6742,6 +7303,7 @@ layout: none
     "description": "Sharhabil Ahmed Ahmed Mustafa and many other musicians performing in national theater",
     "_date": "1962",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-15-007",
     "label": "",
     "lunr_index": 561
@@ -6754,6 +7316,7 @@ layout: none
     "description": "Abdel Rahman Ali Taha at Gordon College ",
     "_date": "1927",
     "on_website": "no",
+    "language": "en",
     "pid": "AAT-02-014",
     "label": "",
     "lunr_index": 562
@@ -6766,6 +7329,7 @@ layout: none
     "description": "Ahmed Hassan Jum'a",
     "_date": "1964",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-17-006",
     "label": "",
     "lunr_index": 563
@@ -6778,6 +7342,7 @@ layout: none
     "description": "Reception of Harambe with President al Azhari",
     "_date": "1966",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-11-018",
     "label": "",
     "lunr_index": 564
@@ -6790,6 +7355,7 @@ layout: none
     "description": "Abdel Rahman AliTaha and the Sayed Abdel Rahman al Mahdi in a celebration of the Independence movement's agreement with the Egyptian government",
     "_date": "29/10/1952",
     "on_website": "no",
+    "language": "en",
     "pid": "AAT-02-020",
     "label": "",
     "lunr_index": 565
@@ -6802,6 +7368,7 @@ layout: none
     "description": "Sharhabil Ahmed's band and others",
     "_date": "1964",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-09-006",
     "label": "",
     "lunr_index": 566
@@ -6814,6 +7381,7 @@ layout: none
     "description": "Sharhabil Ahmed and another person at concert",
     "_date": "8/9/1977",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-07-007",
     "label": "",
     "lunr_index": 567
@@ -6826,6 +7394,7 @@ layout: none
     "description": "Harambe received by President al Azhari",
     "_date": "1966",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-11-008",
     "label": "",
     "lunr_index": 568
@@ -6838,6 +7407,7 @@ layout: none
     "description": "Kamil Hussain",
     "_date": "1959-1960",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-10-010",
     "label": "",
     "lunr_index": 569
@@ -6850,6 +7420,7 @@ layout: none
     "description": "Abdel Rahman Ali Taha, Minister of Education",
     "_date": "1949",
     "on_website": "no",
+    "language": "en",
     "pid": "AAT-02-004",
     "label": "",
     "lunr_index": 570
@@ -6862,6 +7433,7 @@ layout: none
     "description": "Sharhabil Ahmed concert celebration of a million books",
     "_date": "1991-1992",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-03-059",
     "label": "",
     "lunr_index": 571
@@ -6874,6 +7446,7 @@ layout: none
     "description": "Band meeting ",
     "_date": "1962",
     "on_website": "yes",
+    "language": "en",
     "pid": "SHA-02-010",
     "label": "",
     "lunr_index": 572
@@ -6886,6 +7459,7 @@ layout: none
     "description": "Sharhabil Ahmed with a guitar",
     "_date": "c. 1959",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-03-008",
     "label": "",
     "lunr_index": 573
@@ -6898,6 +7472,7 @@ layout: none
     "description": "Sharhabil Ahmed and band with another person",
     "_date": "1984",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-12-011",
     "label": "",
     "lunr_index": 574
@@ -6910,6 +7485,7 @@ layout: none
     "description": "From the left, Nasri Hamza, headmaster of Khor Thaggat secondary school and Abdel Rahman Ali Taha shaking hands on the day of the opening of the school",
     "_date": "1950",
     "on_website": "no",
+    "language": "en",
     "pid": "AAT-01-009",
     "label": "",
     "lunr_index": 575
@@ -6922,6 +7498,7 @@ layout: none
     "description": "Group of Sudanese diplomats accompanying band including Khidir al Hawi Abdel Latif al Hawi and Hassan Saroji",
     "_date": "1962",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-02-004",
     "label": "",
     "lunr_index": 576
@@ -6934,6 +7511,7 @@ layout: none
     "description": "Sharhabil Ahmed and other envoys for concert",
     "_date": "1991",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-15-003",
     "label": "",
     "lunr_index": 577
@@ -6946,6 +7524,7 @@ layout: none
     "description": "Sharhabil Ahmed",
     "_date": "2000s",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-03-028",
     "label": "",
     "lunr_index": 578
@@ -6958,6 +7537,7 @@ layout: none
     "description": "Sharhabil Ahmed with a guitar",
     "_date": "2000s",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-12-005",
     "label": "",
     "lunr_index": 579
@@ -6970,6 +7550,7 @@ layout: none
     "description": "Sharhabil Ahmed",
     "_date": "1965",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-03-079",
     "label": "",
     "lunr_index": 580
@@ -6982,6 +7563,7 @@ layout: none
     "description": "Postcard of the Kaaba",
     "_date": "",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-05-002",
     "label": "",
     "lunr_index": 581
@@ -6994,6 +7576,7 @@ layout: none
     "description": "The Independence movement's delegation in negotiations with al Hilaly in a celebration held for them by Abdel Rahman Azzam, the Secretary General of the Arab Nations' University",
     "_date": "1952",
     "on_website": "no",
+    "language": "en",
     "pid": "AAT-02-024",
     "label": "",
     "lunr_index": 582
@@ -7006,6 +7589,7 @@ layout: none
     "description": "Friends of Sharhabil Ahmed dancing",
     "_date": "1969-1970",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-10-004",
     "label": "",
     "lunr_index": 583
@@ -7018,6 +7602,7 @@ layout: none
     "description": "Sharhabil Ahmed's band and fans",
     "_date": "1964",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-09-002",
     "label": "",
     "lunr_index": 584
@@ -7030,6 +7615,7 @@ layout: none
     "description": "Sharhabil Ahmed and Radio Announcer Faisal at concert",
     "_date": "7/9/1977",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-07-003",
     "label": "",
     "lunr_index": 585
@@ -7042,6 +7628,7 @@ layout: none
     "description": "photo of the Executive Council with the Governor General",
     "_date": "1953",
     "on_website": "no",
+    "language": "en",
     "pid": "AAT-02-010",
     "label": "",
     "lunr_index": 586
@@ -7054,6 +7641,7 @@ layout: none
     "description": "Two Kuwaiti officials",
     "_date": "1964",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-17-002",
     "label": "",
     "lunr_index": 587
@@ -7066,6 +7654,7 @@ layout: none
     "description": "Kuwaiti official",
     "_date": "1964",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-17-012",
     "label": "",
     "lunr_index": 588
@@ -7078,6 +7667,7 @@ layout: none
     "description": "Sharhabil Ahmed's band and others",
     "_date": "1964",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-09-012",
     "label": "",
     "lunr_index": 589
@@ -7090,6 +7680,7 @@ layout: none
     "description": "Sharhabil Ahmed and friends dancing",
     "_date": "1969-1970",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-10-014",
     "label": "",
     "lunr_index": 590
@@ -7102,6 +7693,7 @@ layout: none
     "description": "Sharhabil Ahmed with guitar",
     "_date": "2000s",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-03-069",
     "label": "",
     "lunr_index": 591
@@ -7114,6 +7706,7 @@ layout: none
     "description": "Band in front of the ocean",
     "_date": "1965",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-03-038",
     "label": "",
     "lunr_index": 592
@@ -7126,6 +7719,7 @@ layout: none
     "description": "Sharhabil Ahmed his band and employees of the Sudanese embassy",
     "_date": "1962",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-15-013",
     "label": "",
     "lunr_index": 593
@@ -7138,6 +7732,7 @@ layout: none
     "description": "Ahmed Daoud and Hassan Saroji performing Ager Fakkir theater",
     "_date": "1962",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-02-014",
     "label": "",
     "lunr_index": 594
@@ -7150,6 +7745,7 @@ layout: none
     "description": "Delegation for Sudanese-Egyptian negotiations",
     "_date": "1952",
     "on_website": "no",
+    "language": "en",
     "pid": "AAT-01-008",
     "label": "",
     "lunr_index": 595
@@ -7162,6 +7758,7 @@ layout: none
     "description": "Group of men among them Khidir al Hawi Osman Hussain Sid Ahmed 'Ali Nur al Jalil Hassan Saroji Khalifallah al 'Alam Sharhabil Ahmed Ahmed Daoud Sayed Khalifa Tayuba Badr al Tahami and a small child",
     "_date": "1962",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-02-005",
     "label": "",
     "lunr_index": 596
@@ -7174,6 +7771,7 @@ layout: none
     "description": "Sharhabil Ahmed",
     "_date": "25/10/1991",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-15-002",
     "label": "",
     "lunr_index": 597
@@ -7186,6 +7784,7 @@ layout: none
     "description": "Sharhabil Ahmed with a guitar",
     "_date": "2000s",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-12-004",
     "label": "",
     "lunr_index": 598
@@ -7198,6 +7797,7 @@ layout: none
     "description": "Advertisement for Sharhabil Ahmed concert",
     "_date": "2008",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-03-029",
     "label": "",
     "lunr_index": 599
@@ -7210,6 +7810,7 @@ layout: none
     "description": "Sharhabil Ahmed and Abdel Rahman al Abanodi",
     "_date": "2002-2004",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-03-078",
     "label": "",
     "lunr_index": 600
@@ -7222,6 +7823,7 @@ layout: none
     "description": "Jazz band group with Sharhabil Ahmed and Kemal Kela",
     "_date": "late 1960s",
     "on_website": "yes",
+    "language": "en",
     "pid": "SHA-05-003",
     "label": "",
     "lunr_index": 601
@@ -7234,6 +7836,7 @@ layout: none
     "description": "Abdel Rahman Ali Taha, Dr. Ali al Badri, and Both Dio one of the southern members of the Legislative Assembly",
     "_date": "1950",
     "on_website": "yes",
+    "language": "en",
     "pid": "AAT-02-025",
     "label": "",
     "lunr_index": 602
@@ -7246,6 +7849,7 @@ layout: none
     "description": "Friends of Sharhabil Ahmed dancing",
     "_date": "1969-1970",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-10-005",
     "label": "",
     "lunr_index": 603
@@ -7258,6 +7862,7 @@ layout: none
     "description": "Sharhabil Ahmed's band and others",
     "_date": "1964",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-09-003",
     "label": "",
     "lunr_index": 604
@@ -7270,6 +7875,7 @@ layout: none
     "description": "Audience at Sharhabil Ahmed concert",
     "_date": "8/9/1977",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-07-002",
     "label": "",
     "lunr_index": 605
@@ -7282,6 +7888,7 @@ layout: none
     "description": "",
     "_date": "",
     "on_website": "no",
+    "language": "en",
     "pid": "AAT-02-011",
     "label": "",
     "lunr_index": 606
@@ -7294,6 +7901,7 @@ layout: none
     "description": "group of men after concert",
     "_date": "1964",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-17-003",
     "label": "",
     "lunr_index": 607
@@ -7306,6 +7914,7 @@ layout: none
     "description": "Sayed Khalifa on Kuwaiti Radio",
     "_date": "1964",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-17-013",
     "label": "",
     "lunr_index": 608
@@ -7318,6 +7927,7 @@ layout: none
     "description": "Abdel Rahman Ali Taha, the Minister of Education, and a group of ministers",
     "_date": "",
     "on_website": "no",
+    "language": "en",
     "pid": "AAT-02-001",
     "label": "",
     "lunr_index": 609
@@ -7330,6 +7940,7 @@ layout: none
     "description": "Sharhabil Ahmed",
     "_date": "1964",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-09-013",
     "label": "",
     "lunr_index": 610
@@ -7342,6 +7953,7 @@ layout: none
     "description": "Sharhabil Ahmed and friends",
     "_date": "1969-1970",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-10-015",
     "label": "",
     "lunr_index": 611
@@ -7354,6 +7966,7 @@ layout: none
     "description": "Syrian and Sudanese bands for festival in the hotel",
     "_date": "1965",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-03-068",
     "label": "",
     "lunr_index": 612
@@ -7366,6 +7979,7 @@ layout: none
     "description": "First band of Sharhabil Ahmed Kamil Hussain Hassan Basler and Muhammad Osman Ahmed Daoud. You can also see Abdel Gadir commander of the Police band",
     "_date": "1960",
     "on_website": "yes",
+    "language": "en ",
     "pid": "SHA-03-039",
     "label": "",
     "lunr_index": 613
@@ -7378,6 +7992,7 @@ layout: none
     "description": "Sharhabil Ahmed and others including Abdel Latif Khidir 'Ali Nur al Jalil Tayuba Hassan Saroji and Ahmed Daoud",
     "_date": "1962",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-15-012",
     "label": "",
     "lunr_index": 614
@@ -7390,6 +8005,7 @@ layout: none
     "description": "Osman Hussain's performance set with Abdel Latif Khidir Badr al Tahami Tayuba Hassan Saroji Sid Ahmed and Hussain Jad al Sid",
     "_date": "1962",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-02-015",
     "label": "",
     "lunr_index": 615
@@ -7402,6 +8018,7 @@ layout: none
     "description": "Group including Muhammad Isma'il Kamil Hussain Ahmed Daoud and Mahdi 'Ali Ibrahim",
     "_date": "1963-1964",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-05-007",
     "label": "",
     "lunr_index": 616
@@ -7414,6 +8031,7 @@ layout: none
     "description": "Ramadan Concert Sharhabil Ahmed Kamil Hussain 'Ali Yaqoub Shihab Shahira Sharhabil Nahid Sharhabil",
     "_date": "1991-1992",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-03-019",
     "label": "",
     "lunr_index": 617
@@ -7426,6 +8044,7 @@ layout: none
     "description": "Concert performance Sharhabil Ahmed and band perform in front of a dancing audience",
     "_date": "1962",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-02-001",
     "label": "",
     "lunr_index": 618
@@ -7438,6 +8057,7 @@ layout: none
     "description": "Sharhabil Ahmed",
     "_date": "1960s",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-03-048",
     "label": "",
     "lunr_index": 619
@@ -7450,6 +8070,7 @@ layout: none
     "description": "Sharhabil Ahmed other Sudanese and Ethiopian musicians and Sudanese diplomats",
     "_date": "1962",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-15-006",
     "label": "",
     "lunr_index": 620
@@ -7462,6 +8083,7 @@ layout: none
     "description": "Abdel Rahman Ali Taha during the independence negotiations with the government of Naguib al Hilali",
     "_date": "1952",
     "on_website": "no",
+    "language": "en",
     "pid": "AAT-02-015",
     "label": "",
     "lunr_index": 621
@@ -7474,6 +8096,7 @@ layout: none
     "description": "musician who performed with Ahmed Hassan Jum'a",
     "_date": "1964",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-17-007",
     "label": "",
     "lunr_index": 622
@@ -7486,6 +8109,7 @@ layout: none
     "description": "Sharhabil Ahmed and friend dancing",
     "_date": "1969-1970",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-10-001",
     "label": "",
     "lunr_index": 623
@@ -7498,6 +8122,7 @@ layout: none
     "description": "Carriage of Haile Selassie",
     "_date": "1966",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-11-019",
     "label": "",
     "lunr_index": 624
@@ -7510,6 +8135,7 @@ layout: none
     "description": "Abdel Rahman Ali Taha in an opening ceremony for Ahfad schools in Omdurman",
     "_date": "1951",
     "on_website": "yes",
+    "language": "en",
     "pid": "AAT-02-021",
     "label": "",
     "lunr_index": 625
@@ -7522,6 +8148,7 @@ layout: none
     "description": "Ahmed Ibrahim Daoud",
     "_date": "1964",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-09-007",
     "label": "",
     "lunr_index": 626
@@ -7534,6 +8161,7 @@ layout: none
     "description": "Sharhabil Ahmed and Faisal at concert",
     "_date": "7/9/1977",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-07-006",
     "label": "",
     "lunr_index": 627
@@ -7546,6 +8174,7 @@ layout: none
     "description": "Sharhabil Ahmed al Tayeb Muhammad Sa'eed and another",
     "_date": "late 1950s",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-10-011",
     "label": "",
     "lunr_index": 628
@@ -7558,6 +8187,7 @@ layout: none
     "description": "Haile Selassie in crowd",
     "_date": "1966",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-11-009",
     "label": "",
     "lunr_index": 629
@@ -7570,6 +8200,7 @@ layout: none
     "description": "Abdel Rahman Eli Taha, Minister of Education",
     "_date": "1949",
     "on_website": "no",
+    "language": "en",
     "pid": "AAT-02-005",
     "label": "",
     "lunr_index": 630
@@ -7582,6 +8213,7 @@ layout: none
     "description": "Sharhabil Ahmed and band in front of crowd in national theater",
     "_date": "1962",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-15-016",
     "label": "",
     "lunr_index": 631
@@ -7594,6 +8226,7 @@ layout: none
     "description": "Shihab Sharhabil Su'ad and Abdel 'Aziz playing guitar",
     "_date": "1996-1997",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-03-058",
     "label": "",
     "lunr_index": 632
@@ -7606,6 +8239,7 @@ layout: none
     "description": "Sharhabi Ahmed 'Ali Yagoub Kamild Hussain and Zakia Abu Gasim in concert",
     "_date": "1995",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-03-009",
     "label": "",
     "lunr_index": 633
@@ -7618,6 +8252,7 @@ layout: none
     "description": "Men in plane among them Ahmed al Mustafa Badr al Tuhami and Khalifallah Abu al Sid",
     "_date": "1962",
     "on_website": "no",
+    "language": "en ",
     "pid": "SHA-02-011",
     "label": "",
     "lunr_index": 634
@@ -7630,6 +8265,7 @@ layout: none
     "description": "Crowd at Sharhabil Ahmed concert",
     "_date": "1984",
     "on_website": "no",
+    "language": "en",
     "pid": "SHA-12-010",
     "label": "",
     "lunr_index": 635

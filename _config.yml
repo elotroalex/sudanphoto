@@ -1,57 +1,90 @@
-# Jekyll Configuration
+# Main settings
 title:
-  en: Sudan Historical Photography Archive
+  en: 'Sudan Historical Photography Archive'
   ar: أرشيف الصور التاريخية السودانية
 
 description:
-  en: A digital archive of photography of Sudan, run by the history department of Khartoum University.
+  en: 'A digital archive of photography of Sudan, run by the history department of Khartoum University.'
   ar: ارشيف الصور التاريخي في قسم التاريخ جامعة الخرطوم
 
-email: sudanphoto@uofk.edu
+email: 'sudanphoto@uofk.edu'
 
 index:
-  en: /
-  ar: /ar/index.html
-
-url:        '' # "http://sudanphoto.uofk.edu"
-baseurl:    ''
-gh-baseurl: '/sudanphoto'
-
-exclude: [ Gemfile*, vendor, Rakefile, README.md, spec, tasks ]
-include: [ _archive ]
+    en: '/'
+    ar: '/ar/index.html'
 
 # Build settings
-permalink: html
-lunr_language: true
+url:            '' # 'http://sudanphoto.uofk.edu'
+baseurl:        ''
+gh-baseurl:     '/sudanphoto'
+permalink:      'html'
+lunr_language:  true
+source:         'src'
+exclude:
+  - 'Gemfile*'
+  - 'vendor'
+  - 'Rakefile'
+  - 'README.md'
+  - 'spec'
+  - 'tasks'
+include:
+  - '_archive'
 
 collections:
   archive/ar:
-    source: archive-ar.csv
-    layout: photo-page
-    output: true
-    lunr_index:
-      content: false
-      fields: [ pid, title, rights, description, collection, _date, on_website ]
+    layout:   'photo-page'
+    output:   true
+    metadata:
+      source: 'archive-ar.csv'
   archive/en:
-    source: archive-en.csv
-    layout: photo-page
-    output: true
-    lunr_index:
-      content: false
-      fields: [ pid, title, rights, description, collection, _date, on_website ]
+    layout:   'photo-page'
+    output:   true
+    metadata:
+      source: 'archive-en.csv'
+
+
+lunr_index:
+  - file: 'js/lunr-index.json'
+    collections:
+      archive/ar:
+        content:  false
+        fields:
+          - 'title'
+          - 'rights'
+          - 'description'
+          - 'collection'
+          - '_date'
+          - 'on_website'
+          - 'language'
+      archive/en:
+        content: false
+        fields:
+          - 'title'
+          - 'rights'
+          - 'description'
+          - 'collection'
+          - '_date'
+          - 'on_website'
+          - 'language'
 
 js:
   jquery:
-    cdn: "https://code.jquery.com/jquery-3.2.1.min.js"
-    version: 3.2.1
+    cdn:      'https://code.jquery.com/jquery-3.2.1.min.js'
+    version:  '3.2.1'
   elasticlunr:
-    cdn: "https://cdnjs.cloudflare.com/ajax/libs/elasticlunr/0.9.6/elasticlunr.min.js"
-    version: 0.9.6
+    cdn:  'https://cdnjs.cloudflare.com/ajax/libs/elasticlunr/0.9.6/elasticlunr.min.js'
+    version:  '0.9.6'
 
 quoll:
   en:
     page: en/photos
-    terms: [ "band", "Ethiopia", "شرحبيل" ]
+    terms:
+      - 'band'
+      - 'Ethiopia'
+      - 'شرحبيل'
   ar:
-    page: ar/photos
-    terms: [ "band", "Ethiopia", "شرحبيل" ]
+    page:   ar/photos
+    terms:
+      - 'band'
+      - 'Ethiopia'
+      - 'شرحبيل'

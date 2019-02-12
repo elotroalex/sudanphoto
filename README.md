@@ -1,6 +1,6 @@
 # sudanphoto 🇸🇩📷
 [![Build Status](https://travis-ci.org/mnyrop/sudanphoto.svg?branch=html-proofer)](https://travis-ci.org/rmglade/sudanphoto)
-![Libraries.io for GitHub](https://img.shields.io/librariesio/github/mnyrop/sudanphoto.svg)
+[![Libraries.io for GitHub](https://img.shields.io/librariesio/github/mnyrop/sudanphoto.svg)](https://libraries.io/github/mnyrop/sudanphoto)
 
 
 A collaboration between University of Khartoum ([uofk](http://uofk.edu/index.php/en/)) & Columbia University Group for Experimental Methods in the Humanities ([xpmethod](https://github.com/xpmethod)).
@@ -19,7 +19,11 @@ To contribute changes to the site, you will need to:
 
 ### add/edit collection items
 
-To add or edit any collection items, simply replace the `archive.csv` file in the `_data` directory with your updated version. If you would like to see your updates locally before pushing them back to GitHub, just run `$ bundle exec rake process archive` before serving the site (with `$ bundle exec jekyll serve`).
+To add or edit any collection items, simply:
+- replace the `archive.csv` file in the `_data` directory with your updated version
+- run `$ bundle exec rake lint archive` to check the data
+- run `$ bundle exec rake process archive` to process the data
+- run `$ bundle exec jekyll serve` to see the new data on the site
 
 This `process` task will: split the `archive.csv` file by language, use the data to generate the archive's item pages (both Arabic and English), and regenerate the search index. Travis-CI will run this task for you, so you only need to do this step if you want to see your changes locally.
 

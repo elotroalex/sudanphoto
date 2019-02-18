@@ -1,29 +1,90 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing these this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+# Main settings
+title:
+  en: 'Sudan Historical Photography Archive'
+  ar: أرشيف الصور التاريخية السودانية
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: "ارشيف الصور السوداني"
-email: sudanhistoricalphotoarchive.history@uofk.edu
-description: > # this means to ignore newlines until "baseurl:"
-  The welcome page for the Sudan Photo Archive. This section will 
-  eventually be in Arabic
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+description:
+  en: 'A digital archive of photography of Sudan, run by the history department of Khartoum University.'
+  ar: ارشيف الصور التاريخي في قسم التاريخ جامعة الخرطوم
 
-twitter_username: not yet
+email: 'sudanphoto@uofk.edu'
 
+index:
+    en: '/'
+    ar: '/ar/index.html'
 
 # Build settings
-markdown: kramdown
-theme: minima
+url:            '' # 'http://sudanphoto.uofk.edu'
+baseurl:        ''
+gh-baseurl:     '/sudanphoto'
+permalink:      'html'
+lunr_language:  true
+source:         'src'
+exclude:
+  - 'Gemfile*'
+  - 'vendor'
+  - 'Rakefile'
+  - 'README.md'
+  - 'spec'
+  - 'tasks'
+include:
+  - '_archive'
+
+collections:
+  archive/ar:
+    layout:   'photo-page'
+    output:   true
+    metadata:
+      source: 'archive-ar.csv'
+  archive/en:
+    layout:   'photo-page'
+    output:   true
+    metadata:
+      source: 'archive-en.csv'
+
+
+lunr_index:
+  - file: 'js/lunr-index.json'
+    collections:
+      archive/ar:
+        content:  false
+        fields:
+          - 'title'
+          - 'rights'
+          - 'description'
+          - 'collection'
+          - '_date'
+          - 'on_website'
+          - 'language'
+      archive/en:
+        content: false
+        fields:
+          - 'title'
+          - 'rights'
+          - 'description'
+          - 'collection'
+          - '_date'
+          - 'on_website'
+          - 'language'
+
+js:
+  jquery:
+    cdn:      'https://code.jquery.com/jquery-3.2.1.min.js'
+    version:  '3.2.1'
+  elasticlunr:
+    cdn:  'https://cdnjs.cloudflare.com/ajax/libs/elasticlunr/0.9.6/elasticlunr.min.js'
+    version:  '0.9.6'
+
+quoll:
+  en:
+    page: en/photos
+    terms:
+      - 'band'
+      - 'Ethiopia'
+      - 'شرحبيل'
+  ar:
+    page:   ar/photos
+    terms:
+      - 'band'
+      - 'Ethiopia'
+      - 'شرحبيل'
